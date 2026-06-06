@@ -1,0 +1,452 @@
+[
+  {
+    "id": "dakigaeri-gorge",
+    "name": "Dakigaeri Gorge",
+    "prefecture": "Akita",
+    "address": "Kakunodate vicinity, Semboku, Akita",
+    "website_url": "",
+    "opening_hours": "Always open; gorge may be partially closed after heavy rain",
+    "tips": "The water turns an otherworldly aquamarine in summer when snowmelt feeds the stream. The suspension bridge 1km in gives the best view downstream. Combine with Tazawako Lake (30 min by car) for a full Akita nature day."
+  },
+  {
+    "id": "kakunodate-samurai-district",
+    "name": "Kakunodate Samurai District",
+    "prefecture": "Akita",
+    "address": "Kakunodate, Semboku, Akita",
+    "website_url": "https://www.city.semboku.akita.jp/en/sightseeing/spot/05_kakunodate.html",
+    "opening_hours": "Town always accessible; individual residences: 9:00–17:00 (Apr–Nov); 9:00–16:00 (Dec–Mar)",
+    "tips": "The samurai district's weeping cherry trees (shidarezakura) line the main street in late April — one of Tohoku's most celebrated blossom spectacles. Outside cherry season the town is very quiet — ideal for peaceful exploration of the well-preserved residences and gardens. Aneyakoji Street has the finest concentration of intact samurai buildings. Combine with Tazawako Lake (30 min by Shinkansen) in the same day."
+  },
+  {
+    "id": "lake-tazawa",
+    "name": "Lake Tazawa",
+    "prefecture": "Akita",
+    "address": "Semboku, Akita",
+    "website_url": "",
+    "opening_hours": "Lake: always open; sightseeing boat: Apr–Nov, 9:00–16:00",
+    "tips": "Japan's deepest lake (423m) never freezes due to its depth — the deep cobalt blue colour is remarkable. The Tatsuko statue (a golden maiden) on the eastern shore is the lake's symbol. Combine with Kakunodate Samurai District (30 min by Shinkansen) and Nyuto Onsen (20 min by bus) for a full Akita day."
+  },
+  {
+    "id": "moriyoshi-mountain",
+    "name": "Mt. Moriyoshi (Juhyo)",
+    "prefecture": "Akita",
+    "address": "Kita-Akita, Akita",
+    "website_url": "",
+    "opening_hours": "Gondola: 8:30–16:30 (winter ski season Dec–Mar); summer hiking: Jul–Oct; gondola may run in summer on weekends",
+    "tips": "The 'snow monsters' (juhyo) — trees encased in ice and snow — form December to February and are unique to Mt Moriyoshi and Mt Zao. The gondola rides through the juhyo field is one of Akita's most remarkable winter experiences. Book gondola tickets in advance for weekends in January–February."
+  },
+  {
+    "id": "nyuto-onsen",
+    "name": "Nyuto Onsen",
+    "prefecture": "Akita",
+    "address": "Semboku, Akita",
+    "website_url": "https://nyuto-onsenkyo.com/en/",
+    "opening_hours": "Day bathing: varies by facility, typically 10:00–15:00; combined tsuru-no-yu pass available for ¥2,500",
+    "tips": "The seven ryokan of Nyuto are each isolated in the forest with their own spring type. Tsuru-no-Yu is the most famous — its outdoor mixed bath in white milky water surrounded by forest and snow is one of Japan's iconic onsen images. Book Tsuru-no-Yu well in advance for overnight stays (often booked months ahead). Combine with Tazawako Lake and Kakunodate for a full Akita day."
+  },
+  {
+    "id": "oga-peninsula-namahage",
+    "name": "Oga Peninsula & Namahage",
+    "prefecture": "Akita",
+    "address": "Oga, Akita",
+    "website_url": "https://namahage.co.jp/namahagekan/english/",
+    "opening_hours": "Peninsula: always accessible; Namahagekan Museum: 9:30–17:00; Shinzan Shrine: open during daylight",
+    "tips": "The Namahage (demon-ogre) New Year tradition — where men in terrifying masks visit homes to discipline lazy children — is one of Japan's most dramatic folk traditions. The museum has excellent costumes and demonstrations. The actual Namahage Sedo Festival at Shinzan Shrine (second Friday–Saturday of February) is one of Japan's most intense ritual events. The Oga Peninsula coastline is dramatic year-round."
+  },
+  {
+    "id": "yokote-kamakura",
+    "name": "Yokote Kamakura Festival",
+    "prefecture": "Akita",
+    "address": "Yokote, Akita",
+    "website_url": "https://www.yokotekamakura.com/",
+    "opening_hours": "Festival: 15–16 Feb only; snow huts open 18:00–21:00",
+    "tips": "The kamakura snow huts are built only for two nights in mid-February — plan well ahead. Inside each hut a child invites you to sit and eat mochi and amazake. Arrive after dark for the most magical atmosphere with candles glowing through the snow."
+  },
+  {
+    "id": "hirosaki-castle",
+    "name": "Hirosaki Castle",
+    "prefecture": "Aomori",
+    "address": "Shimoshirogane-cho, Hirosaki, Aomori",
+    "website_url": "https://www.hirosakipark.jp/english/",
+    "opening_hours": "8:30–17:00 (Apr–Oct); 9:00–16:00 (Nov–Mar); park always open",
+    "tips": "Hirosaki is Japan's finest cherry blossom castle — the moat fills with fallen petals (hanaikada) in late April, creating a pink carpet of blooms. The castle is currently on a moving platform being repositioned; the stone base restoration is a spectacle in itself. Snow season (Jan–Mar) transforms the park into a serene white landscape."
+  },
+  {
+    "id": "shimokita-hotokegaura",
+    "name": "Hotokegaura (Buddha Shore)",
+    "prefecture": "Aomori",
+    "address": "Sai, Shimokita District, Aomori",
+    "website_url": "",
+    "opening_hours": "Boat tours: May–Oct; departures approximately 8:30–15:00 from Wakinosawa port; limited winter access",
+    "tips": "Hotokegaura's white rhyolite rock formations eroded into Buddhist figures are most striking at sunrise or in misty conditions. The boat tour (40 min) is the main way to experience the full coastline. Very remote — combine with Osorezan (the Japanese gateway to hell) on the Shimokita Peninsula for a full otherworldly day."
+  },
+  {
+    "id": "juniko-lakes",
+    "name": "Juniko (Twelve Lakes)",
+    "prefecture": "Aomori",
+    "address": "Fukaura, Nishitsugaru District, Aomori",
+    "website_url": "https://juniko.jp/",
+    "opening_hours": "Trails: May–Nov (closed Dec–Apr due to snow); typically 8:00–17:00",
+    "tips": "The Aoike (Blue Pond) is the centrepiece — a blue so saturated it appears unnatural and varies in shade depending on cloud cover. The forest trail connects 12 lakes in about 90 minutes. No food stalls inside — bring water and snacks. Aomori's Shirakami-Sanchi UNESCO beech forest surrounds the lakes and adds to the sense of wilderness."
+  },
+  {
+    "id": "lake-towada",
+    "name": "Lake Towada",
+    "prefecture": "Aomori",
+    "address": "Towada City, Aomori / Kazuno, Akita",
+    "website_url": "",
+    "opening_hours": "Lake: always open; sightseeing boat: Apr–Nov, 9:00–15:30; Oirase Gorge trail: year-round (best May–Jun and Oct)",
+    "tips": "The real attraction is the 14km Oirase Gorge walk along the outflow river from the lake — moss-covered rocks, cascades, and ancient forest at their finest in June and October. The drive from Aomori city (2 hours) passes through beautiful highland scenery. In winter the gorge freezes into spectacular ice formations visited by snowshoers."
+  },
+  {
+    "id": "nebuta-museum-warasse",
+    "name": "Nebuta Museum Wa・Rasse",
+    "prefecture": "Aomori",
+    "address": "1-1-1 Yasukata, Aomori City, Aomori",
+    "website_url": "https://www.nebuta.jp/warasse/english/",
+    "opening_hours": "9:00–18:00 (20:00 during Nebuta Festival week, late Jul–early Aug); closed Tue Nov–Apr",
+    "tips": "The actual Nebuta floats from the current year's festival are displayed here at full scale — the backlit paper sculptures of warrior figures (some 5m tall) are extraordinary up close. The museum explains the construction process, which takes a full year. The Nebuta Festival itself (August 2–7) is one of Japan's most spectacular summer festivals — accommodation must be booked a year ahead."
+  },
+  {
+    "id": "oirase-gorge",
+    "name": "Oirase Gorge",
+    "prefecture": "Aomori",
+    "address": "Towada, Towada City, Aomori",
+    "website_url": "https://www.towadako.or.jp/en/",
+    "opening_hours": "Trail: year-round; best May–Jun (green) and Oct (autumn foliage); road open year-round; winter ice columns: Jan–Feb",
+    "tips": "The 14km gorge walk along the Oirase Stream from Yakeyama to Nenokuchi (Lake Towada) passes 14 named waterfalls and extraordinary moss-covered boulders. The entire trail is paved and walkable in 4 hours. Buses run the route in both directions — take the bus one way and walk the other. In winter, the stream freezes into dramatic ice columns (Jan–Feb)."
+  },
+  {
+    "id": "osorezan",
+    "name": "Osorezan (Mount Osore)",
+    "prefecture": "Aomori",
+    "address": "Tanabu, Mutsu, Aomori",
+    "website_url": "",
+    "opening_hours": "Open May–Oct (closed in winter due to snow); 6:00–18:00 during open season",
+    "tips": "Osorezan is one of Japan's three most sacred sites and its gateway to the afterlife — the grey volcanic landscape of craters, sulphur vents, and wind-eroded rock pinnacles is genuinely otherworldly. The Itako (blind female mediums) hold their grand 'taisai' séance festival in July — believers come to communicate with deceased relatives. The lake (Usoriko) is rich in minerals but devoid of fish."
+  },
+  {
+    "id": "sannai-maruyama",
+    "name": "Sannai-Maruyama Site",
+    "prefecture": "Aomori",
+    "address": "Sannaimaruyama, Aomori City, Aomori",
+    "website_url": "https://sannaimaruyama.pref.aomori.jp/english/",
+    "opening_hours": "9:00–17:00 (Jun–Sep 18:00); closed Tue (Mon if Tue is holiday)",
+    "tips": "Japan's largest and best-preserved Jomon-period settlement (3,900–2,300 BC) — the six-post wooden tower and the longhouses reconstructed at original scale are extraordinary. The on-site museum houses an outstanding collection of Jomon pottery and figurines. UNESCO World Heritage since 2021. Combine with Nebuta Museum Warasse in Aomori city (30 min by car)."
+  },
+  {
+    "id": "aomori-apple-orchards",
+    "name": "Tsugaru Apple Orchards",
+    "prefecture": "Aomori",
+    "address": "Tsugaru, Hirosaki area, Aomori",
+    "website_url": "",
+    "opening_hours": "Orchards: always visible; apple picking tours: Sep–Nov; onsite farm shops: 9:00–17:00 (varies by farm)",
+    "tips": "Aomori produces 60% of Japan's apples — the autumn harvest season (September–November) fills the roadside with farm stands selling varieties unavailable anywhere else in Japan. Apple juice, dried apple, and apple vinegar are the best food souvenirs. The Hirosaki Apple Park (free entry) has 80 varieties in one place — excellent for understanding the breadth of production. Combine with Hirosaki Castle for a full Aomori day."
+  },
+  {
+    "id": "aizu-sazaedo",
+    "name": "Aizu Sazaedo",
+    "prefecture": "Fukushima",
+    "address": "Iimoricho, Aizuwakamatsu, Fukushima",
+    "website_url": "https://www.sazaedo.jp/",
+    "opening_hours": "8:15–17:00 (Apr–Nov); 9:00–16:00 (Dec–Mar)",
+    "tips": "Visit mid-week in autumn for blazing foliage and minimal crowds. Combine with Tsurugajo Castle (10 min by bus) in a single day. The double-helix interior is narrow — not suitable for visitors with mobility issues."
+  },
+  {
+    "id": "goshikinuma-lakes",
+    "name": "Goshikinuma Lakes",
+    "prefecture": "Fukushima",
+    "address": "Kitashiobara, Yama District, Fukushima",
+    "website_url": "",
+    "opening_hours": "Always open; trail may close after heavy rain or in winter (Dec–Mar)",
+    "tips": "The 3.6km Goshikinuma Nature Trail connects five crater lakes of completely different colours — caused by different mineral compositions. The colours are most vivid on cloudy days with less surface glare. Start from the Urabandai bus stop end and walk toward Bishamon-numa (the largest lake) — easier in this direction."
+  },
+  {
+    "id": "hanamiyama-park",
+    "name": "Hanamiyama Park",
+    "prefecture": "Fukushima",
+    "address": "Hanamiyama, Watari-ku, Fukushima City, Fukushima",
+    "website_url": "",
+    "opening_hours": "Always open; peak blossom viewing late March–late April (varies by year)",
+    "tips": "Spring transforms this hillside into a layered tapestry of cherry, plum, peach, forsythia, and magnolia all blooming simultaneously — a remarkable concentration of colour. A free shuttle bus runs from Fukushima Station during the blossom peak. Visit on a weekday morning to avoid the largest crowds and get the best light."
+  },
+  {
+    "id": "iizaka-onsen",
+    "name": "Iizaka Onsen",
+    "prefecture": "Fukushima",
+    "address": "Iizaka, Fukushima City, Fukushima",
+    "website_url": "",
+    "opening_hours": "Onsen facilities: typically 6:00–22:00 (varies by facility); free footbath by station open daytime",
+    "tips": "Iizaka is one of Tohoku's oldest onsen towns — the Furumachi-no-Yu and Tsurubaki-no-Yu public baths are the most historic. The shotengai arcade has a charming nostalgic feel. Easy day trip from Fukushima city (15 min by tram on the historic Fukushima Kotsu tramway — one of Japan's last)."
+  },
+  {
+    "id": "kitakata-ramen",
+    "name": "Kitakata Ramen Town",
+    "prefecture": "Fukushima",
+    "address": "Kitakata, Fukushima",
+    "website_url": "",
+    "opening_hours": "Most ramen shops: 7:00–15:00 (many open for breakfast); shops close early when sold out — arrive by 11:00",
+    "tips": "Kitakata ramen is one of Japan's big three ramen styles — thick, flat, curly noodles in a light soy broth. The city has more ramen shops per capita than anywhere in Japan, and locals eat it for breakfast. Minokichi-ya and Bannai Shokudo are the most respected traditional shops. Combine with a sake brewery tour (Kitakata is also famous for its fresh spring water and sake)."
+  },
+  {
+    "id": "miharu-takizakura",
+    "name": "Miharu Takizakura",
+    "prefecture": "Fukushima",
+    "address": "Takizakura, Miharu, Tamura District, Fukushima",
+    "website_url": "https://www.miharu.gr.jp/",
+    "opening_hours": "Always accessible; entry fee applies during bloom period (late April, dates vary year to year)",
+    "tips": "A 1,000-year-old weeping cherry tree — one of the most magnificent single trees in Japan. The branches cascade over 10 metres down from the 13m main trunk, covering an area of 1,600m². Arrive before 7am to photograph without crowds. The tree blooms for only 7–10 days — check the official webcam before travelling."
+  },
+  {
+    "id": "ouchi-juku",
+    "name": "Ouchi-juku",
+    "prefecture": "Fukushima",
+    "address": "Shimogo, Minamiaizu, Fukushima",
+    "website_url": "https://ouchi-juku.com/",
+    "opening_hours": "Town: always accessible; shops: 9:00–17:00; best in winter (Dec–Mar) when snow covers the thatched roofs",
+    "tips": "Ouchi-juku's main street of thatched-roof post-town buildings in deep snow is one of Japan's most iconic winter scenes. The Yamabuki Suibi waterwheel and approach road set the scene before you enter the town. Negi-soba (buckwheat noodles eaten with a whole green onion as a chopstick substitute) is the quirky local dish. Visit on a weekday in winter for the best atmosphere."
+  },
+  {
+    "id": "spa-resort-hawaiians",
+    "name": "Spa Resort Hawaiians",
+    "prefecture": "Fukushima",
+    "address": "Iino, Iwaki, Fukushima",
+    "website_url": "https://www.hawaiians.co.jp/english/",
+    "opening_hours": "10:00–21:00 (last entry 20:00); closed Tue (open Tue during peak season)",
+    "tips": "A full resort complex with 11 thermal pools, a large wave pool, hula dancer shows, and water slides — genuinely entertaining for all ages. The hula shows (free with admission) are professionally produced. Built in 1966 to employ coal miners as the local industry declined — an interesting social history connects to the film 'Hula Girls' (2006). Stay overnight for the full experience."
+  },
+  {
+    "id": "tsurugajo-castle",
+    "name": "Tsurugajo Castle",
+    "prefecture": "Fukushima",
+    "address": "Otemachi, Aizuwakamatsu, Fukushima",
+    "website_url": "https://www.tsurugajo.com/en/",
+    "opening_hours": "8:30–17:00 (last entry 16:30)",
+    "tips": "The only castle in Japan with red roof tiles — a Wakamatsu clan tradition that gives Tsurugajo its distinctive appearance. The castle tells the story of the Boshin War siege (1868) when 3,000 Aizu samurai held out for one month — one of Japan's most dramatic last stands. Combine with Aizu Sazaedo (15 min by bus) for a concentrated Aizuwakamatsu history day."
+  },
+  {
+    "id": "geibikei-gorge",
+    "name": "Geibikei Gorge",
+    "prefecture": "Iwate",
+    "address": "Geibikei, Ichinoseki, Iwate",
+    "website_url": "http://geibikei.co.jp/",
+    "opening_hours": "Boat departures: 8:30–15:30 (Mar–Nov); reduced schedule in winter",
+    "tips": "The pole-guided flat-bottom boat trip takes 90 minutes round-trip through 2km of dramatic limestone cliffs. The boatman sings traditional folk songs mid-gorge — a genuinely moving experience. Genbikei Gorge (20 min by bus) has a very different landscape and can be combined in the same day."
+  },
+  {
+    "id": "hachimantai-plateau",
+    "name": "Hachimantai Plateau",
+    "prefecture": "Iwate",
+    "address": "Hachimantai, Iwate / Akita",
+    "website_url": "",
+    "opening_hours": "Aspite Line road: late Apr–late Nov (closed in winter); plateau accessible when road is open",
+    "tips": "The Dragon's Eye — a perfectly circular snowmelt lake visible from the crater rim — appears for just 2–3 weeks in May and June. Timing varies year to year; check the Hachimantai Resort's social media for current conditions. The Aspite Line scenic drive itself is worth doing even outside the Dragon's Eye window."
+  },
+  {
+    "id": "hanamaki-onsen",
+    "name": "Hanamaki Onsen",
+    "prefecture": "Iwate",
+    "address": "Hanamaki, Iwate",
+    "website_url": "",
+    "opening_hours": "Day baths: typically 10:00–15:00 (varies by facility); call ahead to confirm availability",
+    "tips": "Hanamaki is the birthplace of Kenji Miyazawa, Tohoku's most beloved poet — the Ihatov Museum and memorial are worth visiting alongside the onsen. Hanamaki Grand Hotel has the most accessible day bath for walk-in visitors. Good base for Geibikei Gorge day trips (45 min by car)."
+  },
+  {
+    "id": "hiraizumi-chusonji",
+    "name": "Hiraizumi Chusonji Temple",
+    "prefecture": "Iwate",
+    "address": "Koromogawa, Hiraizumi, Nishiiwai District, Iwate",
+    "website_url": "https://www.chusonji.or.jp/en/",
+    "opening_hours": "8:30–17:00 (Mar–Nov); 8:30–16:30 (Dec–Feb)",
+    "tips": "The Konjikido (Golden Hall) is one of Japan's most extraordinary Buddhist structures — the entire interior covered in gold leaf, containing the mummified remains of the Fujiwara lords. The hall is enclosed in a protective building but the golden interior still stuns. Combine with Motsuji Temple (5 min walk) and its pure land garden for a full Hiraizumi day."
+  },
+  {
+    "id": "jodogahama-beach",
+    "name": "Jodogahama Beach",
+    "prefecture": "Iwate",
+    "address": "Miyako, Iwate",
+    "website_url": "",
+    "opening_hours": "Always open; boat tours: Apr–Oct, 9:00–16:00 (departures roughly hourly from Miyako Port)",
+    "tips": "The white rhyolite rocks and pine trees framing crystal-clear water create an otherworldly landscape — the name ('Pure Land Beach') captures the feeling well. The glass-bottomed boat tour reveals the underwater rock formations and sea life. The surrounding Sanriku coastline has been fully rebuilt since 2011 — the resilience of the local communities is evident throughout."
+  },
+  {
+    "id": "rikuchu-coast-kitayamazaki",
+    "name": "Kitayamazaki Cliffs",
+    "prefecture": "Iwate",
+    "address": "Tanohata, Shimohei District, Iwate",
+    "website_url": "",
+    "opening_hours": "Observation deck: always open; sightseeing boat: May–Oct, 9:00–16:00",
+    "tips": "The 200m-high sea cliffs extend for 8km — one of the most dramatic coastlines in Japan. The sightseeing boat from Kitayamazaki (May–Oct) gives the best perspective from the water. The cliffop walking trail is 8km one way; the observation deck at the Sunadoriya viewpoint is accessible without the full hike. Combine with Jodogahama Beach (1 hour south) for a full Sanriku coast day."
+  },
+  {
+    "id": "koiwai-farm",
+    "name": "Koiwai Farm",
+    "prefecture": "Iwate",
+    "address": "Shizukuishi, Iwate District, Iwate",
+    "website_url": "https://www.koiwaifarm.com/",
+    "opening_hours": "9:00–17:30 (Apr–Nov); 9:00–16:30 (Dec–Mar); open year-round",
+    "tips": "One of Japan's largest private farms — the Koiwai Holstein dairy is famous across Japan for its milk and soft-serve ice cream. Spring brings cherry blossoms across the pastureland with the Iwate mountains behind — a genuinely beautiful scene. The farm is 15 minutes by bus from Shizukuishi Station on the Tazawako Line. Combine with Hachimantai Plateau."
+  },
+  {
+    "id": "ryusendo-cave",
+    "name": "Ryusendo Cave",
+    "prefecture": "Iwate",
+    "address": "Iwaizumi, Shimohei District, Iwate",
+    "website_url": "https://www.iwate-ryusendo.jp/en/",
+    "opening_hours": "8:30–17:00 (last entry 16:30); closed during heavy rain",
+    "tips": "One of the world's most beautiful limestone caves — three underground lakes of extraordinary clarity with visibility to 41.5m in the deepest. The electric blue light of the deepest lake is remarkable. The cave maintains 10°C year-round — bring a layer in summer. The Ryusendo-do Village outside has traditional craft demonstrations."
+  },
+  {
+    "id": "tono-furusato-village",
+    "name": "Tono Furusato Village",
+    "prefecture": "Iwate",
+    "address": "Tsuchibuchichuo, Tono, Iwate",
+    "website_url": "https://tonojikan.jp/",
+    "opening_hours": "9:00–17:00 (last entry 16:30); closed Tue in winter",
+    "tips": "Tono is the Japanese equivalent of Brothers Grimm country — the folklore collection by Kunio Yanagita (1910) preserved tales of kappa water demons, zashiki-warashi house spirits, and mountain gods that are still alive in local culture. The open-air village recreates the old magariya L-shaped farmhouses. The Denshoen kappa pool is considered by locals to be genuinely inhabited."
+  },
+  {
+    "id": "akiu-onsen",
+    "name": "Akiu Onsen",
+    "prefecture": "Miyagi",
+    "address": "Akiu, Taihaku-ku, Sendai, Miyagi",
+    "website_url": "",
+    "opening_hours": "Day bathing hours vary by ryokan (typically 10:00–15:00); call ahead to confirm",
+    "tips": "This is a true ryokan-town onsen — most facilities are for overnight guests. For day visitors, Sakan and Yumoto Saito are the most accessible. The gorge walk upstream takes about 40 minutes and is worth doing before or after bathing."
+  },
+  {
+    "id": "kinkasan-island",
+    "name": "Kinkasan Island",
+    "prefecture": "Miyagi",
+    "address": "Oshika District, Ishinomaki, Miyagi",
+    "website_url": "",
+    "opening_hours": "Ferry operates Apr–Nov; departures from Ayukawa; ferry schedule varies — confirm in advance; island accessible year-round with prior arrangement",
+    "tips": "Visiting Kinkasan three years in succession is said to guarantee freedom from financial worry for life. The island is home to wild deer and monkeys who coexist with the shrine. Stay overnight at the Koganeyama Shrine lodge for the full pilgrimage experience — morning prayers at dawn with deer watching outside the window."
+  },
+  {
+    "id": "matsushima-bay",
+    "name": "Matsushima Bay",
+    "prefecture": "Miyagi",
+    "address": "Matsushima, Miyagi District, Miyagi",
+    "website_url": "",
+    "opening_hours": "Always accessible; cruise boats: 9:00–16:00; Zuiganji Temple: 8:00–17:00 (season dependent)",
+    "tips": "One of Japan's three classic scenic views — 260 pine-covered islands in a sheltered bay. The 50-minute sightseeing cruise gives the best perspectives. Zuiganji Temple's carved cave niches along the approach path are interesting. Combine the cruise with the 5km scenic walk along the Oku-Matsushima coast on the eastern side for a full day."
+  },
+  {
+    "id": "naruko-gorge",
+    "name": "Naruko Gorge",
+    "prefecture": "Miyagi",
+    "address": "Naruko Onsen, Osaki, Miyagi",
+    "website_url": "",
+    "opening_hours": "Always open; best autumn foliage: mid-Oct to early Nov",
+    "tips": "The gorge is famous for autumn foliage — the 100m deep valley walls turn brilliant red and orange in October. The 750m walking path follows the gorge edge with excellent viewpoints. The single-arch Ofukazawa Bridge crossing is the most dramatic vantage point. Combine with Naruko Onsen (15 min by car) for a relaxing afternoon."
+  },
+  {
+    "id": "naruko-onsen",
+    "name": "Naruko Onsen",
+    "prefecture": "Miyagi",
+    "address": "Naruko Onsen, Osaki, Miyagi",
+    "website_url": "",
+    "opening_hours": "Public baths: typically 7:00–22:00 (varies by facility); Taki-no-yu public bath: 9:00–22:00",
+    "tips": "Naruko has 9 different hot spring types in one small valley — the widest mineral variety of any onsen town in Japan. The kokeshi wooden doll workshops (Naruko is the kokeshi capital of Japan) are a unique cultural activity alongside bathing. The Naruko Gorge is 15 minutes by car for autumn foliage."
+  },
+  {
+    "id": "osaki-hachiman-shrine",
+    "name": "Osaki Hachimangu Shrine",
+    "prefecture": "Miyagi",
+    "address": "4-1 Hachiman, Aoba-ku, Sendai, Miyagi",
+    "website_url": "",
+    "opening_hours": "8:30–17:00; grounds accessible during daylight",
+    "tips": "One of Japan's most beautiful shrine buildings — the Gongenzukuri style architecture with its intricate gilded and painted carvings is extraordinary. The approach through a quiet residential neighbourhood rather than a tourist district makes the discovery feel genuine. Located 10 minutes by taxi from Sendai Station; easily combined with Zuihoden Mausoleum."
+  },
+  {
+    "id": "shiroishi-castle",
+    "name": "Shiroishi Castle",
+    "prefecture": "Miyagi",
+    "address": "Masashiro, Shiroishi, Miyagi",
+    "website_url": "",
+    "opening_hours": "9:00–17:00 (last entry 16:30); park always open",
+    "tips": "The small castle keep (Shiroishi-jo) is one of the most charming in Tohoku — an intimate, completely original-style reconstruction. The Shiroishi Umen (cold noodles) are the local dish, eaten at restaurants around the castle. The castle grounds are well-maintained and often empty. Combine with Zao Onsen (40 min by car) for a full Miyagi mountain day."
+  },
+  {
+    "id": "zuiganji-temple",
+    "name": "Zuiganji Temple",
+    "prefecture": "Miyagi",
+    "address": "91 Matsushimachozakoji, Matsushima, Miyagi",
+    "website_url": "https://www.zuiganji.or.jp/en/",
+    "opening_hours": "8:00–17:00 (Dec–Jan 8:00–15:30); entry ¥700",
+    "tips": "The approach to Zuiganji through ancient cedar trees and moss-covered cave meditation alcoves is one of Tohoku's most atmospheric walks. The main hall interior is richly gilded — quite a surprise in austere Matsushima. Combine with a boat cruise among the pine islands."
+  },
+  {
+    "id": "dewa-sanzan",
+    "name": "Dewa Sanzan",
+    "prefecture": "Yamagata",
+    "address": "Haguro, Tsuruoka, Yamagata",
+    "website_url": "https://www.dewasanzan.jp/publics/index/44/",
+    "opening_hours": "Mt Haguro pagoda area: 9:00–16:00; Mt Gassan: Jun–Oct only (snow closes it otherwise); Mt Yudono: Jun–Nov",
+    "tips": "The full three-mountain pilgrimage takes 2 days — plan an overnight at a shukubo (temple lodging) on Mt Haguro for the full yamabushi experience. The 2,446-step cedar-lined staircase to Haguro's pagoda is the most accessible starting point. Photography is prohibited inside Mt Yudono's inner shrine."
+  },
+  {
+    "id": "ginzan-onsen",
+    "name": "Ginzan Onsen",
+    "prefecture": "Yamagata",
+    "address": "Ginzan, Obanazawa, Yamagata",
+    "website_url": "https://www.ginzanonsen.jp/",
+    "opening_hours": "Village always accessible; inn day baths: typically 13:00–16:00 (call ahead); Shirogane public bath: 6:00–21:00",
+    "tips": "The snow-covered wooden inn facades at dusk are the image that defined Ginzan Onsen worldwide — visit in winter (Dec–Mar) for the full effect. The single main street is pedestrian-only and tiny; weekday visits are far more atmospheric than weekends. Stay overnight to experience the lantern-lit evening walk — day trippers miss the best of it."
+  },
+  {
+    "id": "kaminoyama-onsen",
+    "name": "Kaminoyama Onsen",
+    "prefecture": "Yamagata",
+    "address": "Kaminoyama, Yamagata",
+    "website_url": "",
+    "opening_hours": "Free footbaths: daytime; public baths: 6:00–22:00 (varies); ryokan day baths: 10:00–15:00",
+    "tips": "Kaminoyama is famous for its castle combined with onsen — a rare combination. The samurai footbath tradition (a lord once ordered samurai to bathe their feet here before entering the castle) gives the town a distinct identity. Easy day trip from Yamagata city (25 min by express train); combine with Tendo shogi piece workshops."
+  },
+  {
+    "id": "mogami-gorge-boat",
+    "name": "Mogami Gorge Boat Ride",
+    "prefecture": "Yamagata",
+    "address": "Furukuchi, Mogami, Mogami District, Yamagata",
+    "website_url": "https://www.mogamigawa.jp/",
+    "opening_hours": "Boat departures: year-round; summer (May–Sep): 9:00–16:00; winter (Oct–Apr): departures at 10:00, 12:00, 14:00",
+    "tips": "The flat-bottomed boat glides 12km through the Mogami Gorge as the boatman sings traditional Mogami River songs (funa-uta). The gorge is dramatic in all seasons — spring cherry blossoms, summer green, autumn red, winter snow-laden trees. Basho described this river in his 'Narrow Road to the Deep North' — the landscape hasn't changed."
+  },
+  {
+    "id": "sakata-sankyo-warehouses",
+    "name": "Sakata Sankyo Warehouses",
+    "prefecture": "Yamagata",
+    "address": "Sankyoshinmachi, Sakata, Yamagata",
+    "website_url": "",
+    "opening_hours": "Exterior grounds: always accessible; Shonai Film Village (nearby): check for current hours",
+    "tips": "The row of black cedar-shingled warehouses along the Minamoto River — used to store Shonai rice before shipping — is one of Tohoku's most photogenic historic industrial sites. The Homma Art Museum nearby has an outstanding traditional garden. Combine with Ginzan Onsen (1.5 hours by car) for a Yamagata cultural day."
+  },
+  {
+    "id": "tendo-shogi-craft",
+    "name": "Tendo Shogi Craft",
+    "prefecture": "Yamagata",
+    "address": "Tendo, Yamagata",
+    "website_url": "",
+    "opening_hours": "Museum: 9:00–17:00, closed Mon; craft workshops: available by reservation",
+    "tips": "Tendo produces 95% of Japan's shogi (chess) pieces. The hand-crafting process (koma-tsukuri) involves over 30 steps and takes months for high-quality pieces. The museum demonstrates the craft with excellent displays and live demonstrations. The Tendo Sakura Festival (late April) features a human shogi match with people dressed as shogi pieces — one of Japan's most unique events."
+  },
+  {
+    "id": "yamadera-risshakuji",
+    "name": "Yamadera (Risshakuji Temple)",
+    "prefecture": "Yamagata",
+    "address": "Yamadera, Yamagata, Yamagata",
+    "website_url": "https://rissyakuji.jp/",
+    "opening_hours": "8:00–17:00 (last entry 16:30); closed in heavy snow",
+    "tips": "Climb all 1,015 stone steps in the early morning before tour groups arrive — mist often lingers in the cedar forest. The Godaido overlook platform offers the best panoramic view. Bring layers as it is always cooler at the top."
+  },
+  {
+    "id": "zao-okama-crater",
+    "name": "Zao Okama Crater Lake",
+    "prefecture": "Yamagata",
+    "address": "Zao, Kaminoyama / Yamagata, Yamagata",
+    "website_url": "",
+    "opening_hours": "Eco-Line road: late Apr–early Nov; crater viewpoint always open when road is open",
+    "tips": "The emerald Okama lake changes hue with weather and season. Come in May just after the road opens when surrounding snow remains and the contrast is dramatic. The drive up the Zao Echo Line through volcanic moonscape is itself spectacular. Combine with Zao ski area in winter."
+  }
+]

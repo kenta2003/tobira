@@ -1,0 +1,840 @@
+{
+  "abashiri-drift-ice": {
+    "spotName": "Abashiri Drift Ice & Aurora Icebreaker Cruise",
+    "prefecture": "Hokkaido",
+    "region": "hokkaido",
+    "status": "uploaded",
+    "candidates": [
+      {
+        "number": 1,
+        "source": "pexels",
+        "sourceId": "30329480",
+        "query": "Abashiri Drift Ice & Aurora Icebreaker Cruise Hokkaido Japan",
+        "photographer": "Phil Evenden",
+        "pageUrl": "https://www.pexels.com/photo/winter-lighthouse-on-snowy-cliffs-in-hokkaido-30329480/",
+        "filename": "1.jpg"
+      },
+      {
+        "number": 2,
+        "source": "pexels",
+        "sourceId": "35695306",
+        "query": "Abashiri Drift Ice & Aurora Icebreaker Cruise Hokkaido Japan",
+        "photographer": "tslui",
+        "pageUrl": "https://www.pexels.com/photo/minimalist-winter-landscape-with-snowy-field-35695306/",
+        "filename": "2.jpg"
+      },
+      {
+        "number": 3,
+        "source": "pexels",
+        "sourceId": "35014164",
+        "query": "Abashiri Drift Ice & Aurora Icebreaker Cruise Hokkaido Japan",
+        "photographer": "Dmitriy Ryndin",
+        "pageUrl": "https://www.pexels.com/photo/helicopter-on-icebreaker-in-arctic-ocean-35014164/",
+        "filename": "3.jpg"
+      },
+      {
+        "number": 4,
+        "source": "pexels",
+        "sourceId": "30329482",
+        "query": "Abashiri Drift Ice & Aurora Icebreaker Cruise Hokkaido Japan",
+        "photographer": "Phil Evenden",
+        "pageUrl": "https://www.pexels.com/photo/winter-lighthouse-view-in-abashiri-hokkaido-30329482/",
+        "filename": "4.jpg"
+      },
+      {
+        "number": 5,
+        "source": "pexels",
+        "sourceId": "35874551",
+        "query": "Abashiri Drift Ice & Aurora Icebreaker Cruise Hokkaido Japan",
+        "photographer": "Markku Soini",
+        "pageUrl": "https://www.pexels.com/photo/icebreaker-ship-docked-on-frozen-sea-with-tourists-35874551/",
+        "filename": "5.jpg"
+      }
+    ],
+    "pixtaSuggestedQuery": "Abashiri Drift Ice & Aurora Icebreaker Cruise Hokkaido"
+  },
+  "asahiyama-zoo": {
+    "spotName": "Asahiyama Zoo",
+    "prefecture": "Hokkaido",
+    "region": "hokkaido",
+    "status": "uploaded",
+    "candidates": [
+      {
+        "number": 1,
+        "source": "pexels",
+        "sourceId": "3668003",
+        "query": "Asahiyama Zoo Hokkaido Japan",
+        "photographer": "Yu Lin Chen",
+        "pageUrl": "https://www.pexels.com/photo/black-and-white-penguins-on-snow-covered-ground-3668003/",
+        "filename": "1.jpg"
+      },
+      {
+        "number": 2,
+        "source": "pexels",
+        "sourceId": "31192001",
+        "query": "Asahiyama Zoo Hokkaido Japan",
+        "photographer": "Samuel Park",
+        "pageUrl": "https://www.pexels.com/photo/alert-meerkat-standing-indoors-in-tokyo-zoo-31192001/",
+        "filename": "2.jpg"
+      },
+      {
+        "number": 3,
+        "source": "pexels",
+        "sourceId": "36053213",
+        "query": "Asahiyama Zoo Hokkaido Japan",
+        "photographer": "Maxine Xin",
+        "pageUrl": "https://www.pexels.com/photo/winter-street-scene-in-snowy-hokkaido-japan-36053213/",
+        "filename": "3.jpg"
+      },
+      {
+        "number": 4,
+        "source": "pexels",
+        "sourceId": "5088668",
+        "query": "Asahiyama Zoo Hokkaido Japan",
+        "photographer": "Olivier Bergeron",
+        "pageUrl": "https://www.pexels.com/photo/boulders-of-rock-on-the-lakeside-5088668/",
+        "filename": "4.jpg"
+      },
+      {
+        "number": 5,
+        "source": "pexels",
+        "sourceId": "11058413",
+        "query": "Asahiyama Zoo Hokkaido Japan",
+        "photographer": "SHANWEI HSU",
+        "pageUrl": "https://www.pexels.com/photo/penguin-standing-on-snow-covered-rock-11058413/",
+        "filename": "5.jpg"
+      }
+    ],
+    "pixtaSuggestedQuery": "Asahiyama Zoo Hokkaido",
+    "approvedCandidate": 1
+  },
+  "daisetsuzan-national-park": {
+    "spotName": "Daisetsuzan National Park",
+    "prefecture": "Hokkaido",
+    "region": "hokkaido",
+    "status": "uploaded",
+    "candidates": [
+      {
+        "number": 1,
+        "source": "pexels",
+        "sourceId": "20895487",
+        "query": "Daisetsuzan National Park Hokkaido Japan",
+        "photographer": "シゲル タカイ",
+        "pageUrl": "https://www.pexels.com/photo/mountain-landscape-in-daisetsuzan-national-park-in-japan-20895487/",
+        "filename": "1.jpg"
+      },
+      {
+        "number": 2,
+        "source": "pexels",
+        "sourceId": "20895477",
+        "query": "Daisetsuzan National Park Hokkaido Japan",
+        "photographer": "シゲル タカイ",
+        "pageUrl": "https://www.pexels.com/photo/snowcapped-mount-asahi-in-japan-20895477/",
+        "filename": "2.jpg"
+      },
+      {
+        "number": 3,
+        "source": "pexels",
+        "sourceId": "20895485",
+        "query": "Daisetsuzan National Park Hokkaido Japan",
+        "photographer": "シゲル タカイ",
+        "pageUrl": "https://www.pexels.com/photo/mount-asahi-in-daisetsuzan-national-park-in-japan-20895485/",
+        "filename": "3.jpg"
+      },
+      {
+        "number": 4,
+        "source": "pexels",
+        "sourceId": "20895479",
+        "query": "Daisetsuzan National Park Hokkaido Japan",
+        "photographer": "シゲル タカイ",
+        "pageUrl": "https://www.pexels.com/photo/asahi-dake-mountain-in-daisetsuzan-national-park-in-japan-20895479/",
+        "filename": "4.jpg"
+      },
+      {
+        "number": 5,
+        "source": "pexels",
+        "sourceId": "20895480",
+        "query": "Daisetsuzan National Park Hokkaido Japan",
+        "photographer": "シゲル タカイ",
+        "pageUrl": "https://www.pexels.com/photo/snowcapped-mount-asahi-in-hokkaido-japan-20895480/",
+        "filename": "5.jpg"
+      }
+    ],
+    "pixtaSuggestedQuery": "Daisetsuzan National Park Hokkaido",
+    "approvedCandidate": 2
+  },
+  "kushiro-wetlands": {
+    "spotName": "Kushiro Wetlands National Park",
+    "prefecture": "Hokkaido",
+    "region": "hokkaido",
+    "status": "uploaded",
+    "candidates": [
+      {
+        "number": 1,
+        "source": "pexels",
+        "sourceId": "6903414",
+        "query": "Kushiro Wetlands National Park Hokkaido Japan",
+        "photographer": "Klub Boks",
+        "pageUrl": "https://www.pexels.com/photo/white-and-black-birds-on-snow-covered-ground-6903414/",
+        "filename": "1.jpg"
+      },
+      {
+        "number": 2,
+        "source": "pexels",
+        "sourceId": "20895487",
+        "query": "Kushiro Wetlands National Park Hokkaido Japan",
+        "photographer": "シゲル タカイ",
+        "pageUrl": "https://www.pexels.com/photo/mountain-landscape-in-daisetsuzan-national-park-in-japan-20895487/",
+        "filename": "2.jpg"
+      },
+      {
+        "number": 3,
+        "source": "pexels",
+        "sourceId": "16122915",
+        "query": "Kushiro Wetlands National Park Hokkaido Japan",
+        "photographer": "Morten H. Hansen",
+        "pageUrl": "https://www.pexels.com/photo/mount-yotei-in-the-shikotsu-toya-national-park-japan-16122915/",
+        "filename": "3.jpg"
+      },
+      {
+        "number": 4,
+        "source": "pexels",
+        "sourceId": "20895477",
+        "query": "Kushiro Wetlands National Park Hokkaido Japan",
+        "photographer": "シゲル タカイ",
+        "pageUrl": "https://www.pexels.com/photo/snowcapped-mount-asahi-in-japan-20895477/",
+        "filename": "4.jpg"
+      },
+      {
+        "number": 5,
+        "source": "pexels",
+        "sourceId": "36550670",
+        "query": "Kushiro Wetlands National Park Hokkaido Japan",
+        "photographer": "Alex Dos Santos",
+        "pageUrl": "https://www.pexels.com/photo/textured-desert-surface-in-grayscale-36550670/",
+        "filename": "5.jpg"
+      }
+    ],
+    "pixtaSuggestedQuery": "Kushiro Wetlands National Park Hokkaido"
+  },
+  "lake-mashu": {
+    "spotName": "Lake Mashu",
+    "prefecture": "Hokkaido",
+    "region": "hokkaido",
+    "status": "uploaded",
+    "candidates": [
+      {
+        "number": 1,
+        "source": "pexels",
+        "sourceId": "5088668",
+        "query": "Lake Mashu Hokkaido Japan",
+        "photographer": "Olivier Bergeron",
+        "pageUrl": "https://www.pexels.com/photo/boulders-of-rock-on-the-lakeside-5088668/",
+        "filename": "1.jpg"
+      },
+      {
+        "number": 2,
+        "source": "pexels",
+        "sourceId": "35837222",
+        "query": "Lake Mashu Hokkaido Japan",
+        "photographer": "Zonghao Feng",
+        "pageUrl": "https://www.pexels.com/photo/snowy-landscape-of-lake-toya-in-winter-35837222/",
+        "filename": "2.jpg"
+      },
+      {
+        "number": 3,
+        "source": "pexels",
+        "sourceId": "36053213",
+        "query": "Lake Mashu Hokkaido Japan",
+        "photographer": "Maxine Xin",
+        "pageUrl": "https://www.pexels.com/photo/winter-street-scene-in-snowy-hokkaido-japan-36053213/",
+        "filename": "3.jpg"
+      },
+      {
+        "number": 4,
+        "source": "pexels",
+        "sourceId": "20826232",
+        "query": "Lake Mashu Hokkaido Japan",
+        "photographer": "Chen Te",
+        "pageUrl": "https://www.pexels.com/photo/surface-of-the-lake-reflecting-the-setting-sun-20826232/",
+        "filename": "4.jpg"
+      },
+      {
+        "number": 5,
+        "source": "pexels",
+        "sourceId": "2031689",
+        "query": "Lake Mashu Hokkaido Japan",
+        "photographer": "Matt Hardy",
+        "pageUrl": "https://www.pexels.com/photo/village-covered-with-snow-2031689/",
+        "filename": "5.jpg"
+      }
+    ],
+    "pixtaSuggestedQuery": "Lake Mashu Hokkaido"
+  },
+  "hakodate-mountain-night-view": {
+    "spotName": "Mt. Hakodate Night View",
+    "prefecture": "Hokkaido",
+    "region": "hokkaido",
+    "status": "uploaded",
+    "candidates": [
+      {
+        "number": 1,
+        "source": "pexels",
+        "sourceId": "36053252",
+        "query": "Mt. Hakodate Night View Hokkaido Japan",
+        "photographer": "Maxine Xin",
+        "pageUrl": "https://www.pexels.com/photo/bustling-winter-street-in-hakodate-japan-36053252/",
+        "filename": "1.jpg"
+      },
+      {
+        "number": 2,
+        "source": "pexels",
+        "sourceId": "17178483",
+        "query": "Mt. Hakodate Night View Hokkaido Japan",
+        "photographer": "Han Sen",
+        "pageUrl": "https://www.pexels.com/photo/car-on-road-on-sea-coast-17178483/",
+        "filename": "2.jpg"
+      },
+      {
+        "number": 3,
+        "source": "pexels",
+        "sourceId": "13193404",
+        "query": "Mt. Hakodate Night View Hokkaido Japan",
+        "photographer": "Shin Konoa",
+        "pageUrl": "https://www.pexels.com/photo/blue-train-by-the-sea-13193404/",
+        "filename": "3.jpg"
+      },
+      {
+        "number": 4,
+        "source": "pexels",
+        "sourceId": "30590878",
+        "query": "Mt. Hakodate Night View Hokkaido Japan",
+        "photographer": "Guohua Song",
+        "pageUrl": "https://www.pexels.com/photo/aerial-view-of-hakodate-city-and-port-30590878/",
+        "filename": "4.jpg"
+      },
+      {
+        "number": 5,
+        "source": "pexels",
+        "sourceId": "8797279",
+        "query": "Mt. Hakodate Night View Hokkaido Japan",
+        "photographer": "Natsuko Aoyama",
+        "pageUrl": "https://www.pexels.com/photo/blooming-flower-field-with-mountain-view-8797279/",
+        "filename": "5.jpg"
+      }
+    ],
+    "pixtaSuggestedQuery": "Mt. Hakodate Night View Hokkaido"
+  },
+  "niseko-ski-resort": {
+    "spotName": "Niseko United Ski Resort",
+    "prefecture": "Hokkaido",
+    "region": "hokkaido",
+    "status": "uploaded",
+    "candidates": [
+      {
+        "number": 1,
+        "source": "pexels",
+        "sourceId": "2031689",
+        "query": "Niseko United Ski Resort Hokkaido Japan",
+        "photographer": "Matt Hardy",
+        "pageUrl": "https://www.pexels.com/photo/village-covered-with-snow-2031689/",
+        "filename": "1.jpg"
+      },
+      {
+        "number": 2,
+        "source": "pexels",
+        "sourceId": "31944781",
+        "query": "Niseko United Ski Resort Hokkaido Japan",
+        "photographer": "Ryan Lee",
+        "pageUrl": "https://www.pexels.com/photo/scenic-winter-landscape-in-hokkaido-japan-31944781/",
+        "filename": "2.jpg"
+      },
+      {
+        "number": 3,
+        "source": "pexels",
+        "sourceId": "2031687",
+        "query": "Niseko United Ski Resort Hokkaido Japan",
+        "photographer": "Matt Hardy",
+        "pageUrl": "https://www.pexels.com/photo/photo-of-building-covered-with-snow-2031687/",
+        "filename": "3.jpg"
+      },
+      {
+        "number": 4,
+        "source": "pexels",
+        "sourceId": "20798344",
+        "query": "Niseko United Ski Resort Hokkaido Japan",
+        "photographer": "シゲル タカイ",
+        "pageUrl": "https://www.pexels.com/photo/view-of-snow-covered-mountains-and-hills-in-winter-20798344/",
+        "filename": "4.jpg"
+      },
+      {
+        "number": 5,
+        "source": "pexels",
+        "sourceId": "20895481",
+        "query": "Niseko United Ski Resort Hokkaido Japan",
+        "photographer": "シゲル タカイ",
+        "pageUrl": "https://www.pexels.com/photo/view-of-mountains-in-winter-20895481/",
+        "filename": "5.jpg"
+      }
+    ],
+    "pixtaSuggestedQuery": "Niseko United Ski Resort Hokkaido"
+  },
+  "sapporo-odori-park": {
+    "spotName": "Odori Park & Sapporo Snow Festival",
+    "prefecture": "Hokkaido",
+    "region": "hokkaido",
+    "status": "uploaded",
+    "candidates": [
+      {
+        "number": 1,
+        "source": "pexels",
+        "sourceId": "20187396",
+        "query": "Odori Park & Sapporo Snow Festival Hokkaido Japan",
+        "photographer": "Dương Nhân",
+        "pageUrl": "https://www.pexels.com/photo/stack-of-snow-on-sidewalk-20187396/",
+        "filename": "1.jpg"
+      },
+      {
+        "number": 2,
+        "source": "pexels",
+        "sourceId": "32970318",
+        "query": "Odori Park & Sapporo Snow Festival Hokkaido Japan",
+        "photographer": "jason hu",
+        "pageUrl": "https://www.pexels.com/photo/aerial-view-of-sapporo-s-winter-cityscape-at-dusk-32970318/",
+        "filename": "2.jpg"
+      },
+      {
+        "number": 3,
+        "source": "pexels",
+        "sourceId": "36550652",
+        "query": "Odori Park & Sapporo Snow Festival Hokkaido Japan",
+        "photographer": "Alex Dos Santos",
+        "pageUrl": "https://www.pexels.com/photo/dramatic-black-and-white-beach-cliffs-in-brazil-36550652/",
+        "filename": "3.jpg"
+      },
+      {
+        "number": 4,
+        "source": "pexels",
+        "sourceId": "36550670",
+        "query": "Odori Park & Sapporo Snow Festival Hokkaido Japan",
+        "photographer": "Alex Dos Santos",
+        "pageUrl": "https://www.pexels.com/photo/textured-desert-surface-in-grayscale-36550670/",
+        "filename": "4.jpg"
+      },
+      {
+        "number": 5,
+        "source": "pexels",
+        "sourceId": "36503307",
+        "query": "Odori Park & Sapporo Snow Festival Hokkaido Japan",
+        "photographer": "Awa",
+        "pageUrl": "https://www.pexels.com/photo/snowy-tree-lined-path-in-sapporo-hokkaido-36503307/",
+        "filename": "5.jpg"
+      }
+    ],
+    "pixtaSuggestedQuery": "Odori Park & Sapporo Snow Festival Hokkaido"
+  },
+  "rebun-island": {
+    "spotName": "Rebun Island",
+    "prefecture": "Hokkaido",
+    "region": "hokkaido",
+    "status": "uploaded",
+    "candidates": [
+      {
+        "number": 1,
+        "source": "pexels",
+        "sourceId": "19714105",
+        "query": "Rebun Island Hokkaido Japan",
+        "photographer": "taichi noumi",
+        "pageUrl": "https://www.pexels.com/photo/peninsula-of-the-japanese-island-of-rebun-19714105/",
+        "filename": "1.jpg"
+      },
+      {
+        "number": 2,
+        "source": "pexels",
+        "sourceId": "19714107",
+        "query": "Rebun Island Hokkaido Japan",
+        "photographer": "taichi noumi",
+        "pageUrl": "https://www.pexels.com/photo/cape-sukai-misaki-in-rebun-japan-19714107/",
+        "filename": "2.jpg"
+      },
+      {
+        "number": 3,
+        "source": "pexels",
+        "sourceId": "36520970",
+        "query": "Rebun Island Hokkaido Japan",
+        "photographer": "Baraa Obied",
+        "pageUrl": "https://www.pexels.com/photo/youth-group-discussion-outdoors-in-damascus-36520970/",
+        "filename": "3.jpg"
+      },
+      {
+        "number": 4,
+        "source": "pexels",
+        "sourceId": "36550607",
+        "query": "Rebun Island Hokkaido Japan",
+        "photographer": "Alex Dos Santos",
+        "pageUrl": "https://www.pexels.com/photo/woman-posing-by-the-ocean-in-natal-brazil-36550607/",
+        "filename": "4.jpg"
+      },
+      {
+        "number": 5,
+        "source": "pexels",
+        "sourceId": "36550612",
+        "query": "Rebun Island Hokkaido Japan",
+        "photographer": "Alex Dos Santos",
+        "pageUrl": "https://www.pexels.com/photo/cyclist-on-cliffside-edge-overlooking-the-ocean-36550612/",
+        "filename": "5.jpg"
+      }
+    ],
+    "pixtaSuggestedQuery": "Rebun Island Hokkaido",
+    "approvedCandidate": 2
+  },
+  "sapporo-beer-garden": {
+    "spotName": "Sapporo Beer Garden & Museum",
+    "prefecture": "Hokkaido",
+    "region": "hokkaido",
+    "status": "uploaded",
+    "candidates": [
+      {
+        "number": 1,
+        "source": "pexels",
+        "sourceId": "12884934",
+        "query": "Sapporo Beer Garden & Museum Hokkaido Japan",
+        "photographer": "SHIMADA MASAKI",
+        "pageUrl": "https://www.pexels.com/photo/susukino-intersection-sapporo-japan-12884934/",
+        "filename": "1.jpg"
+      },
+      {
+        "number": 2,
+        "source": "pexels",
+        "sourceId": "32970318",
+        "query": "Sapporo Beer Garden & Museum Hokkaido Japan",
+        "photographer": "jason hu",
+        "pageUrl": "https://www.pexels.com/photo/aerial-view-of-sapporo-s-winter-cityscape-at-dusk-32970318/",
+        "filename": "2.jpg"
+      },
+      {
+        "number": 3,
+        "source": "pexels",
+        "sourceId": "19010857",
+        "query": "Sapporo Beer Garden & Museum Hokkaido Japan",
+        "photographer": "sl wong",
+        "pageUrl": "https://www.pexels.com/photo/modern-sculpture-in-sapporo-art-forest-in-japan-19010857/",
+        "filename": "3.jpg"
+      },
+      {
+        "number": 4,
+        "source": "pexels",
+        "sourceId": "36464854",
+        "query": "Sapporo Beer Garden & Museum Hokkaido Japan",
+        "photographer": "nana liu",
+        "pageUrl": "https://www.pexels.com/photo/nighttime-street-scene-in-sapporo-japan-36464854/",
+        "filename": "4.jpg"
+      },
+      {
+        "number": 5,
+        "source": "pexels",
+        "sourceId": "36464855",
+        "query": "Sapporo Beer Garden & Museum Hokkaido Japan",
+        "photographer": "nana liu",
+        "pageUrl": "https://www.pexels.com/photo/nightlife-in-sapporo-s-illuminated-streets-36464855/",
+        "filename": "5.jpg"
+      }
+    ],
+    "pixtaSuggestedQuery": "Sapporo Beer Garden & Museum Hokkaido"
+  },
+  "aomori-furukawa-fish-market": {
+    "spotName": "Aomori Gyosai Center (Furukawa Fish Market)",
+    "prefecture": "Aomori",
+    "region": "tohoku",
+    "status": "uploaded",
+    "candidates": [
+      {
+        "number": 1,
+        "source": "pexels",
+        "sourceId": "5220047",
+        "query": "Aomori Gyosai Center (Furukawa Fish Market) Aomori Japan",
+        "photographer": "Ryutaro Tsukata",
+        "pageUrl": "https://www.pexels.com/photo/local-asian-street-shops-with-showcases-in-city-5220047/",
+        "credit": null,
+        "filename": "1.jpg"
+      },
+      {
+        "number": 2,
+        "source": "pexels",
+        "sourceId": "5905728",
+        "query": "Aomori Gyosai Center (Furukawa Fish Market) Aomori Japan",
+        "photographer": "Imani Williams",
+        "pageUrl": "https://www.pexels.com/photo/fresh-seafood-on-market-5905728/",
+        "credit": null,
+        "filename": "2.jpg"
+      },
+      {
+        "number": 3,
+        "source": "pexels",
+        "sourceId": "2982653",
+        "query": "Aomori Gyosai Center (Furukawa Fish Market) Aomori Japan",
+        "photographer": "Vincent M.A. Janssen",
+        "pageUrl": "https://www.pexels.com/photo/man-riding-on-a-yellow-cart-2982653/",
+        "credit": null,
+        "filename": "3.jpg"
+      },
+      {
+        "number": 4,
+        "source": "pexels",
+        "sourceId": "6249462",
+        "query": "Aomori Gyosai Center (Furukawa Fish Market) Aomori Japan",
+        "photographer": "Ryutaro Tsukata",
+        "pageUrl": "https://www.pexels.com/photo/bike-parked-near-asian-street-cafe-6249462/",
+        "credit": null,
+        "filename": "4.jpg"
+      },
+      {
+        "number": 5,
+        "source": "pexels",
+        "sourceId": "36313378",
+        "query": "Aomori Gyosai Center (Furukawa Fish Market) Aomori Japan",
+        "photographer": "Guohua Song",
+        "pageUrl": "https://www.pexels.com/photo/modern-skyscrapers-in-urban-tokyo-36313378/",
+        "credit": null,
+        "filename": "5.jpg"
+      }
+    ],
+    "pixtaSuggestedQuery": "Aomori Gyosai Center (Furukawa Fish Market) Aomori"
+  },
+  "aomori-museum-of-art": {
+    "spotName": "Aomori Museum of Art",
+    "prefecture": "Aomori",
+    "region": "tohoku",
+    "status": "uploaded",
+    "candidates": [
+      {
+        "number": 1,
+        "source": "pexels",
+        "sourceId": "15925248",
+        "query": "Aomori Museum of Art Aomori Japan",
+        "photographer": "Willian Justen de Vasconcellos",
+        "pageUrl": "https://www.pexels.com/photo/urban-illuminated-nebuta-15925248/",
+        "credit": null,
+        "filename": "1.jpg"
+      },
+      {
+        "number": 2,
+        "source": "pexels",
+        "sourceId": "5595929",
+        "query": "Aomori Museum of Art Aomori Japan",
+        "photographer": "Erika Augusto",
+        "pageUrl": "https://www.pexels.com/photo/brown-wooden-tiles-on-gray-background-5595929/",
+        "credit": null,
+        "filename": "2.jpg"
+      },
+      {
+        "number": 3,
+        "source": "pexels",
+        "sourceId": "7605917",
+        "query": "Aomori Museum of Art Aomori Japan",
+        "photographer": "RDNE Stock project",
+        "pageUrl": "https://www.pexels.com/photo/apple-girl-writing-painting-7605917/",
+        "credit": null,
+        "filename": "3.jpg"
+      },
+      {
+        "number": 4,
+        "source": "pexels",
+        "sourceId": "36005478",
+        "query": "Aomori Museum of Art Aomori Japan",
+        "photographer": "Every Stuff",
+        "pageUrl": "https://www.pexels.com/photo/red-traffic-sign-in-fukuoka-japan-scenic-background-36005478/",
+        "credit": null,
+        "filename": "4.jpg"
+      },
+      {
+        "number": 5,
+        "source": "pexels",
+        "sourceId": "5418307",
+        "query": "Aomori Museum of Art Aomori Japan",
+        "photographer": "Arina Krasnikova",
+        "pageUrl": "https://www.pexels.com/photo/yellow-books-on-brown-wooden-surface-5418307/",
+        "credit": null,
+        "filename": "5.jpg"
+      }
+    ],
+    "pixtaSuggestedQuery": "Aomori Museum of Art Aomori"
+  },
+  "asamushi-onsen": {
+    "spotName": "Asamushi Onsen",
+    "prefecture": "Aomori",
+    "region": "tohoku",
+    "status": "uploaded",
+    "candidates": [
+      {
+        "number": 1,
+        "source": "pexels",
+        "sourceId": "36352757",
+        "query": "Asamushi Onsen Aomori Japan",
+        "photographer": "Saroj Surkheti",
+        "pageUrl": "https://www.pexels.com/photo/interior-of-japanese-onsen-spa-reception-area-36352757/",
+        "credit": null,
+        "filename": "1.jpg"
+      },
+      {
+        "number": 2,
+        "source": "pexels",
+        "sourceId": "5220047",
+        "query": "Asamushi Onsen Aomori Japan",
+        "photographer": "Ryutaro Tsukata",
+        "pageUrl": "https://www.pexels.com/photo/local-asian-street-shops-with-showcases-in-city-5220047/",
+        "credit": null,
+        "filename": "2.jpg"
+      },
+      {
+        "number": 3,
+        "source": "pexels",
+        "sourceId": "1464815",
+        "query": "Asamushi Onsen Aomori Japan",
+        "photographer": "Bagus Pangestu",
+        "pageUrl": "https://www.pexels.com/photo/four-girl-s-sitting-on-gray-concrete-floor-under-blue-sky-1464815/",
+        "credit": null,
+        "filename": "3.jpg"
+      },
+      {
+        "number": 4,
+        "source": "pexels",
+        "sourceId": "36005478",
+        "query": "Asamushi Onsen Aomori Japan",
+        "photographer": "Every Stuff",
+        "pageUrl": "https://www.pexels.com/photo/red-traffic-sign-in-fukuoka-japan-scenic-background-36005478/",
+        "credit": null,
+        "filename": "4.jpg"
+      },
+      {
+        "number": 5,
+        "source": "pexels",
+        "sourceId": "6488232",
+        "query": "Asamushi Onsen Aomori Japan",
+        "photographer": "Vivien",
+        "pageUrl": "https://www.pexels.com/photo/a-cherry-blossom-tree-with-white-flowers-beside-a-house-6488232/",
+        "credit": null,
+        "filename": "5.jpg"
+      }
+    ],
+    "pixtaSuggestedQuery": "Asamushi Onsen Aomori"
+  },
+  "hakkoda-ropeway-sukayu": {
+    "spotName": "Hakkoda Ropeway & Sukayu Onsen",
+    "prefecture": "Aomori",
+    "region": "tohoku",
+    "status": "uploaded",
+    "candidates": [
+      {
+        "number": 1,
+        "source": "pexels",
+        "sourceId": "2890017",
+        "query": "Hakkoda Ropeway & Sukayu Onsen Aomori Japan",
+        "photographer": "Satoshi Hirayama",
+        "pageUrl": "https://www.pexels.com/photo/women-walking-on-alley-2890017/",
+        "credit": null,
+        "filename": "1.jpg"
+      },
+      {
+        "number": 2,
+        "source": "pexels",
+        "sourceId": "5220047",
+        "query": "Hakkoda Ropeway & Sukayu Onsen Aomori Japan",
+        "photographer": "Ryutaro Tsukata",
+        "pageUrl": "https://www.pexels.com/photo/local-asian-street-shops-with-showcases-in-city-5220047/",
+        "credit": null,
+        "filename": "2.jpg"
+      },
+      {
+        "number": 3,
+        "source": "pexels",
+        "sourceId": "36005478",
+        "query": "Hakkoda Ropeway & Sukayu Onsen Aomori Japan",
+        "photographer": "Every Stuff",
+        "pageUrl": "https://www.pexels.com/photo/red-traffic-sign-in-fukuoka-japan-scenic-background-36005478/",
+        "credit": null,
+        "filename": "3.jpg"
+      },
+      {
+        "number": 4,
+        "source": "pexels",
+        "sourceId": "5746255",
+        "query": "Hakkoda Ropeway & Sukayu Onsen Aomori Japan",
+        "photographer": "Ryutaro Tsukata",
+        "pageUrl": "https://www.pexels.com/photo/traditional-japanese-souvenirs-placed-on-wooden-table-5746255/",
+        "credit": null,
+        "filename": "4.jpg"
+      },
+      {
+        "number": 5,
+        "source": "pexels",
+        "sourceId": "1270210",
+        "query": "Hakkoda Ropeway & Sukayu Onsen Aomori Japan",
+        "photographer": "Satoshi Hirayama",
+        "pageUrl": "https://www.pexels.com/photo/two-woman-wearing-kimono-dress-walking-beside-sidewalk-1270210/",
+        "credit": null,
+        "filename": "5.jpg"
+      }
+    ],
+    "pixtaSuggestedQuery": "Hakkoda Ropeway & Sukayu Onsen Aomori"
+  },
+  "towada-art-center": {
+    "spotName": "Towada Art Center",
+    "prefecture": "Aomori",
+    "region": "tohoku",
+    "status": "uploaded",
+    "candidates": [
+      {
+        "number": 1,
+        "source": "pexels",
+        "sourceId": "7548132",
+        "query": "Towada Art Center Aomori Japan",
+        "photographer": "BERK OZDEMIR",
+        "pageUrl": "https://www.pexels.com/photo/a-modern-architecture-in-japan-7548132/",
+        "credit": null,
+        "filename": "1.jpg"
+      },
+      {
+        "number": 2,
+        "source": "pexels",
+        "sourceId": "36313378",
+        "query": "Towada Art Center Aomori Japan",
+        "photographer": "Guohua Song",
+        "pageUrl": "https://www.pexels.com/photo/modern-skyscrapers-in-urban-tokyo-36313378/",
+        "credit": null,
+        "filename": "2.jpg"
+      },
+      {
+        "number": 3,
+        "source": "pexels",
+        "sourceId": "6488232",
+        "query": "Towada Art Center Aomori Japan",
+        "photographer": "Vivien",
+        "pageUrl": "https://www.pexels.com/photo/a-cherry-blossom-tree-with-white-flowers-beside-a-house-6488232/",
+        "credit": null,
+        "filename": "3.jpg"
+      },
+      {
+        "number": 4,
+        "source": "pexels",
+        "sourceId": "36005478",
+        "query": "Towada Art Center Aomori Japan",
+        "photographer": "Every Stuff",
+        "pageUrl": "https://www.pexels.com/photo/red-traffic-sign-in-fukuoka-japan-scenic-background-36005478/",
+        "credit": null,
+        "filename": "4.jpg"
+      },
+      {
+        "number": 5,
+        "source": "pexels",
+        "sourceId": "5746255",
+        "query": "Towada Art Center Aomori Japan",
+        "photographer": "Ryutaro Tsukata",
+        "pageUrl": "https://www.pexels.com/photo/traditional-japanese-souvenirs-placed-on-wooden-table-5746255/",
+        "credit": null,
+        "filename": "5.jpg"
+      }
+    ],
+    "pixtaSuggestedQuery": "Towada Art Center Aomori"
+  }
+}

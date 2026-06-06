@@ -1,0 +1,112 @@
+[
+  {
+    "id": "aokigahara-forest",
+    "name": "Aokigahara Forest (Sea of Trees)",
+    "prefecture": "Yamanashi",
+    "address": "Fujikawaguchiko-machi, Yamanashi",
+    "access": "Bus from Kawaguchiko Station (20 min)",
+    "admission": "Ice Cave ¥350",
+    "best_season": "Year-round (Ice Cave is coolest escape in summer)",
+    "website_url": "",
+    "description": "A vast ancient forest growing on a 1,200-year-old lava field at the base of Mt Fuji — the lava formed in the 864 CE Jogan eruption and the forest has grown over it ever since. Ice caves and wind caves within the forest maintain sub-zero temperatures year-round, perfectly preserving ice stalactites in summer. The forest is also famous for its eerie magnetic compass anomalies."
+  },
+  {
+    "id": "hoto-noodle-yamanashi",
+    "name": "Hoto — Yamanashi's Winter Dish",
+    "prefecture": "Yamanashi",
+    "address": "Yamanashi Prefecture (multiple locations)",
+    "access": "Multiple hoto restaurants near Kawaguchiko Station",
+    "admission": "Meal ¥1,500–2,000",
+    "best_season": "October–April (winter dish)",
+    "website_url": "",
+    "description": "Hoto is Yamanashi's signature dish — thick flat noodles (wider than udon) simmered with pumpkin, mushrooms, and root vegetables in a rich miso broth. Eaten since the Sengoku period (Takeda Shingen reportedly made it for his troops), it is exclusively a cold-season comfort food available October–April. The Kosaku restaurant chain invented the definitive version."
+  },
+  {
+    "id": "yamanashi-wine-country",
+    "name": "Katsunuma Wine Country",
+    "prefecture": "Yamanashi",
+    "address": "Katsunuma-cho, Koshu City, Yamanashi",
+    "access": "Katsunuma-Budokyo Station on JR Chuo Line (100 min from Shinjuku)",
+    "admission": "Free (tastings ¥500)",
+    "best_season": "September (harvest), October (foliage), Year-round",
+    "website_url": "",
+    "description": "Japan's wine capital — the Katsunuma Valley produces 40% of Japan's wine on terraced hillsides visible from the Chuo Line train. The local Koshu grape (pink-skinned, crisp and mineral) is Japan's signature variety, classified as a European-style vinifera grape in 2010. Forty wineries offer tastings in walking distance from Katsunuma-Budokyo Station."
+  },
+  {
+    "id": "kofu-castle",
+    "name": "Kofu Castle & Shingen's Domain",
+    "prefecture": "Yamanashi",
+    "address": "Marunouchi, Kofu City, Yamanashi",
+    "access": "Kofu Station on JR Chuo Line (90 min from Shinjuku)",
+    "admission": "Free",
+    "best_season": "March–April (cherry blossoms), Year-round",
+    "website_url": "",
+    "description": "The seat of Takeda Shingen — Japan's most romanticised warlord — in the Kofu Basin surrounded by the Southern Alps. The reconstructed Kofu Castle (Maizuru-jo) stands on a volcanic rock outcrop above the city with panoramic views of Mt Fuji and the Yatsugatake range. The Takeda Shrine nearby was the clan's family shrine for 200 years."
+  },
+  {
+    "id": "kawaguchiko-fuji",
+    "name": "Lake Kawaguchiko",
+    "prefecture": "Yamanashi",
+    "address": "Fujikawaguchiko-machi, Minamitsuru-gun, Yamanashi",
+    "access": "Kawaguchiko Station on Fujikyuko Line (90 min from Shinjuku)",
+    "admission": "Free",
+    "best_season": "Late March–April (cherry), October–December (clearest Fuji views)",
+    "website_url": "",
+    "description": "The most accessible of the Fuji Five Lakes — an hour from Shinjuku and the source of Japan's most iconic image: Mt Fuji reflected perfectly in still water at dawn. The northern shore road at dawn, before tour buses arrive, gives the classic \"upside-down Fuji\" reflection. The Chureito Pagoda above Fujiyoshida frames Fuji between cherry blossoms in April."
+  },
+  {
+    "id": "shojiko-lake",
+    "name": "Lake Shoji",
+    "prefecture": "Yamanashi",
+    "address": "Fujikawaguchiko-machi, Yamanashi",
+    "access": "Bus from Kawaguchiko Station (35 min)",
+    "admission": "Free",
+    "best_season": "October–February (Fuji views clearest)",
+    "website_url": "",
+    "description": "The smallest and least visited of the Fuji Five Lakes — a pristine lake surrounded by forest with the \"Diamond Fuji\" phenomenon visible twice a year when the sun sets precisely at the Fuji summit. The northern shores have no hotels or shops, making dawn here the quietest Fuji reflection experience in the entire region."
+  },
+  {
+    "id": "minobu-mountain",
+    "name": "Minobu — Kuonji Temple",
+    "prefecture": "Yamanashi",
+    "address": "Minobu-cho, Minamikoma-gun, Yamanashi",
+    "access": "Minobu Station on JR Minobu Line (from Kofu, 45 min)",
+    "admission": "Free",
+    "best_season": "March–April (cherry), Year-round",
+    "website_url": "",
+    "description": "The mountain temple founded by Nichiren in 1281 — head temple of Nichiren Buddhism and one of Japan's most austere pilgrimage destinations. The 287-step stone staircase through ancient cedar trees leads to the main hall. The surrounding Minami-Alps form an extraordinary backdrop, and the cherry blossoms on the approach are among Yamanashi's finest."
+  },
+  {
+    "id": "fujisan-world-heritage",
+    "name": "Mt Fuji Climbing Season",
+    "prefecture": "Yamanashi",
+    "address": "Mt Fuji, Yamanashi / Shizuoka Prefectures",
+    "access": "Fuji Subaru Line 5th Station by bus from Kawaguchiko (45 min)",
+    "admission": "¥2,000 (conservation fee)",
+    "best_season": "July–early September (climbing season only)",
+    "website_url": "",
+    "description": "The world's most climbed volcanic mountain — 200,000 people ascend each year during the official season (July–early September). The Yoshida Trail from the Yamanashi side is the most traditional route, passing 60 shrines and torii gates. The crater rim circuit, Ohachimeguri, takes 90 minutes around the summit caldera at 3,776 metres."
+  },
+  {
+    "id": "oshino-hakkai",
+    "name": "Oshino Hakkai — Eight Springs",
+    "prefecture": "Yamanashi",
+    "address": "Oshino-mura, Minamitsuru-gun, Yamanashi",
+    "access": "Bus from Kawaguchiko Station (20 min)",
+    "admission": "¥500",
+    "best_season": "Year-round (winter with snow and Fuji background)",
+    "website_url": "",
+    "description": "Eight ponds fed directly by Mt Fuji snowmelt — water that fell on Fuji's summit takes 80 years to filter through the volcanic rock and emerge here, crystal clear at a constant 13°C. The ponds sit in a traditional thatched-roof farm village below Fuji's northern face, creating a composition unchanged since the Edo period."
+  },
+  {
+    "id": "yatsugatake-highlands",
+    "name": "Yatsugatake Highlands",
+    "prefecture": "Yamanashi",
+    "address": "Hokuto City, Yamanashi Prefecture",
+    "access": "Kiyosato Station on JR Koumi Line (Kobuchizawa, 2h from Shinjuku)",
+    "admission": "Free",
+    "best_season": "July–August (alpine flowers), December–March (skiing)",
+    "website_url": "",
+    "description": "A volcanic mountain range of eight peaks reaching 2,899m, straddling the Yamanashi-Nagano border. The Kiyosato Plateau and Kobuchizawa on the Yamanashi side have cheese farms, art galleries, and highland hiking through meadows that bloom with alpine flowers in July. Winter skiing at Yatsugatake Southern Slopes rivals Niseko for powder quality."
+  }
+]

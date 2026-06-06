@@ -1,0 +1,353 @@
+[
+  {
+    "id": "awara-onsen",
+    "name": "Awara Onsen",
+    "prefecture": "Fukui",
+    "address": "Awara City, Fukui Prefecture",
+    "website_url": "",
+    "opening_hours": "Day bathing: typically 12:00–16:00 (varies by ryokan); call ahead to confirm",
+    "tips": "Awara is Fukui's premier hot spring town — compact and old-school. As a day visitor, Seifuso is the most welcoming for walk-in day baths. Pair with Eiheiji Temple (30 min by bus) and Tojinbo cliffs for a full Fukui day."
+  },
+  {
+    "id": "echizen-washi-paper",
+    "name": "Echizen Washi Village",
+    "prefecture": "Fukui",
+    "address": "Echizen City, Fukui Prefecture",
+    "website_url": "",
+    "opening_hours": "Udatsu no Mise: 9:00–17:00, closed Mon (open if public holiday); papermaking workshops available on-site",
+    "tips": "Echizen has produced washi for over 1,500 years. The papermaking workshop (from ¥500, 30 min) lets you make your own sheet to take home. The village is compact and walkable. Pair with Eiheiji Temple (15 min by car) for a full cultural day in Fukui."
+  },
+  {
+    "id": "eiheiji-temple",
+    "name": "Eiheiji Temple",
+    "prefecture": "Fukui",
+    "address": "5-15 Shihi, Eiheiji-cho, Yoshida-gun, Fukui",
+    "website_url": "",
+    "opening_hours": "5:00–17:00 year-round; earlier start for zazen participants",
+    "tips": "An active Zen training monastery — monks in training move through the corridors in silence and should not be photographed or approached. The cedar-forest approach path sets the contemplative mood before you even arrive. Stay overnight as a temple lodger (shukubo) for the 3:30am morning ceremony — book months ahead."
+  },
+  {
+    "id": "fukui-dinosaur-museum",
+    "name": "Fukui Prefectural Dinosaur Museum",
+    "prefecture": "Fukui",
+    "address": "51-11 Terao, Katsuyama City, Fukui",
+    "website_url": "",
+    "opening_hours": "9:00–17:00 (last entry 16:30); closed Tue (open on public holidays)",
+    "tips": "One of Asia's largest dinosaur museums — genuinely world-class. The full-size moving dinosaur replicas in the main hall impress adults as much as children. Combine with the nearby Katsuyama fossil excavation site (separate reservation required) to dig for real fossils yourself."
+  },
+  {
+    "id": "ichijodani-ruins",
+    "name": "Ichijodani Asakura Clan Ruins",
+    "prefecture": "Fukui",
+    "address": "Fukui City, Fukui Prefecture",
+    "website_url": "",
+    "opening_hours": "9:00–17:00; closed Mon",
+    "tips": "A remarkable time-capsule — the entire castle town of the Asakura clan was burned in 1573 and buried, then excavated to reveal streets, workshops, and residences frozen in the 16th century. Walk among the reconstructed samurai residences for a genuinely atmospheric experience. Often nearly empty even in high season."
+  },
+  {
+    "id": "maruoka-castle",
+    "name": "Maruoka Castle",
+    "prefecture": "Fukui",
+    "address": "1 Maruoka-cho Shiro, Sakai City, Fukui",
+    "website_url": "",
+    "opening_hours": "8:30–17:00 year-round",
+    "tips": "Japan's oldest surviving castle keep (possibly 1576) — unrestored and slightly tilting, giving it a genuine sense of age rare among Japanese castles. The interior ladders are extremely steep; handrails provided. The spring cherry blossom moat view is one of Fukui's most photographed scenes. Combine with Ichijodani Ruins and Eiheiji Temple for a full Fukui history day."
+  },
+  {
+    "id": "mihama-beach",
+    "name": "Mihama — Wakasa Bay Coast",
+    "prefecture": "Fukui",
+    "address": "Mihama-cho, Mikatakaminaka-gun, Fukui",
+    "website_url": "",
+    "opening_hours": "Beach: always open; tourist facilities: May–Sep peak",
+    "tips": "The Wakasa Bay coast around Mihama has some of Fukui's best beaches — clear water, white sand, and pine forests typical of the Japan Sea coast. The Obama–Wakasa area nearby has its own UNESCO-related history as the source of fresh fish for Kyoto (the Saba Kaido mackerel road). Tie-dye (somemonoshop) workshops are a local craft activity."
+  },
+  {
+    "id": "nishiyama-park-azalea",
+    "name": "Nishiyama Park Azaleas",
+    "prefecture": "Fukui",
+    "address": "Sabae City, Fukui Prefecture",
+    "website_url": "",
+    "opening_hours": "Park: always open; azalea peak: early to mid-May; free at all times",
+    "tips": "100,000 azalea bushes covering a hillside in the castle park — almost entirely unknown outside of Fukui. The variety of colours (white, pink, red, purple) at full bloom is extraordinary. Combine with Maruoka Castle (20 min by car) and Eiheiji Temple for a full Fukui day."
+  },
+  {
+    "id": "wakasa-obama-food",
+    "name": "Obama — Ancient Food Capital",
+    "prefecture": "Fukui",
+    "address": "Obama City, Fukui Prefecture",
+    "website_url": "",
+    "opening_hours": "City always accessible; Wakasa Fureai Market: 9:00–17:00; Ukanoya (lacquerware): 9:00–17:00 Tue–Sun",
+    "tips": "Obama supplied fresh fish to the Kyoto imperial court for over 1,000 years via the 'Saba Kaido' (mackerel road). The Obama Onsen foot bath near the port runs continuously — the water emerges at 80°C. Obama lacquerware (Obama nuri) is a refined local craft. The Obama Grill, serving traditional local food at the port, is excellent for lunch."
+  },
+  {
+    "id": "tojinbo-cliffs",
+    "name": "Tojinbo Cliffs",
+    "prefecture": "Fukui",
+    "address": "Sakai City, Fukui Prefecture",
+    "website_url": "",
+    "opening_hours": "Cliffs: always accessible; sightseeing boats: Mar–Nov 9:00–17:00 (weather permitting)",
+    "tips": "The 25m columnar basalt sea cliffs are Japan's most dramatic coastal geology — the hexagonal rock columns were formed by volcanic pressure 13 million years ago. The 1km clifftop walk gives continuously changing perspectives. The boat tour (25 min) passes directly beneath the cliff faces — the scale is more apparent from the sea. Combine with Maruoka Castle (30 min by car) and Eiheiji Temple for a full Fukui day."
+  },
+  {
+    "id": "higashi-chaya-district",
+    "name": "Higashi Chaya District",
+    "prefecture": "Ishikawa",
+    "address": "Higashiyama 1-chome, Kanazawa-shi, Ishikawa",
+    "website_url": "",
+    "opening_hours": "District always accessible; Shima ochaya: 9:00–18:00 year-round",
+    "tips": "Visit early morning (before 9am) when the latticed wooden facades are quiet and atmospheric. Kanazawa's three chaya districts (Higashi, Nishi, Kazuemachi) form a rewarding half-day walking circuit. Kinkaku (gold leaf) soft-serve ice cream sold in the district is an unmissable local treat."
+  },
+  {
+    "id": "kaga-onsen",
+    "name": "Kaga Onsen (Katayamazu)",
+    "prefecture": "Ishikawa",
+    "address": "Kaga City, Ishikawa Prefecture",
+    "website_url": "",
+    "opening_hours": "Day baths: typically 13:00–15:00 (varies by ryokan); call ahead to confirm; public baths open longer",
+    "tips": "Kaga Onsen covers four distinct hot spring towns — Yamashiro, Yamana, Katayamazu, and Kakusenkei. Each has different mineral compositions. Yamanaka Onsen's gorge setting (Kakusenkei) is the most scenic; Yamashiro has the most accessible day baths. Kanazawa is 40 minutes by express bus — natural day-trip combination."
+  },
+  {
+    "id": "kanazawa-21-museum",
+    "name": "Kanazawa 21st Century Museum",
+    "prefecture": "Ishikawa",
+    "address": "1-2-1 Hirosaka, Kanazawa",
+    "website_url": "",
+    "opening_hours": "Free outdoor zone: always accessible; gallery exhibitions: 10:00–18:00 (Fri–Sat until 20:00), closed Mon",
+    "tips": "The swimming pool illusion installation ('Swimming Pool' by Leandro Erlich) is the most photographed work — arrive at opening to see it without queues. The circular building has no 'front' entrance — explore freely in any direction. Even the free outdoor zone alone is worth visiting on a weekday afternoon."
+  },
+  {
+    "id": "kenroku-en-garden",
+    "name": "Kenroku-en Garden",
+    "prefecture": "Ishikawa",
+    "address": "1 Kenrokumachi, Kanazawa-shi, Ishikawa",
+    "website_url": "https://kenrokuen.or.jp/en/",
+    "opening_hours": "7:00–18:00 (Mar–Oct); 8:00–17:00 (Nov–Feb); free entry before 8:00 in summer",
+    "tips": "One of Japan's three great gardens. The name (Kenroku-en = 'six attributes combined') refers to the Chinese ideal of garden perfection. Early morning entry is free — a 45-minute walk before the crowds arrive is the best way to experience it. Winter yukitsuri (snow rope supports on pine trees) are the most iconic image of Kanazawa."
+  },
+  {
+    "id": "myoryuji-ninja-temple",
+    "name": "Myoryuji — Ninja Temple",
+    "prefecture": "Ishikawa",
+    "address": "1-2-12 Nomachi, Kanazawa",
+    "website_url": "",
+    "opening_hours": "Tours: 9:00–16:30 (last entry); advance reservation required by phone",
+    "tips": "Entry is strictly by advance reservation — the temple will not allow walk-ins. The interior has 29 staircases, 23 rooms, hidden rooms, trap doors, and a secret tunnel — designed to protect the lord from assassination. The tour takes 40 minutes and is conducted in Japanese only (written English guide provided). One of Kanazawa's most unique experiences."
+  },
+  {
+    "id": "noto-peninsula",
+    "name": "Noto Peninsula Coast",
+    "prefecture": "Ishikawa",
+    "address": "Noto Peninsula, Ishikawa Prefecture",
+    "website_url": "",
+    "opening_hours": "Peninsula accessible year-round; Wajima Morning Market: 8:00–12:00 daily; Senmaida rice terraces: best May–Jun and Sep–Oct",
+    "tips": "The Wajima Morning Market is the most famous on the Japan Sea coast — fresh seafood, lacquerware, and local vegetables sold by the same families for generations. The Senmaida (thousand rice terraces) illuminated with LED lights October–March is a remarkable installation. The Noto coastline (especially the Gojiraiwa and Ganmon rock formations on the Outer Noto coast) is wild and striking. Allow 2 days minimum."
+  },
+  {
+    "id": "omicho-market",
+    "name": "Omicho Market",
+    "prefecture": "Ishikawa",
+    "address": "50 Kamiomicho, Kanazawa",
+    "website_url": "",
+    "opening_hours": "Most stalls: 9:00–17:00 (some open earlier); closed some Sun and public holidays",
+    "tips": "Kanazawa's kitchen since 1721 — Omicho is the most important fresh market in the Hokuriku region. The crab season (November–March) brings spectacular king and snow crab at prices far below Tokyo. The fresh sushi counters inside the market offer excellent value lunches. Buy fresh seafood in the morning and head to a nearby ryokan kitchen to cook it."
+  },
+  {
+    "id": "shirayama-hime-shrine",
+    "name": "Shirayama Hime Shrine",
+    "prefecture": "Ishikawa",
+    "address": "Hakusan City, Ishikawa Prefecture",
+    "website_url": "",
+    "opening_hours": "5:00–17:00; mountain hiking trails open year-round (best May–Nov)",
+    "tips": "The head shrine of 2,700 Shirayama Hime shrines across Japan — the mountain approach through ancient cedar forest is beautiful. The cable car no longer operates (check current status); the walking trail to the inner shrine (1.5 hours) is the more rewarding approach. In autumn the Kanazawa-facing valley is filled with spectacular foliage."
+  },
+  {
+    "id": "yamanaka-onsen",
+    "name": "Yamanaka Onsen",
+    "prefecture": "Ishikawa",
+    "address": "Yamanaka-onsen, Kaga City, Ishikawa",
+    "website_url": "",
+    "opening_hours": "Bathhouses typically 6:00–23:00; shops 10:00–18:00",
+    "tips": "Soak in the Kakusenkei Gorge footbath along the riverside promenade — it is free and incredibly scenic. Rent a bamboo steamer lunch at a local inn. The gorge walkway at dusk, with lanterns lit, is especially atmospheric."
+  },
+  {
+    "id": "echigo-tsumari-art",
+    "name": "Echigo-Tsumari Art Field",
+    "prefecture": "Niigata",
+    "address": "Tokamachi City, Niigata Prefecture",
+    "website_url": "",
+    "opening_hours": "Most installations open late Jul–mid Nov; some permanent works accessible year-round — check the official schedule as it varies by triennial cycle",
+    "tips": "A car is essential — the artworks are scattered across 760km² of rural landscape. The passport ticket covers most permanent installations. The Rice Field Art (viewed from a hilltop or drone) and Kinosato Station installations are highlights. The triennial runs every 3 years in summer; check the current schedule before planning."
+  },
+  {
+    "id": "joetsu-dinosaur-museum",
+    "name": "Fossa Magna Museum — Itoigawa",
+    "prefecture": "Niigata",
+    "address": "Itoigawa City, Niigata Prefecture",
+    "website_url": "",
+    "opening_hours": "9:00–17:00; closed Mon",
+    "tips": "Itoigawa is the world's only UNESCO Geopark for jade. The museum explains why local rivers produce gemstone-quality nephrite. The Itoigawa Geosite beach (5 min by car) is where you can legally search for jade pebbles in the river gravel. Finding a small piece of nephrite jade is entirely possible — bring a bag."
+  },
+  {
+    "id": "myoko-kogen",
+    "name": "Myoko Kogen",
+    "prefecture": "Niigata",
+    "address": "Myoko City, Niigata Prefecture",
+    "website_url": "",
+    "opening_hours": "Ski season: Dec–Mar; summer hiking: Jun–Oct; Suginosawa Onsen: year-round",
+    "tips": "Myoko is one of Japan's top ski destinations with consistent deep powder — the Akakura and Myoko Suginosawa areas are the most developed. In summer the Myoko-Togakushi Renzan National Park has excellent hiking. The onsen town at the base (Akakura) has good ryokan and restaurants. 2.5 hours from Tokyo by Shinkansen to Myoko-Hachi Station."
+  },
+  {
+    "id": "naeba-ski",
+    "name": "Naeba Ski Resort",
+    "prefecture": "Niigata",
+    "address": "Yuzawa-machi, Minamiuonuma-gun, Niigata",
+    "website_url": "",
+    "opening_hours": "Ski season: typically Dec–Mar; summer green season: Jun–Oct (chairlift operates for hiking); Dragon Doola gondola to Kagura area: operates in ski season",
+    "tips": "Naeba is one of Japan's largest ski resorts with 30 lifts and excellent powder. The summer Fuji Rock Festival (late July) transforms the site — one of Asia's best music festivals. The gondola connection to Kagura area (23 minutes) offers the best off-piste terrain. Stay in the Prince Hotel at the base for ski-in/ski-out convenience."
+  },
+  {
+    "id": "niigata-city-canal",
+    "name": "Niigata City — Furumachi & Canal Town",
+    "prefecture": "Niigata",
+    "address": "Chuo-ku, Niigata City, Niigata",
+    "website_url": "",
+    "opening_hours": "Furumachi district: always accessible; restaurants: 11:00–22:00; Bandai City market area: 9:00–20:00",
+    "tips": "Niigata is Japan's rice and sake capital — the combination of the highest quality rice (Koshihikari) and local water makes the sake here exceptional. The Furumachi geisha district still has active ochaya. Niigata City's craft beer scene has grown dramatically — good pairing with local seafood. The Minato district around the old port is being revitalised and worth exploring."
+  },
+  {
+    "id": "niigata-sake-breweries",
+    "name": "Niigata Sake Breweries",
+    "prefecture": "Niigata",
+    "address": "Niigata City, Niigata Prefecture",
+    "website_url": "",
+    "opening_hours": "Tasting rooms: typically 9:00–17:00; Ponshukan sake museum at Niigata Station: 9:00–20:30 daily",
+    "tips": "The Ponshukan sake museum at Niigata Station has 90+ local sake brands in coin-operated tasting machines (¥100 per 30ml) — an outstanding introduction to the breadth of Niigata sake styles. Individual brewery tours (Imayo-tsukasa, Hakkaisan) typically require advance booking. Purchase sake at the source — prices are lower and freshness is guaranteed."
+  },
+  {
+    "id": "ojiya-koi-city",
+    "name": "Ojiya — Koi Carp Capital",
+    "prefecture": "Niigata",
+    "address": "Ojiya City, Niigata Prefecture",
+    "website_url": "",
+    "opening_hours": "Koi Museum: 9:00–16:30, closed Mon; Koi farms: viewable year-round from public roads",
+    "tips": "Ojiya is the birthplace of Nishikigoi (ornamental koi carp) — the colourful varieties developed here in the 19th century. The museum explains 200 years of selective breeding. The Ojiya Konjakikan Koi Farm allows close viewing and feeding of championship-grade koi. Local sake and snow-country cuisine (snow-aged food, Uonuma rice) are also outstanding."
+  },
+  {
+    "id": "sado-island",
+    "name": "Sado Island",
+    "prefecture": "Niigata",
+    "address": "Sado City, Niigata Prefecture",
+    "website_url": "",
+    "opening_hours": "Ferry: year-round from Niigata (2.5hr car ferry or 1hr jetfoil); island accessible by bus and rental car/bicycle",
+    "tips": "Sado is Japan's sixth-largest island with a density of culture remarkable for its size — gold mine, Noh drama tradition, taiko drumming (Kodo group), and exile history of emperors and Buddhist monks. The gold mine (Sado Kinzan) is the main site. The Kodo Earth Celebration festival in August is one of Asia's great world music events. Allow 2 nights minimum."
+  },
+  {
+    "id": "niigata-koshihikari",
+    "name": "Uonuma — Koshihikari Rice Country",
+    "prefecture": "Niigata",
+    "address": "Uonuma City, Niigata Prefecture",
+    "website_url": "",
+    "opening_hours": "Rice fields: always viewable; harvest events: Sep–Oct; local restaurants: 11:00–21:00",
+    "tips": "Uonuma's Koshihikari is considered Japan's finest rice — the combination of cold snowmelt water, hot summers, and temperature differential creates the ideal growing conditions. The new rice (shinmai) season October–November is when the flavour peaks — eat it with simple toppings to appreciate it. The Shiozawa Tsumugi silk weaving workshops provide a complementary cultural activity."
+  },
+  {
+    "id": "yahiko-shrine",
+    "name": "Yahiko Shrine & Mt Yahiko",
+    "prefecture": "Niigata",
+    "address": "Yahiko Village, Nishikanbara-gun, Niigata",
+    "website_url": "",
+    "opening_hours": "Shrine: open 24 hours; cable car 8:30–17:00 (seasonal)",
+    "tips": "Ride the ropeway to the summit for sweeping views of the Echigo Plain and Sea of Japan. The shrine festival in late April draws huge crowds — visit mid-week in autumn for peaceful golden rice paddies in the valley below."
+  },
+  {
+    "id": "gokayama-village",
+    "name": "Gokayama — Ainokura Village",
+    "prefecture": "Toyama",
+    "address": "Nanto City, Toyama Prefecture",
+    "website_url": "",
+    "opening_hours": "Village always accessible; Ainokura Folklore Museum: 8:30–17:00, closed Tue",
+    "tips": "Gokayama is even quieter than nearby Shirakawa-go — fewer tour buses and a more authentic atmosphere. Ainokura has 23 surviving gassho-zukuri farmhouses, several still inhabited. Stay overnight in a farmhouse guesthouse to experience the snow-covered village after day visitors leave."
+  },
+  {
+    "id": "ikejiri-fish-market",
+    "name": "Himi Fisherman's Wharf",
+    "prefecture": "Toyama",
+    "address": "Himi City, Toyama Prefecture",
+    "website_url": "",
+    "opening_hours": "Market: 8:00–18:00; restaurants: 11:00–15:00, some open for dinner",
+    "tips": "Himi buri (yellowtail) is famous throughout Japan — the winter season (Nov–Feb) brings the finest fatty fish. The morning market section is most interesting before 10am when fishing boats have recently docked. Clear winter days give extraordinary views of the Tateyama mountain range across Toyama Bay — one of Japan's great coastal panoramas."
+  },
+  {
+    "id": "hotaruika-firefly-squid",
+    "name": "Hotaruika — Firefly Squid Season",
+    "prefecture": "Toyama",
+    "address": "Namerikawa City, Toyama Prefecture",
+    "website_url": "",
+    "opening_hours": "Museum: 9:00–17:00; shore viewing of wild squid: March–May, best at night during high tide",
+    "tips": "The firefly squid (hotaruika) season runs March through May when millions wash ashore bioluminescent at night. The best shore viewing is at Namerikawa Port — arrive at high tide (check the Toyama tide table) between midnight and 4am. The Hotaruika Museum in Namerikawa has excellent specimens year-round. Spring sashimi of raw firefly squid is a Toyama delicacy."
+  },
+  {
+    "id": "kurobe-dam",
+    "name": "Kurobe Dam",
+    "prefecture": "Toyama",
+    "address": "Tateyama, Nakaniikawa-gun, Toyama",
+    "website_url": "",
+    "opening_hours": "Alpine Route: mid-April–mid-November; Kurobe Dam: open during Alpine Route season",
+    "tips": "The Tateyama Kurobe Alpine Route is one of Japan's great engineering spectacles — tram, cable car, ropeway, trolleybus, and bus connect Toyama to Nagano over 90km of alpine terrain. The dam's seasonal water release (June 26–October 15) creates a dramatic jet of water. Book transport legs in advance during peak season (late April and October)."
+  },
+  {
+    "id": "takaoka-daibutsu",
+    "name": "Takaoka — Casting City & Great Buddha",
+    "prefecture": "Toyama",
+    "address": "Takaoka City, Toyama Prefecture",
+    "website_url": "",
+    "opening_hours": "Always accessible; temple grounds: 6:00–18:00",
+    "tips": "Japan's third-largest Great Buddha (15.85m) sits in the open air in central Takaoka. The bronze casting craftsmanship is exceptional — Takaoka has been Japan's copper casting capital for 400 years. The Zuiryuji Temple (a 15-minute walk) is one of Japan's most beautiful Zen temple ensembles with a dramatic 200m approach corridor. Combine with Kanazawa (40 min by train) for a full Hokuriku day."
+  },
+  {
+    "id": "tateyama-murodo",
+    "name": "Tateyama-Kurobe Alpine Route",
+    "prefecture": "Toyama",
+    "address": "Murodo, Tateyama, Toyama",
+    "website_url": "",
+    "opening_hours": "Alpine Route: mid-April–mid-November (some sections close earlier/later); Murodo snow corridor: typically open late April–June",
+    "tips": "The Murodo snow corridor (20m walls of snow on either side of the road) in late April–May is one of Japan's most extraordinary seasonal spectacles. Book accommodation at Murodo in advance for overnight stays above the clouds. The full Alpine Route crossing (Toyama to Nagano) takes a full day — six different transport modes. Tickets for the full route should be booked online well in advance for peak season."
+  },
+  {
+    "id": "noto-toyama-sea",
+    "name": "Toyama Bay — Japan's Natural Fish Tank",
+    "prefecture": "Toyama",
+    "address": "Toyama Bay, Toyama Prefecture",
+    "website_url": "",
+    "opening_hours": "Fishing ports accessible year-round; morning markets: early morning; restaurants: 11:00–21:00",
+    "tips": "Toyama Bay is one of Japan's most productive fishing grounds — the deep water (700m) is uniquely close to shore, making the Bay a 'natural fish tank' with extraordinary seafood diversity. Hotaruika firefly squid (season: March–May), buri yellowtail (winter), and shiro ebi (white shrimp, year-round) are the specialties. The Toyama morning markets near the port are the best place to eat them."
+  },
+  {
+    "id": "toyama-glass-art",
+    "name": "Toyama Glass Art Museum",
+    "prefecture": "Toyama",
+    "address": "1-2 Nishinachi, Toyama City, Toyama",
+    "website_url": "",
+    "opening_hours": "9:30–18:00 (last entry 17:30); closed Wed",
+    "tips": "Toyama's commitment to glass art is unusual and the collection outstanding — international studio glass works alongside Japanese masters. The Kengo Kuma-designed building (opened 2015) uses a grid of glass panels and mirrors to reflect the surrounding cityscape. Entry to the permanent collection is just ¥200 — exceptional value. The city's tram system makes it very accessible."
+  },
+  {
+    "id": "unarizuki-onsen",
+    "name": "Unazuki Onsen",
+    "prefecture": "Toyama",
+    "address": "Kurobe City, Toyama Prefecture",
+    "website_url": "",
+    "opening_hours": "Onsen town accessible year-round; Kurobe Gorge Torokko railway: Apr–Nov; day baths at ryokan: typically 12:00–16:00",
+    "tips": "Unazuki is the gateway to the Kurobe Gorge — the narrow-gauge Torokko (open-sided trolley) railway travels 20km into the gorge through a series of bridges, tunnels, and riverside ledges. The autumn foliage (October) in the gorge is extraordinary. The onsen water here is one of Japan's finest bicarbonate springs. Book the Torokko train well in advance for October visits."
+  },
+  {
+    "id": "zuiryuji-temple",
+    "name": "Zuiryuji Temple",
+    "prefecture": "Toyama",
+    "address": "35 Seki, Takaoka City, Toyama",
+    "website_url": "",
+    "opening_hours": "9:00–16:30 (closed Mon); entry ¥500",
+    "tips": "Zuiryuji is Takaoka's hidden gem: a complete Edo-period Soto Zen temple complex (National Treasure). The sand garden and the straight axis from main gate to Buddha hall are quintessential Zen composition. Arrive early — by 9:15 the temple is yours alone for the first hour."
+  }
+]

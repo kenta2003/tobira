@@ -1,0 +1,222 @@
+[
+  {
+    "id": "enoshima-island",
+    "name": "Enoshima Island",
+    "prefecture": "Kanagawa",
+    "address": "Enoshima, Fujisawa City, Kanagawa",
+    "access": "Enoshima Station on Odakyu Enoshima Line (60 min from Shinjuku)",
+    "admission": "Free (observation ¥500)",
+    "best_season": "Year-round (winter for Fuji views)",
+    "website_url": "",
+    "description": "A tidal island connected to the mainland by a 600-metre bridge, sacred to Benzaiten (the goddess of everything that flows — music, water, time). The island rises 60 metres with a pagoda, sea caves, and a lighthouse park offering Mt Fuji views on clear days. The approach street (Benzaiten Nakamise) is lined with shirasu (whitebait) restaurants."
+  },
+  {
+    "id": "hakone-ryokan",
+    "name": "Hakone Onsen",
+    "prefecture": "Kanagawa",
+    "address": "Hakone-machi, Ashigarashimo-gun, Kanagawa",
+    "access": "Romance Car from Shinjuku (85 min) or Shinkansen to Odawara (35 min)",
+    "admission": "Free Pass ¥5,000 (2 days)",
+    "best_season": "Year-round (winter for Fuji, autumn for foliage)",
+    "website_url": "",
+    "description": "Japan's most popular weekend escape from Tokyo — 17 distinct hot spring areas around Lake Ashi and Mt Hakone with 100+ ryokan ranging from budget minshuku to legendary kaiseki establishments. The Hakone Free Pass covers the romance car train, ropeway, pirate ship on the lake, and open-air museum — all with Mt Fuji visible on clear days."
+  },
+  {
+    "id": "hakone-open-air-museum",
+    "name": "Hakone Open Air Museum",
+    "prefecture": "Kanagawa",
+    "address": "1121 Ninotaira, Hakone-machi, Ashigarashimo-gun, Kanagawa",
+    "access": "Chokoku no Mori Station on Hakone Tozan Railway (85 min from Shinjuku)",
+    "admission": "¥1,600",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "Japan's first open-air art museum — 120 sculptures by Moore, Rodin, Picasso, and Miro displayed across 7 hectares of mountain landscape, with Mt Hakone visible behind. The Picasso Pavilion houses the world's largest Picasso collection outside Spain. An outdoor foot spa of volcanic hot spring water flows through the centre of the grounds."
+  },
+  {
+    "id": "kamakura-great-buddha",
+    "name": "Kamakura — Great Buddha & Hase-dera",
+    "prefecture": "Kanagawa",
+    "address": "4-2-28 Hase, Kamakura City, Kanagawa",
+    "access": "Hase Station on Enoden Line (40 min from Kamakura)",
+    "admission": "¥200 (Buddha)",
+    "best_season": "June (hydrangeas), March–April (cherry), Year-round",
+    "website_url": "",
+    "description": "Japan's second-largest bronze Buddha (13.35m) has sat in the open air since its covering hall collapsed in a 1498 tsunami — and the sea salt and centuries have given it extraordinary patina. Nearby Hase-dera temple has 10,000 hydrangeas on the hillside and a sea-view cave of Kannon statues that defines Kamakura."
+  },
+  {
+    "id": "kamakura-temples-trail",
+    "name": "Kamakura Temple Trail",
+    "prefecture": "Kanagawa",
+    "address": "Kamakura City, Kanagawa Prefecture",
+    "access": "Kamakura Station (JR Yokosuka Line, 55 min from Tokyo)",
+    "admission": "Free (individual temples ¥200–400)",
+    "best_season": "March–May, September–November",
+    "website_url": "",
+    "description": "The Kamakura Hiking Course connects Kencho-ji, Zuisen-ji, Egara-tenjin, and Kakuon-ji through forested ridgelines above the medieval city — a 10km trail with Mt Fuji views at the highest points. Kamakura was Japan's capital 1185–1333, and the trails pass genuine 13th-century stone Buddhas carved directly into cliff faces."
+  },
+  {
+    "id": "miura-peninsula",
+    "name": "Miura Peninsula Coastal Walk",
+    "prefecture": "Kanagawa",
+    "address": "Miura City, Kanagawa Prefecture",
+    "access": "Misakiguchi Station on Keikyu Kurihama Line (60 min from Shinagawa)",
+    "admission": "Free",
+    "best_season": "Year-round (October for tuna festival, February for daikon harvest)",
+    "website_url": "",
+    "description": "A rugged Pacific coastline an hour from Tokyo with cliffs, hidden coves, and the Aburatsubo Marine Park. Miura is Japan's top producer of daikon radish and one of the nation's finest sources of bluefin tuna — the tuna festival at Misakiko Port (October) is a rare chance to buy whole-fish portions at near-wholesale prices."
+  },
+  {
+    "id": "odawara-castle",
+    "name": "Odawara Castle",
+    "prefecture": "Kanagawa",
+    "address": "3-1-22 Jonai, Odawara City, Kanagawa",
+    "access": "5 min walk from Odawara Station (Shinkansen/Odakyu)",
+    "admission": "¥510",
+    "best_season": "March–April (cherry blossoms), Year-round",
+    "website_url": "",
+    "description": "The castle that withstood Takeda Shingen, Uesugi Kenshin, and even Toyotomi Hideyoshi's massive invasion forces — only to surrender to Tokugawa Ieyasu without a battle. The Hojo clan's seat of power for 100 years, it has a beautifully reconstructed keep surrounded by 360 cherry trees visible from the Shinkansen."
+  },
+  {
+    "id": "sankeien-garden",
+    "name": "Sankeien Garden",
+    "prefecture": "Kanagawa",
+    "address": "58-1 Honmoku Sannotani, Naka-ku, Yokohama",
+    "access": "Bus from Yokohama Station (30 min)",
+    "admission": "¥700",
+    "best_season": "February (plum), April (cherry), November (foliage)",
+    "website_url": "",
+    "description": "A 175,000-square-metre garden in Yokohama housing 10 historic buildings relocated from Kyoto, Kamakura, and Nara — including a genuine 500-year-old three-storey pagoda and a Rinshunkaku villa. Built by Yokohama silk merchant Hara Sankei in 1906, it remains the finest privately built garden in eastern Japan."
+  },
+  {
+    "id": "yokohama-chinatown",
+    "name": "Yokohama Chinatown",
+    "prefecture": "Kanagawa",
+    "address": "Yamashita-cho, Naka-ku, Yokohama",
+    "access": "Motomachi-Chukagai Station (Minato Mirai Line, 30 min from Shibuya)",
+    "admission": "Free",
+    "best_season": "Year-round (Chinese New Year January–February is spectacular)",
+    "website_url": "",
+    "description": "Japan's largest Chinatown — 600 restaurants and shops packed into 10 blocks founded in 1859 when Yokohama became the first port open to foreign trade. The four ornate gates mark each entrance, and the Kanteibyo (Guan Yu temple) at the centre blazes with incense. The weekend dim sum queues rival Hong Kong's finest."
+  },
+  {
+    "id": "yokohama-minatomirai",
+    "name": "Yokohama Minato Mirai",
+    "prefecture": "Kanagawa",
+    "address": "Minato Mirai, Nishi-ku, Yokohama",
+    "access": "Sakuragicho Station (JR Negishi Line, 30 min from Shibuya)",
+    "admission": "Free (Cup Noodle Museum ¥500)",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "Yokohama's waterfront district built on reclaimed land around the historic Red Brick Warehouse (Akarenga) — a 1911 customs facility turned shopping and event space. The Landmark Tower (Japan's second-tallest), Cup Noodle Museum, and Yamashita Park connect along a promenade with the best harbour skyline in Japan."
+  },
+  {
+    "id": "chichibu-shrine",
+    "name": "Chichibu — Mountain Town & Shrine",
+    "prefecture": "Saitama",
+    "address": "Chichibu City, Saitama Prefecture",
+    "access": "Seibu Chichibu Line from Ikebukuro (70 min)",
+    "admission": "Free (shrine)",
+    "best_season": "December (festival), May–November (outdoors)",
+    "website_url": "",
+    "description": "A mountain basin town set among the Oku-Chichibu ranges, home to one of Japan's three great night festivals — the Chichibu Yomatsuri (December 3) where six ornate floats and two mikoshi parade through freezing winter streets with fireworks overhead. The Chichibu Shrine (2,100 years old) is a National Important Cultural Property."
+  },
+  {
+    "id": "kawagoe-little-edo",
+    "name": "Kawagoe — Little Edo",
+    "prefecture": "Saitama",
+    "address": "Kawagoe City, Saitama Prefecture",
+    "access": "Kawagoe Station on Tobu/JR Saikyo Lines (30 min from Ikebukuro)",
+    "admission": "Free",
+    "best_season": "Year-round (October for Kawagoe Festival)",
+    "website_url": "",
+    "description": "A well-preserved Edo-period merchant town 30km from Tokyo — nicknamed Koedo (Little Edo) for its kura-zukuri (black plastered storehouse) main street and the only surviving Toki no Kane (Time Bell Tower) in the Kanto region. Confectionery Street (Kashiya Yokocho) has sold traditional dagashi (cheap sweets) since the Meiji era."
+  },
+  {
+    "id": "hanno-tenran-mountain",
+    "name": "Mt Tenran — Hanno",
+    "prefecture": "Saitama",
+    "address": "Hanno City, Saitama Prefecture",
+    "access": "Hanno Station on Seibu Ikebukuro Line (55 min from Ikebukuro)",
+    "admission": "Free",
+    "best_season": "Year-round (autumn foliage October–November)",
+    "website_url": "",
+    "description": "A gentle 305-metre mountain above the Iruma River valley — one of the most approachable peaks for Tokyo day-trippers, with a clear trail to the summit in 40 minutes. Emperor Hirohito walked this mountain in 1931, giving it the name \"Tenran\" (Emperor's View). The summit offers Chichibu mountain panoramas and city views simultaneously."
+  },
+  {
+    "id": "higashi-matsuyama-hike",
+    "name": "Musashi Kyuryo National Government Park",
+    "prefecture": "Saitama",
+    "address": "Ranzan-machi, Hiki-gun, Saitama",
+    "access": "Bus from Musashi-Ranzan Station (Tobu Tojo Line, 45 min from Ikebukuro)",
+    "admission": "¥450",
+    "best_season": "Late April–May (shibazakura), September–October (cosmos)",
+    "website_url": "",
+    "description": "Tokyo's nearest large national park — 304 hectares of rolling hills and forests in the Kanto Hills, blanketed in shibazakura (moss phlox) in spring and cosmos in autumn. The park sits on the old Musashi Plateau and has winding forest trails, bird-watching towers, and cycling courses that are almost empty on weekdays."
+  },
+  {
+    "id": "nagatoro-gorge",
+    "name": "Nagatoro Gorge",
+    "prefecture": "Saitama",
+    "address": "Nagatoro-cho, Chichibu-gun, Saitama",
+    "access": "Seibu Chichibu Line to Nagatoro Station (80 min from Ikebukuro)",
+    "admission": "Free (boat ¥1,600)",
+    "best_season": "April–May (shibazakura), October–November (foliage)",
+    "website_url": "",
+    "description": "A river gorge of naturally sculpted red and green rocks (Hitsujiyama Rhyolite) carved by the Arakawa River — officially designated Japan's first Special Natural Monument (1941). Traditional hand-poled river boats (yakatafune) float through the gorge between rhyolite formations while spring flowers and autumn foliage line the canyon walls."
+  },
+  {
+    "id": "omiya-bonsai-village",
+    "name": "Omiya Bonsai Village",
+    "prefecture": "Saitama",
+    "address": "Omiya Ward, Saitama City, Saitama",
+    "access": "Tobu Noda Line to Omiya-Koen Station (10 min from Omiya)",
+    "admission": "Museum ¥300",
+    "best_season": "Year-round (May for festival)",
+    "website_url": "",
+    "description": "The global capital of bonsai art — nine specialist bonsai nurseries clustered in Omiya, established by Tokyo bonsai masters who relocated here after the 1923 earthquake. The Omiya Bonsai Art Museum (world's first public bonsai museum) houses pieces 500–1,000 years old. The village hosts the Great Bonsai Festival in May."
+  },
+  {
+    "id": "ranzan-gorge",
+    "name": "Ranzan Gorge",
+    "prefecture": "Saitama",
+    "address": "Ranzan-machi, Hiki-gun, Saitama",
+    "access": "Musashi-Ranzan Station on Tobu Tojo Line (45 min from Ikebukuro)",
+    "admission": "Free",
+    "best_season": "Mid-November (foliage)",
+    "website_url": "",
+    "description": "A narrow river gorge of crystalline water and autumn maples nicknamed \"Little Arashiyama\" by Edo-period intellectuals who visited from Tokyo. The hiking path along the canyon rim passes a suspension bridge over the gorge and connects to the Musashi Hills forest trail system. Peak foliage (mid-November) draws visitors from across the region."
+  },
+  {
+    "id": "saitama-railway-museum",
+    "name": "Saitama Railway Museum",
+    "prefecture": "Saitama",
+    "address": "3-47 Onari-cho, Omiya-ku, Saitama City",
+    "access": "New Shuttle Tetsudo-Hakubutsukan Station (5 min from Omiya Station)",
+    "admission": "¥1,330",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "Japan's largest railway museum — 36 historic trains spanning from Meiji steam locomotives to bullet trains displayed in a vast hangar. The driving simulators, the miniature landscape layout (Japan's largest at 1:80 scale), and the rooftop observation deck over active Shinkansen tracks make this outstanding for all ages, not just train fans."
+  },
+  {
+    "id": "washinomiya-shrine",
+    "name": "Washinomiya Shrine",
+    "prefecture": "Saitama",
+    "address": "135-1 Washinomiya, Kuki City, Saitama",
+    "access": "Washinomiya Station on Tobu Isesaki Line (40 min from Asakusa)",
+    "admission": "Free",
+    "best_season": "Year-round (January for New Year)",
+    "website_url": "",
+    "description": "One of the Kanto region's oldest and largest shrines — founded over 2,400 years ago and a major power spot for martial arts and archery. The shrine became famous internationally as the setting for the anime \"Lucky Star,\" drawing anime pilgrims from around the world who found a genuinely ancient sacred site waiting for them."
+  },
+  {
+    "id": "yoshimi-caves",
+    "name": "Yoshimi Hyakuana Caves",
+    "prefecture": "Saitama",
+    "address": "Yoshimi-cho, Hiki-gun, Saitama",
+    "access": "Higashi-Matsuyama Station on Tobu Tojo Line (15 min taxi)",
+    "admission": "¥300",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "A hillside riddled with 219 hand-carved burial chambers from the 7th–9th centuries — the largest cluster of ancient burial caves in eastern Japan. The caves were later used by Christian converts (forbidden under the Tokugawa shogunate) as underground meeting rooms, making this site simultaneously prehistoric and politically charged."
+  }
+]

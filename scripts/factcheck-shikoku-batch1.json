@@ -1,0 +1,233 @@
+[
+  {
+    "id": "cape-sada",
+    "name": "Cape Sada",
+    "prefecture": "Ehime",
+    "address": "Sada, Ikata, Ehime",
+    "access": "80 min drive from Matsuyama; monorail at cape ¥900",
+    "admission": "Free; monorail ¥900",
+    "best_season": "Year-round (clearest views in winter)",
+    "website_url": "",
+    "description": "The westernmost point of Honshu — a bare volcanic cape reaching into the Bungo Channel between Ehime and Oita. A suspended monorail descends to the tip for 360° water views."
+  },
+  {
+    "id": "dogo-onsen",
+    "name": "Dogo Onsen",
+    "prefecture": "Ehime",
+    "address": "Dogoyunomachi, Matsuyama, Ehime",
+    "access": "Matsuyama City Tram, 20 min from JR Matsuyama station",
+    "admission": "¥460 (basic) – ¥1,500 (premium suite)",
+    "best_season": "Year-round",
+    "website_url": "https://dogo.jp/",
+    "description": "Japan's oldest hot spring, continuously in use for 3,000 years. Rumored to be the model for the bathhouse in Spirited Away, it retains its magnificent Meiji-era wooden bathhouse building."
+  },
+  {
+    "id": "ishite-ji-temple",
+    "name": "Ishite-ji Temple (Pilgrimage No.51)",
+    "prefecture": "Ehime",
+    "address": "Ishite, Matsuyama, Ehime",
+    "access": "15 min walk from Dogo Onsen",
+    "admission": "Free",
+    "best_season": "Year-round (spring and autumn pilgrim peaks)",
+    "website_url": "",
+    "description": "The 51st of 88 sacred temples on the Shikoku pilgrimage — one of the most architecturally remarkable, with a corridor packed floor-to-ceiling with pilgrim offerings and a tunnel maze to walk."
+  },
+  {
+    "id": "matsuyama-castle",
+    "name": "Matsuyama Castle",
+    "prefecture": "Ehime",
+    "address": "Marunouchi, Matsuyama, Ehime",
+    "access": "Ropeway from central Matsuyama, 5 min",
+    "admission": "¥520 (castle); ¥270 (ropeway)",
+    "best_season": "March–November",
+    "website_url": "https://www.matsuyamajo.jp/",
+    "description": "One of Japan's 12 original surviving castles, perched 132m above the city on a dramatic rocky summit. The ropeway delivers views of the Seto Inland Sea on clear days."
+  },
+  {
+    "id": "omishima-island",
+    "name": "Omishima Island",
+    "prefecture": "Ehime",
+    "address": "Omishima, Imabari, Ehime",
+    "access": "Ferry from Imabari, 35 min; or cycling Shimanami Kaido",
+    "admission": "Shrine free; treasure hall ¥1,000",
+    "best_season": "Year-round",
+    "website_url": "https://oomishimagu.jp/",
+    "description": "Home to Oyamazumi Shrine, the central shrine of all warrior deities — the greatest collection of ancient armor in Japan (9 national treasures) sits in a forest of 2,600-year-old camphor trees."
+  },
+  {
+    "id": "ozu-castle",
+    "name": "Ozu Castle",
+    "prefecture": "Ehime",
+    "address": "Ozu, Ozu, Ehime",
+    "access": "15 min walk from Iyo-Ozu station (JR Yodo Line)",
+    "admission": "¥550",
+    "best_season": "Year-round",
+    "website_url": "https://www.ozujou.jp/",
+    "description": "A fully reconstructed 2004 castle using only traditional Edo-era methods — hand-cut timber, no nails, no concrete — making it the most authentic modern castle reconstruction in Japan."
+  },
+  {
+    "id": "shikoku-karst",
+    "name": "Shikoku Karst Plateau",
+    "prefecture": "Ehime",
+    "address": "Kumakogen, Ehime",
+    "access": "50 min drive from Matsuyama; no public transport to plateau",
+    "admission": "Free",
+    "best_season": "May–October",
+    "website_url": "",
+    "description": "Japan's second-largest karst plateau straddles the Ehime-Kochi border at 1,400m — a sweep of white limestone outcrops, grazing dairy cows, and unobstructed Pacific views."
+  },
+  {
+    "id": "shimanami-kaido-ehime",
+    "name": "Shimanami Kaido Cycling (Ehime)",
+    "prefecture": "Ehime",
+    "address": "Imabari, Ehime",
+    "access": "Start from Imabari station (JR Yosan Line, 40 min from Matsuyama)",
+    "admission": "Bike rental ¥3,000; bridge tolls ¥500 total",
+    "best_season": "March–November",
+    "website_url": "https://www.go-shimanami.jp/",
+    "description": "The world's most beautiful cycling route — 70km across 10 islands on dedicated cycle lanes built into a 6-island bridge complex. Start from Imabari (Ehime) and finish in Onomichi (Hiroshima)."
+  },
+  {
+    "id": "uchiko-town",
+    "name": "Uchiko Preserved Town",
+    "prefecture": "Ehime",
+    "address": "Uchiko, Kita, Ehime",
+    "access": "15 min walk from Uchiko station (JR Yosan Line, 40 min from Matsuyama)",
+    "admission": "Town free; some buildings ¥200–¥500",
+    "best_season": "Year-round",
+    "website_url": "https://www.uchiko.info/",
+    "description": "A beautifully preserved Edo-period merchant town that grew wealthy from wax production. The main street retains its original buildings and a stunning 19th-century kabuki theater still in use."
+  },
+  {
+    "id": "uwajima-castle",
+    "name": "Uwajima Castle",
+    "prefecture": "Ehime",
+    "address": "Uwajima, Ehime",
+    "access": "25 min walk from Uwajima station (JR Yodo Line)",
+    "admission": "¥200",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "A compact original castle on a hill overlooking Uwa Sea, famous for its association with bullfighting — the only city in Japan where bull-vs-bull sumo-style fights are a living tradition."
+  },
+  {
+    "id": "chichibu-ga-hama",
+    "name": "Chichibugahama Beach",
+    "prefecture": "Kagawa",
+    "address": "Mitoyo, Kagawa",
+    "access": "40 min drive from Takamatsu station; limited public transport",
+    "admission": "Free",
+    "best_season": "March–May, September–October (golden hour + low tide overlap)",
+    "website_url": "",
+    "description": "Kagawa's 'Salar de Uyuni' — at low tide, a vast flat beach becomes a perfect mirror reflecting the sky, clouds and distant islands. The effect lasts only 30–60 minutes and requires specific conditions."
+  },
+  {
+    "id": "kotohiragu-shrine",
+    "name": "Kotohiragu Shrine (Konpira-san)",
+    "prefecture": "Kagawa",
+    "address": "Kotohira, Nakatado, Kagawa",
+    "access": "15 min walk from Kotohira station (JR Dosan Line)",
+    "admission": "Free (inner shrine ¥800)",
+    "best_season": "Year-round (avoiding peak summer heat for the climb)",
+    "website_url": "https://www.konpira.or.jp/",
+    "description": "Shikoku's most famous shrine, reached by climbing 1,368 steps up a forested mountain. The ascent takes 1–2 hours through stone lanterns, treasure halls, and increasingly wild forest."
+  },
+  {
+    "id": "marugame-castle",
+    "name": "Marugame Castle",
+    "prefecture": "Kagawa",
+    "address": "Ichiban-cho, Marugame, Kagawa",
+    "access": "15 min walk from Marugame station (JR Yosan Line)",
+    "admission": "¥200",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "Japan's highest stone walls (60m fan-shaped ramparts), topped by one of Japan's 12 surviving original wooden keeps. The construction geometry is considered masterful — the walls curve outward, impossible to climb."
+  },
+  {
+    "id": "naoshima-island",
+    "name": "Naoshima Island",
+    "prefecture": "Kagawa",
+    "address": "Naoshima, Kagawa",
+    "access": "Ferry from Uno port (Okayama), 20 min",
+    "admission": "Benesse Museum ¥1,300; Chichu ¥2,100; Art House ¥420 per house",
+    "best_season": "March–November (closed Mondays)",
+    "website_url": "https://benesse-artsite.jp/en/",
+    "description": "Japan's most celebrated contemporary art island — a former industrial wasteland transformed by Tadao Ando and the Benesse Foundation into a world-class open-air museum set among rice paddies and sea breezes."
+  },
+  {
+    "id": "ritsurin-garden",
+    "name": "Ritsurin Koen Garden",
+    "prefecture": "Kagawa",
+    "address": "Ritsurincho, Takamatsu, Kagawa",
+    "access": "15 min walk from Takamatsu station",
+    "admission": "¥410",
+    "best_season": "Year-round",
+    "website_url": "https://ritsuringarden.jp/",
+    "description": "One of Japan's finest historical landscape gardens — 100 years of development by Takamatsu domain lords created 6 ponds, 13 hills, and 1,400 manicured pines."
+  },
+  {
+    "id": "shiwaku-islands",
+    "name": "Shiwaku Islands",
+    "prefecture": "Kagawa",
+    "address": "Marugame, Kagawa (Shiwaku Islands)",
+    "access": "Ferry from Marugame, 35 min",
+    "admission": "Free; ferry ¥700",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "Former pilot-guild islands where medieval Japan's greatest navigators lived. Honjima Island preserves one of Japan's finest concentrations of traditional merchant houses from the 17th–19th centuries."
+  },
+  {
+    "id": "shodoshima-island",
+    "name": "Shodoshima Island",
+    "prefecture": "Kagawa",
+    "address": "Shodoshima, Shozu, Kagawa",
+    "access": "Ferry from Takamatsu, 60 min; car ferry also available",
+    "admission": "Free; ferry ¥1,220",
+    "best_season": "Year-round (tidal sandbar timing variable)",
+    "website_url": "https://www.shodoshima.gr.jp/",
+    "description": "Kagawa's largest island — olive groves, Angel Road tidal sandbar, soy sauce breweries and sesame oil production. Often called Japan's Greece for its Mediterranean microclimate."
+  },
+  {
+    "id": "takamatsu-castle",
+    "name": "Takamatsu Castle (Tamamo Park)",
+    "prefecture": "Kagawa",
+    "address": "Tamamo-cho, Takamatsu, Kagawa",
+    "access": "5 min walk from Takamatsu station",
+    "admission": "¥200",
+    "best_season": "March–May, September–November",
+    "website_url": "",
+    "description": "One of Japan's three great sea castles — the tide once entered directly into the moat, and on storm days still does. The elegant stone walls rise from the Seto Inland Sea with unusual beauty."
+  },
+  {
+    "id": "teshima-island",
+    "name": "Teshima Island",
+    "prefecture": "Kagawa",
+    "address": "Teshima, Shozu, Kagawa",
+    "access": "Ferry from Takamatsu, 35 min; or from Naoshima, 25 min",
+    "admission": "¥1,570 (museum)",
+    "best_season": "March–November (closed Tuesdays)",
+    "website_url": "https://benesse-artsite.jp/en/art/teshima-artmuseum.html",
+    "description": "Naoshima's quieter sister — the Teshima Art Museum is a concrete shell without pillars or artificial light, built over a spring. Water bubbles from the floor and light enters through apertures in the ceiling."
+  },
+  {
+    "id": "yashima-plateau",
+    "name": "Yashima Plateau",
+    "prefecture": "Kagawa",
+    "address": "Yashimahigashi, Takamatsu, Kagawa",
+    "access": "Yashima cable car, 5 min (or 60 min hike)",
+    "admission": "Cable car ¥1,000 return",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "A flat-topped mountain (292m) rising from the sea like an ancient stage — site of the decisive 1185 Yashima naval battle (Genpei War). The plateau-edge views over the Seto Inland Sea are magnificent and overlooked by tourists."
+  },
+  {
+    "id": "zentsuji-temple",
+    "name": "Zentsuji Temple",
+    "prefecture": "Kagawa",
+    "address": "Zentsuji, Nakatado, Kagawa",
+    "access": "10 min walk from Zentsuji station (JR Dosan Line)",
+    "admission": "¥500 (underground tunnel)",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "The largest and most sacred temple on the 88-temple pilgrimage — the birthplace of Kobo Daishi (Kukai), founder of Shingon Buddhism, in 774 AD. The underground tunnel walk is uniquely immersive."
+  }
+]

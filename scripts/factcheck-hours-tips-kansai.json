@@ -1,0 +1,497 @@
+[
+  {
+    "id": "arima-onsen",
+    "name": "Arima Onsen",
+    "prefecture": "Hyogo",
+    "address": "Arima-cho, Kita-ku, Kobe",
+    "website_url": "",
+    "opening_hours": "Day bath hours: typically 8:00–22:00 (varies by facility); Kinsen public bath 8:00–22:00, closed Tue",
+    "tips": "Arima has two distinct spring types: Kinsen (gold, iron-rich, reddish) and Ginsen (silver, clear). Try both for very different experiences. Extremely crowded on weekends — weekday morning arrivals get much better access to the narrow lanes."
+  },
+  {
+    "id": "awaji-island",
+    "name": "Awaji Island",
+    "prefecture": "Hyogo",
+    "address": "Awaji Island, Hyogo Prefecture",
+    "website_url": "",
+    "opening_hours": "Island accessible year-round; Naruto whirlpool boat tours run Mar–Oct, departures roughly hourly",
+    "tips": "The Naruto whirlpools are most dramatic during spring and autumn tidal shifts — check the tidal schedule on the official site. Awaji beef and Awaji onions are local specialties worth seeking out for lunch. The Awaji Yumebutai garden by Tadao Ando is worth a detour."
+  },
+  {
+    "id": "himeji-castle",
+    "name": "Himeji Castle",
+    "prefecture": "Hyogo",
+    "address": "68 Honmachi, Himeji City, Hyogo",
+    "website_url": "",
+    "opening_hours": "9:00–17:00 (Jun–Aug until 18:00); closed 29–30 Dec",
+    "tips": "Japan's finest castle. Queue times for the main keep reach 90+ minutes on Golden Week and weekends — arrive at 9am sharp. The Nishi-no-Maru gardens offer the best full-castle view and are far less crowded than the main keep entrance. Allow 3 hours minimum for the full experience."
+  },
+  {
+    "id": "kinosaki-onsen",
+    "name": "Kinosaki Onsen",
+    "prefecture": "Hyogo",
+    "address": "Kinosaki-cho, Toyooka-shi, Hyogo",
+    "website_url": "https://www.kinosaki-spa.gr.jp/english",
+    "opening_hours": "Village always accessible; 7 public bathhouses: typically 15:00–23:00 (varies, check each sotoyu); some closed Mon",
+    "tips": "The yukata-and-geta stroll between the seven public bathhouses (sotoyu) is Kinosaki's signature experience — ryokan guests get a free all-day sotoyu pass. Each bathhouse has a different atmosphere and spring composition. Evening is the best time — lantern-lit stone bridges and willow trees reflected in the canal create the ideal scene."
+  },
+  {
+    "id": "kobe-kitano",
+    "name": "Kobe Kitano — Foreign Residences",
+    "prefecture": "Hyogo",
+    "address": "Kitanocho, Chuo-ku, Kobe",
+    "website_url": "",
+    "opening_hours": "District always accessible; individual ijinkan residences: 9:00–18:00 (hours vary by house)",
+    "tips": "The foreign residences (ijinkan) tell the story of Kobe as Japan's most cosmopolitan Meiji-era port. The Weathercock House and the English House are the most interesting interiors. The hilltop location gives good views over Kobe harbour and Port Island. Kobe beef at a teppanyaki restaurant in the Kitano area is the natural way to complete the visit."
+  },
+  {
+    "id": "rokko-mountain",
+    "name": "Mt Rokko",
+    "prefecture": "Hyogo",
+    "address": "Rokko, Nada-ku, Kobe",
+    "website_url": "",
+    "opening_hours": "Mountain: year-round; Rokko Cable: 9:10–21:10 (every 20 min); Arima Ropeway: connects to Arima Onsen",
+    "tips": "The summit plateau has botanical gardens, an observatory, and a golf course — unusual for a mountain. The Kobe city panorama from the summit at night is outstanding. The cable car from Rokko Station connects to Arima Onsen via the ropeway on the other side — one of the most pleasant mountain-crossing day trips from Osaka or Kobe."
+  },
+  {
+    "id": "suma-beach",
+    "name": "Suma Beach",
+    "prefecture": "Hyogo",
+    "address": "Suma-ku, Kobe",
+    "website_url": "",
+    "opening_hours": "Beach: always open; facilities May–Sep",
+    "tips": "The beach where the Tale of Genji's protagonist went into exile has a melancholy literary atmosphere. Akashi Kaikyo Bridge (the world's longest suspension bridge) is visible to the west. The beach itself is good for swimming and less crowded than Shonan beaches near Tokyo. Suma Rikyu Park above the beach has excellent cherry blossoms in April."
+  },
+  {
+    "id": "takeda-castle-ruins",
+    "name": "Takeda Castle Ruins",
+    "prefecture": "Hyogo",
+    "address": "Wadayama-cho Takeda, Asago-shi, Hyogo",
+    "website_url": "",
+    "opening_hours": "Apr–Jun: 10:00–16:00; Jul–Aug: 8:00–18:00; Sep–Nov: 8:00–18:00; closed Dec–Mar",
+    "tips": "The 'Japanese Machu Picchu' — the castle ruins float above a sea of cloud on autumn mornings (September–November). The best cloud sea viewing is from Ritsuzan Park viewpoint across the valley, not from inside the ruins. Arrive at the ruins before 10am to avoid crowds. The 40-minute uphill walk from Takeda Station is part of the experience. Weekday October visits are far better than weekends."
+  },
+  {
+    "id": "tamba-sasayama",
+    "name": "Tanba Sasayama",
+    "prefecture": "Hyogo",
+    "address": "Tanba Sasayama City, Hyogo Prefecture",
+    "website_url": "",
+    "opening_hours": "Town always accessible; castle ruins: always accessible; shops: typically 10:00–17:00; Kuro-mame (black soybean) season: Oct–Dec",
+    "tips": "Sasayama is famous for Tamba black soybeans (kuro-mame) — the finest in Japan, grown in the foggy mountain valley. The Edo-period castle town streetscape (Bukeyashiki Street) is perfectly preserved. The Tanba ware (pottery) tradition produces a distinctive dark ceramic. October–November brings the black soybean harvest market. Combine with Fukuchiyama and Amanohashidate for a full northern Hyogo day."
+  },
+  {
+    "id": "daitokuji-temple",
+    "name": "Daitoku-ji Temple Complex",
+    "prefecture": "Kyoto",
+    "address": "53 Daitokujicho, Kita-ku, Kyoto",
+    "website_url": "",
+    "opening_hours": "Grounds: 9:00–16:30; individual sub-temples open sporadically — confirm dates in advance as many open only during special spring and autumn viewing periods",
+    "tips": "Daitoku-ji rewards visitors precisely because it's off the standard tourist route. Daisen-in has a famous dry garden; Ryogen-in has Japan's smallest rock garden. Many sub-temples only open during special viewing periods in spring and autumn — check the Kyoto Temple schedule before visiting."
+  },
+  {
+    "id": "fushimi-sake-district",
+    "name": "Fushimi Sake District",
+    "prefecture": "Kyoto",
+    "address": "Fushimi-ku, Kyoto (around Chushojima Station)",
+    "website_url": "",
+    "opening_hours": "Area always accessible; breweries: typically 9:30–16:30 (varies); sake museum: 9:00–16:30, closed Tue",
+    "tips": "Fushimi's underground water (fushimizu) is what makes the sake famous and is still drawn from wells throughout the district. The Gekkeikan Okura Sake Museum is the most visitor-friendly brewery for English speakers. Fushimi Inari Shrine is 10 minutes away by Kintetsu line — combine both in one afternoon."
+  },
+  {
+    "id": "honen-in",
+    "name": "Honen-in",
+    "prefecture": "Kyoto",
+    "address": "30 Goshonouchi Shishigatani, Sakyo-ku, Kyoto",
+    "website_url": "",
+    "opening_hours": "Always open; inner hall: 7:00–16:00 (closed late Mar and Nov for special exhibitions)",
+    "tips": "One of Kyoto's best-kept secrets — a 10-minute walk from Nanzenji through the Philosopher's Path leads to a mossy thatched gate most tourists walk past. The sand mounds inside the entrance gate are shaped differently each season. Visit early morning in maple season (mid-Nov) for extraordinary foliage without crowds."
+  },
+  {
+    "id": "jonangu-shrine",
+    "name": "Jonan-gu Shrine",
+    "prefecture": "Kyoto",
+    "address": "1 Nakajima, Fushimi-ku, Kyoto",
+    "website_url": "https://jonangu.com",
+    "opening_hours": "9:00–16:30 (last entry 16:00); plum season late Feb–mid Mar; wisteria late Apr",
+    "tips": "One of Kyoto's most beautiful garden shrines and almost always uncrowded. The plum blossom garden in late February is exceptional — the trees are old and dense. The spring wisteria and autumn foliage are equally impressive. Located near Fushimi — combine with the Fushimi sake district and Fushimi Inari for a southern Kyoto day."
+  },
+  {
+    "id": "kifune-shrine",
+    "name": "Kifune Shrine",
+    "prefecture": "Kyoto",
+    "address": "180 Kibunecho, Sakyo-ku, Kyoto",
+    "website_url": "",
+    "opening_hours": "6:00–20:00 (May–Nov); 6:00–18:00 (Dec–Apr)",
+    "tips": "Kifune is most magical in summer when restaurants serve 'kawadoko' dining — tables set directly over the cool mountain stream. Book a riverside restaurant table in July–August well in advance. The stone lantern-lined approach path through cedar forest is beautiful year-round. Combine with Kurama Temple (30 min walk over the mountain) for a forest hiking day."
+  },
+  {
+    "id": "kurama-village",
+    "name": "Kurama Village & Temple",
+    "prefecture": "Kyoto",
+    "address": "1074 Kurama Honmachi, Sakyo-ku, Kyoto",
+    "website_url": "https://www.kuramadera.or.jp",
+    "opening_hours": "Train from Demachiyanagi: 30 min (Eizan Railway); temple: 9:00–16:30 (cable car); mountain path always open in daylight",
+    "tips": "Kurama is famous for Sojobo — the tengu (mountain spirit) who taught the warrior Yoshitsune swordsmanship. The mountain path from Kurama Temple over the ridge to Kibune (90 min hike) is the classic route — come down to a riverside kawadoko lunch. The Kurama Fire Festival (October 22) is one of Japan's most dramatic night festivals."
+  },
+  {
+    "id": "philosophers-path",
+    "name": "Philosopher's Path",
+    "prefecture": "Kyoto",
+    "address": "Tetsugaku no Michi, Sakyo-ku, Kyoto",
+    "website_url": "",
+    "opening_hours": "Always open (outdoor path)",
+    "tips": "The 2km stone-paved canal path between Nanzenji and Ginkakuji is lined with cherry trees (late March peak) that make it one of Kyoto's most beautiful spring walks. Visit at 7am before the tourist shops open and you'll have the path largely to yourself. The cafes along the path are pleasant for a coffee stop. Honen-in temple is a hidden gem just off the path."
+  },
+  {
+    "id": "pontocho-alley",
+    "name": "Pontocho",
+    "prefecture": "Kyoto",
+    "address": "Pontocho, Nakagyo-ku, Kyoto",
+    "website_url": "",
+    "opening_hours": "Always accessible; restaurants: 12:00–14:00 (lunch), 17:00–23:00 (dinner); expensive without reservations",
+    "tips": "Pontocho is one of Kyoto's most atmospheric dining lanes — a narrow stone-paved alley running parallel to the Kamogawa River with 100+ restaurants in restored machiya. Book dinner in advance or arrive early for lunch to avoid the worst queues. The kawayuka (riverside terrace dining) May–September is the most quintessential Kyoto summer experience."
+  },
+  {
+    "id": "shimogamo-shrine",
+    "name": "Shimogamo Shrine",
+    "prefecture": "Kyoto",
+    "address": "59 Shimogamo Izumigawamachi, Sakyo-ku, Kyoto",
+    "website_url": "",
+    "opening_hours": "6:30–17:00; Tadasu-no-Mori (sacred forest): always accessible",
+    "tips": "The sacred forest (Tadasu-no-Mori) approaching the shrine is one of Kyoto's oldest natural environments — the path under the ancient trees is calm and beautiful year-round. The shrine is one of Kyoto's oldest (founded before the capital was established here). The Mitarashi Festival in late July (foot-purification in the spring water) is a gentle and moving ritual."
+  },
+  {
+    "id": "tofukuji-garden",
+    "name": "Tofukuji Garden",
+    "prefecture": "Kyoto",
+    "address": "15-778 Honmachi, Higashiyama-ku, Kyoto",
+    "website_url": "",
+    "opening_hours": "9:00–16:00 (Nov 9:00–16:30); closed Mon (garden); temple grounds: 9:00–15:30",
+    "tips": "The Hojo garden is one of the most celebrated modern Japanese gardens — Mirei Shigemori's 1939 redesign created four distinct garden rooms around the main hall. The 'checkered' moss and rock garden (north garden) is the most photographed. November maple foliage from the Tsuten-kyo bridge creates one of Kyoto's most iconic autumn scenes — arrive by 8am when the temple opens, before crowds."
+  },
+  {
+    "id": "asuka-village",
+    "name": "Asuka Village",
+    "prefecture": "Nara",
+    "address": "Asuka Village, Takaichi-gun, Nara",
+    "website_url": "",
+    "opening_hours": "Always open (outdoor sites); individual museums 9:00–17:00, closed Mon",
+    "tips": "Rent a bicycle at Asuka Station — it's the only practical way to connect the scattered burial mounds, stone carvings, and palace ruins. The Kitora Tomb murals can only be viewed on reserved dates; check the schedule at the Asuka Museum. Spring rice field views with ancient mounds are extraordinary."
+  },
+  {
+    "id": "horyu-ji",
+    "name": "Horyuji Temple",
+    "prefecture": "Nara",
+    "address": "1-1 Horyuji Sannai, Ikaruga-cho, Nara",
+    "website_url": "",
+    "opening_hours": "8:00–17:00 (Feb 22–Nov 3); 8:00–16:30 (Nov 4–Feb 21)",
+    "tips": "The world's oldest surviving wooden structures — some buildings date to 607 AD. The five-story pagoda and the Yumedono (Hall of Dreams) are the most significant. Take the Kintetsu Kashihara Line from Osaka-Namba (60 min) or Yamato-Yagi, not the JR line, for faster access. Allow 2–3 hours for the full complex."
+  },
+  {
+    "id": "isuien-garden",
+    "name": "Isuien Garden",
+    "prefecture": "Nara",
+    "address": "74 Suimoncho, Nara City",
+    "website_url": "",
+    "opening_hours": "9:30–16:00 (last entry 15:30); closed Tue",
+    "tips": "One of Japan's finest borrowed-landscape gardens — the Nandaimon Gate of Todai-ji and the forested hills of Kasugayama appear as a seamless extension of the garden. The garden has two sections (Edo and Meiji) connected by a teahouse. Combine with Yoshikien Garden next door (free for foreign tourists) for a full garden morning."
+  },
+  {
+    "id": "kasuga-taisha",
+    "name": "Kasuga Taisha",
+    "prefecture": "Nara",
+    "address": "160 Kasuganocho, Nara City",
+    "website_url": "",
+    "opening_hours": "6:00–18:00 (Mar–Oct); 6:30–17:00 (Nov–Feb); inner sanctuary: 8:00–16:00",
+    "tips": "Kasuga Taisha has over 3,000 stone and bronze lanterns — all lit simultaneously during the Mantoro festivals in February and August, a sight of extraordinary beauty. Walk the outer approach path through Nara Park at dawn when deer wander freely among the lanterns. The inner sanctuary holds genuine spiritual weight even for non-believers."
+  },
+  {
+    "id": "kasugayama-forest",
+    "name": "Kasugayama Primeval Forest",
+    "prefecture": "Nara",
+    "address": "Behind Kasuga Grand Shrine, Nara Park, Nara",
+    "website_url": "",
+    "opening_hours": "Always open (walking paths through the forest)",
+    "tips": "Designated a UNESCO World Heritage site as part of the Nara sacred landscape — the forest has been protected from logging for over 1,000 years, making it a rare example of ancient Japanese woodland. Enter via the path behind Kasuga Taisha or from the Wakakusa hillside. The forest contrasts sharply with the manicured gardens and temples below."
+  },
+  {
+    "id": "muro-ji-temple",
+    "name": "Muro-ji Temple",
+    "prefecture": "Nara",
+    "address": "78 Muro, Uda-shi, Nara",
+    "website_url": "",
+    "opening_hours": "8:30–17:00 (Apr–Nov); 9:00–16:00 (Dec–Mar)",
+    "tips": "Muro-ji is nicknamed 'the women's Koya-san' because it accepted female pilgrims when Mt Koya refused them. The five-story pagoda in the cedar forest is one of Japan's smallest and most beautiful. The mountain path continues to the inner sanctuary above — a 20-minute climb worth doing. The hydrangea season (June) makes the approach path spectacular."
+  },
+  {
+    "id": "naramachi",
+    "name": "Naramachi Merchant Quarter",
+    "prefecture": "Nara",
+    "address": "Naramachi, Nara-shi, Nara",
+    "website_url": "",
+    "opening_hours": "Always accessible; Naramachi Koshi-no-Ie: 9:00–17:00, closed Mon",
+    "tips": "The machiya townhouses of Naramachi have narrow frontages but extend deeply back — the 'unagi-no-nedoko' (eel's bed) layout. The free Naramachi Koshi-no-Ie shows the interior of a merchant house authentically. The small lanes are ideal for getting lost on foot. The area is quieter than central Nara and gives a sense of the old city away from the deer and temples."
+  },
+  {
+    "id": "nishiyoshino-mimosa",
+    "name": "Nishiyoshino Mimosa Valley",
+    "prefecture": "Nara",
+    "address": "Nishiyoshino, Yoshino-gun, Nara",
+    "website_url": "",
+    "opening_hours": "Park area: always open; mimosa peak: late February–mid March",
+    "tips": "A valley of 200 mimosa trees in full yellow bloom in late February — one of Japan's earliest and most unusual spring spectacles. The trees line a 1km walking path through a mountain village. Very remote (requires a car); combine with Yoshino's plum blossoms (40 min north) if visiting in the same window."
+  },
+  {
+    "id": "yoshino-cherry",
+    "name": "Yoshino Cherry Blossom Mountain",
+    "prefecture": "Nara",
+    "address": "Yoshino-cho, Yoshino-gun, Nara",
+    "website_url": "",
+    "opening_hours": "Open 24 hours; peak cherry late March–mid April",
+    "tips": "Yoshino has 30,000 cherry trees across four zones (shimo, naka, kami, oku-senbon). Go to Oku-senbon (the highest zone) for the least crowds — most visitors stop at the lower zones. Take the ropeway up and walk down for the best gradient of bloom."
+  },
+  {
+    "id": "yoshino-mountain",
+    "name": "Yoshino Mountain",
+    "prefecture": "Nara",
+    "address": "Yoshino-cho, Yoshino-gun, Nara",
+    "website_url": "",
+    "opening_hours": "Open 24 hours; shrine/temple hours 8:00–17:00",
+    "tips": "In cherry season arrive before 8:00 AM — cars are banned and the pedestrian path fills quickly. Outside blossom season the mountain is gloriously empty; autumn leaves rival the cherry bloom. Kinpusenji Temple at the base is Japan's second largest wooden building."
+  },
+  {
+    "id": "expo70-park",
+    "name": "Expo '70 Commemorative Park",
+    "prefecture": "Osaka",
+    "address": "1-1 Senribanpaku-koen, Suita City, Osaka",
+    "website_url": "",
+    "opening_hours": "9:30–17:00 (Fri–Sat until 19:30 Mar–Nov); closed Wed",
+    "tips": "The Tower of the Sun by Taro Okamoto is Japan's most distinctive postwar sculpture — unmissable. The interior (separate ticket ¥720) was restored in 2018 and contains original 1970 artworks. The surrounding park is enormous and ideal for picnics; cherry blossoms in late March are spectacular."
+  },
+  {
+    "id": "hozenji-yokocho",
+    "name": "Hozenji Yokocho",
+    "prefecture": "Osaka",
+    "address": "1-1-17 Namba, Chuo-ku, Osaka",
+    "website_url": "",
+    "opening_hours": "Always open; moss-covered Fudo statue: always accessible; most restaurants and bars: 18:00–late",
+    "tips": "Hozenji Yokocho is a narrow stone-cobbled alley of traditional kappo restaurants and bars — the moss-covered Fudo-Myoo statue is the spiritual heart of Osaka's food culture. Splash water on the statue for good fortune before dinner. The lantern-lit alley is most atmospheric after 20:00. Avoid on weekends if you dislike crowds."
+  },
+  {
+    "id": "kuromon-ichiba",
+    "name": "Kuromon Ichiba Market",
+    "prefecture": "Osaka",
+    "address": "2-4-1 Nipponbashi, Chuo-ku, Osaka",
+    "website_url": "",
+    "opening_hours": "8:00–18:00 (varies by stall); most stalls Mon–Sat, some Sunday",
+    "tips": "Kuromon is the 'Osaka Kitchen' — 170 stalls of fresh seafood, meat, and produce. Walk and eat: grilled wagyu on a stick, fresh uni on the shell, fugu sashimi. The market is most alive 9–11am when chefs shop for their restaurants. It's touristed but still genuinely functional as a local market — prices are reasonable if you avoid the most tourist-facing stalls."
+  },
+  {
+    "id": "minoo-waterfall",
+    "name": "Minoo Waterfall",
+    "prefecture": "Osaka",
+    "address": "Minoo Park, Minoo City, Osaka",
+    "website_url": "",
+    "opening_hours": "Waterfall path: always open; restaurants along trail: 10:00–17:00",
+    "tips": "A remarkably wild gorge accessible by train from central Osaka in 30 minutes. The 2.7km trail to the 33m waterfall passes through maple forest — autumn foliage (mid-November) rivals any in Kansai. Momiji tempura (maple leaf fried in batter) is the Minoo specialty, sold at stalls along the path. The trail is paved and stroller-accessible."
+  },
+  {
+    "id": "namba-yasaka-shrine",
+    "name": "Namba Yasaka Shrine",
+    "prefecture": "Osaka",
+    "address": "2-9-19 Motomachi, Naniwa-ku, Osaka",
+    "website_url": "",
+    "opening_hours": "6:00–18:00; grounds effectively always accessible",
+    "tips": "The enormous lion head (Ema-den) with its open mouth stage is one of Osaka's most striking architectural oddities — the lion's mouth is a stage for traditional performances. Despite being in the heart of Namba, the shrine is almost always quiet. The Setsubun bean-throwing ceremony (February 3) and the Taikasai fire festival (July) are the main events."
+  },
+  {
+    "id": "sakai-mounded-tombs",
+    "name": "Sakai — Mozu Kofun Tombs (UNESCO)",
+    "prefecture": "Osaka",
+    "address": "Daisen-cho, Sakai-ku, Sakai City, Osaka",
+    "website_url": "",
+    "opening_hours": "Always accessible (exterior walking path); Sakai City Museum: 9:30–17:15, closed Mon",
+    "tips": "The Daisen Kofun (burial mound of Emperor Nintoku) is the world's largest burial mound by area — bigger than the Great Pyramid of Giza. The moat walking circuit takes 40 minutes; the mound itself is sacred and closed to entry. The UNESCO listing in 2019 increased visitor numbers but the site remains genuinely serene. The city museum gives excellent historical context."
+  },
+  {
+    "id": "shinsekai-district",
+    "name": "Shinsekai",
+    "prefecture": "Osaka",
+    "address": "Shinsekai, Naniwa-ku, Osaka",
+    "website_url": "",
+    "opening_hours": "Always accessible; restaurants: typically 11:00–22:00; Tsutenkaku Tower: 9:00–21:00",
+    "tips": "Shinsekai is Osaka's most ungentrified neighbourhood — the tower modelled on the Eiffel Tower, the kushikatsu (deep-fried skewers) restaurants where the strict no-double-dipping sauce rule applies, and the retro Showa-era pachinko parlours create an atmosphere found nowhere else in Japan. Kushikatsu at Daruma (the original chain) at 11am before the queues form is the move."
+  },
+  {
+    "id": "shitennoji-temple",
+    "name": "Shitennoji Temple",
+    "prefecture": "Osaka",
+    "address": "1-11-18 Shitennoji, Tennoji-ku, Osaka",
+    "website_url": "",
+    "opening_hours": "8:30–16:30 year-round (last entry 16:00); outer grounds: always accessible",
+    "tips": "Japan's oldest officially administered temple (593 AD, founded by Prince Shotoku). The five-story pagoda, Golden Hall, and lecture hall are reconstructed on the original foundations. The flea markets held on the 21st and 22nd of each month (Daishi-ichi and Tenjin-ichi) draw antique hunters from across Osaka. The geometric garden (Garan) is peaceful in the middle of central Osaka."
+  },
+  {
+    "id": "sumiyoshi-taisha",
+    "name": "Sumiyoshi Taisha",
+    "prefecture": "Osaka",
+    "address": "2-9-89 Sumiyoshi, Sumiyoshi-ku, Osaka",
+    "website_url": "",
+    "opening_hours": "6:00–17:00 (summer); 6:30–17:00 (winter)",
+    "tips": "One of Japan's oldest and most important shrines — the Sumiyoshi architectural style (Sumiyoshi-zukuri) is unique to this shrine and predates both Buddhist and Chinese influences on Japanese shrine architecture. The arched stone bridge (Sori-bashi) over the pond is a popular spot for weddings. The shrine is 10 minutes by Nankai Line from Namba — easy to combine with central Osaka."
+  },
+  {
+    "id": "tsuruhashi-koreatown",
+    "name": "Tsuruhashi Koreatown",
+    "prefecture": "Osaka",
+    "address": "3-chome Tsuruhashi, Ikuno-ku, Osaka",
+    "website_url": "",
+    "opening_hours": "Always accessible; yakiniku restaurants: 11:00–23:00; market: 10:00–18:00",
+    "tips": "The largest Korean market in Japan outside of Tokyo's New Okuba — the covered arcade of Korean food stalls, kimchi vendors, and fabric shops is genuinely atmospheric. Yakiniku (Korean BBQ) here is the finest in Osaka — Tsuruhashi is where Osaka's yakiniku culture was born. Visit the market on foot before choosing a restaurant — the most reliable are slightly off the main lane."
+  },
+  {
+    "id": "azuchi-castle-ruins",
+    "name": "Azuchi Castle Ruins",
+    "prefecture": "Shiga",
+    "address": "Azuchicho, Omihachiman City, Shiga",
+    "website_url": "",
+    "opening_hours": "9:00–17:00 (Mar–Nov); 9:00–16:00 (Dec–Feb); closed Mon",
+    "tips": "The climb to the summit ruins is steep — sturdy footwear essential. Nobunaga's castle once had Japan's first European-style tower keep; the foundations and stone walls remain powerful. Combine with Hikone Castle (30 min by train) for a full castle day in Shiga."
+  },
+  {
+    "id": "chikubu-island",
+    "name": "Chikubushima Island",
+    "prefecture": "Shiga",
+    "address": "Chikubushima, Nagahama City, Shiga",
+    "website_url": "",
+    "opening_hours": "Ferries run 9:00–16:00 (varies by season); island closes at 16:30; no overnight stays",
+    "tips": "Throw a 'kawarake' clay dish through the torii gate from the cliff — it's said to bring good fortune. The island is very small (20 min to see everything); the 40-min ferry ride from Nagahama is itself scenic. Combine with Hikone Castle on the same day."
+  },
+  {
+    "id": "hikone-castle",
+    "name": "Hikone Castle",
+    "prefecture": "Shiga",
+    "address": "1-1 Konki-cho, Hikone City, Shiga",
+    "website_url": "",
+    "opening_hours": "8:30–17:00 year-round (last entry 16:30)",
+    "tips": "One of only five original (non-reconstructed) castle keeps in Japan — the weathered wood and stone feel genuinely 17th-century. The interior stairs are very steep; wear shoes you can remove easily. The Genkyuen Garden adjacent to the castle (included in ticket) is a formal daimyo garden worth 30 minutes extra."
+  },
+  {
+    "id": "hiyoshi-taisha",
+    "name": "Hiyoshi Taisha",
+    "prefecture": "Shiga",
+    "address": "5-1-1 Sakamoto, Otsu City, Shiga",
+    "website_url": "",
+    "opening_hours": "9:00–17:00; grounds always accessible",
+    "tips": "Hiyoshi Taisha is the head shrine of some 3,800 Sanno-sha shrines across Japan. The Sanno Festival in April (boats with mikoshi cross Lake Biwa) is one of Japan's three great boat festivals. The cedar forest path to the upper sanctuary is quiet and atmospheric — often completely empty on weekdays."
+  },
+  {
+    "id": "lake-biwa-cycling",
+    "name": "Lake Biwa Cycling Route (Biwako Cycling Road)",
+    "prefecture": "Shiga",
+    "address": "Lake Biwa, Shiga Prefecture",
+    "website_url": "",
+    "opening_hours": "Path accessible year-round; best Apr–Jun and Sep–Nov; bicycle rental at multiple stations around the lake",
+    "tips": "The full Lake Biwa circumnavigation (160km) takes 2 days for experienced cyclists; the northern half alone (Nagahama to Hikone) is a satisfying one-day ride with castle views. The lakeside path is generally flat and well-marked. The Biwako Terrace on Mt Biei above the western shore gives the best aerial view of the entire lake."
+  },
+  {
+    "id": "metasequoia-avenue",
+    "name": "Metasequoia Avenue",
+    "prefecture": "Shiga",
+    "address": "Makino-cho, Takashima City, Shiga",
+    "website_url": "",
+    "opening_hours": "Always open; most photogenic: mid-Nov (autumn colour) and late Dec–Feb (bare branches with snow)",
+    "tips": "The 2.4km double row of 500 metasequoia trees is a striking and unusual landscape in rural Shiga. The avenue is a 10-minute drive from Makino Station on the JR Kosei Line. In spring (late March) the fresh green needles create an entirely different atmosphere. Combine with the Tsuruga Peninsula and Lake Biwa's northern shore."
+  },
+  {
+    "id": "miho-museum",
+    "name": "Miho Museum",
+    "prefecture": "Shiga",
+    "address": "300 Momoyama, Shigaraki-cho, Koka City, Shiga",
+    "website_url": "",
+    "opening_hours": "10:00–17:00 (last entry 16:00); closed Mon; advance reservation required in some seasons",
+    "tips": "Designed by I.M. Pei in a forest valley, accessible via a long tunnel and bridge — the approach is the introduction. The collection (Egyptian, Greek, Roman, and Asian antiquities) is outstanding. Surrounded by Shigaraki ceramic region — combine with Shigaraki traditional kilns for a full Shiga cultural day."
+  },
+  {
+    "id": "omi-hachiman",
+    "name": "Omi-Hachiman Canal Town",
+    "prefecture": "Shiga",
+    "address": "Omi-Hachiman-shi, Shiga",
+    "website_url": "",
+    "opening_hours": "Town always accessible; Hachimanshosha museum and canal boat: 9:00–17:00 (closed Mon)",
+    "tips": "The Omi merchants (Omi shonin) built their fortune on the Silk Road of the Inland Sea — their distinctive warehouses and canal network survive intact. The canal boat ride (30 min, ¥1,500) is the best way to see the waterways. Combine with Hiyoshi Taisha and Azuchi Castle Ruins (both 20 min by car) for a full Shiga historical day."
+  },
+  {
+    "id": "shigaraki-pottery",
+    "name": "Shigaraki Pottery Village",
+    "prefecture": "Shiga",
+    "address": "Shigaraki-cho, Koka City, Shiga",
+    "website_url": "",
+    "opening_hours": "Village accessible year-round; workshops: typically 9:00–17:00; tanuki (raccoon dog) statues visible everywhere",
+    "tips": "Shigaraki is one of Japan's six ancient kiln sites — the chunky, flame-marked Shigaraki ware is immediately recognizable. The distinctive ceramic tanuki (raccoon dog) statues outside shops are a Shigaraki signature. Several large kilns (including the Shigaraki Ceramic Cultural Park) offer excellent throwing workshops for 2–3 hours. Combine with the Miho Museum (25 min by car)."
+  },
+  {
+    "id": "kushimoto-hashigui-rocks",
+    "name": "Hashigui Rocks",
+    "prefecture": "Wakayama",
+    "address": "Kushimoto-cho, Higashimuro-gun, Wakayama",
+    "website_url": "",
+    "opening_hours": "Always open (outdoor coastal area)",
+    "tips": "The rocks are believed to be the leftover pilings of a bridge built by Kobo Daishi in a single night. Sunrise and sunset are both spectacular, but the line of rocks is particularly photogenic at low tide. Combine with Cape Shio-no-Misaki (Japan's southernmost point on Honshu) 20 min south for a full coastal Wakayama day."
+  },
+  {
+    "id": "koyasan",
+    "name": "Koyasan — Mount Koya",
+    "prefecture": "Wakayama",
+    "address": "Koya-cho, Ito-gun, Wakayama",
+    "website_url": "",
+    "opening_hours": "Temples and monastery grounds: open from 6:00; Okunoin cemetery: 24 hours (lit by lanterns at night)",
+    "tips": "Walking Okunoin cemetery at night among 200,000 stone graves lit by lanterns is one of Japan's most profound experiences. Stay overnight in a shukubo (temple lodging) for the 6am morning prayer ceremony — the smell of incense and sound of chanting in candlelit halls is unforgettable. Reach Koyasan by Nankai Railway from Namba (Osaka) in 1.5 hours plus cable car."
+  },
+  {
+    "id": "kumano-kodo",
+    "name": "Kumano Kodo Pilgrimage Trail",
+    "prefecture": "Wakayama",
+    "address": "Tanabe City to Hongu, Wakayama",
+    "website_url": "",
+    "opening_hours": "Trail sections accessible year-round; Nakahechi route best Apr–Jun and Oct–Nov; reservations required for popular sections",
+    "tips": "Start with the Nakahechi route (Takijiri-oji to Hongu Taisha) for the most classic 3-day walk. The three grand shrines of Hongu, Nachi, and Hayatama are the destinations. Kumano Hongu Taisha's giant torii (Japan's largest) visible above the rice fields is an arriving-pilgrim moment. The Tanabe City Kumano Tourism Bureau has excellent English resources for planning."
+  },
+  {
+    "id": "nachi-falls",
+    "name": "Nachi Falls",
+    "prefecture": "Wakayama",
+    "address": "Nachisan, Nachikatsuura-cho, Higashimuro-gun, Wakayama",
+    "website_url": "",
+    "opening_hours": "Falls: always visible; Seigantoji Pagoda viewpoint: 8:30–16:00; Kumano Nachi Taisha shrine: 8:00–16:30",
+    "tips": "The combination of the 133m waterfall, the orange three-story pagoda, and the forested mountain behind is one of Japan's most reproduced images. The falls are a deity in Shinto — the shrine here is one of the three Kumano Grand Shrines. Arrive early morning before tour buses from Nagoya. The 267-step stone staircase from the bus stop is part of the pilgrimage."
+  },
+  {
+    "id": "ryujin-onsen",
+    "name": "Ryujin Onsen",
+    "prefecture": "Wakayama",
+    "address": "Ryujin Village, Tanabe City, Wakayama",
+    "website_url": "",
+    "opening_hours": "Day bath: typically 10:00–15:00; Kami-no-yu and Shimo-no-Yu public baths: 6:00–21:00",
+    "tips": "One of Japan's three great hot springs (along with Arima and Kusatsu) by traditional ranking. The water is a strong, slightly cloudy bicarbonate spring said to be excellent for skin. The remote mountain valley setting on the Hidaka River makes the drive here part of the experience. Combine with Nachi Falls and Kumano Hongu Taisha on the Kumano Kodo."
+  },
+  {
+    "id": "shirahama-beach",
+    "name": "Shirahama Beach",
+    "prefecture": "Wakayama",
+    "address": "Shirahama-cho, Nishimuro-gun, Wakayama",
+    "website_url": "",
+    "opening_hours": "Beach: always open; Saki-no-Yu foot onsen: 8:00–22:00 (closed Tue); ryokan day baths: varies",
+    "tips": "The white sand beach (the name means 'white beach') is one of Japan's finest on the Pacific coast — the colour contrast between the sand and deep blue sea is beautiful. The Saki-no-Yu open-air foot bath perched on the cliff above the ocean is free and one of Japan's most dramatic onsen settings. Combine with Senjo-jiki rock platform and Sandanbeki cliffs for a full Shirahama day."
+  },
+  {
+    "id": "yuasa-soy-sauce",
+    "name": "Yuasa — Birthplace of Soy Sauce",
+    "prefecture": "Wakayama",
+    "address": "Yuasa-cho, Arida-gun, Wakayama",
+    "website_url": "",
+    "opening_hours": "Shops and breweries 9:00–17:00; some closed Wed",
+    "tips": "Yuasa is the birthplace of Japanese soy sauce (13th century). The old townscape of \"namako-kabe\" plastered walls is a National Preservation District. Try hands-on soy sauce making at Kadocho brewery (booking required). Many shops sell aged tamari at fair prices."
+  }
+]

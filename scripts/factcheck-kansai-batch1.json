@@ -1,0 +1,222 @@
+[
+  {
+    "id": "daitokuji-temple",
+    "name": "Daitoku-ji Temple Complex",
+    "prefecture": "Kyoto",
+    "address": "53 Daitokujicho, Kita-ku, Kyoto",
+    "access": "12 min bus from Kyoto Station (Bus #205)",
+    "admission": "¥400–600 per sub-temple",
+    "best_season": "April–May, October–November",
+    "website_url": "",
+    "description": "A vast Zen complex of 22 sub-temples in northwestern Kyoto, most of which remain closed to the public. The handful that do open their gates reveal some of Japan's finest dry-landscape (karesansui) gardens — composed of raked gravel, moss, and carefully placed stones that reward slow, quiet contemplation."
+  },
+  {
+    "id": "fushimi-sake-district",
+    "name": "Fushimi Sake District",
+    "prefecture": "Kyoto",
+    "address": "Fushimi-ku, Kyoto (around Chushojima Station)",
+    "access": "3 min walk from Chushojima Station (Kintetsu Kyoto Line)",
+    "admission": "Free (museum ¥600)",
+    "best_season": "March–May, September–November",
+    "website_url": "",
+    "description": "Southern Kyoto's Fushimi has brewed sake for over 400 years, fed by the exceptionally soft underground water from the Momoyama Hills. While tourists crowd Fushimi Inari's gates to the north, the old sake breweries along the willow-lined Fushimi canal remain remarkably peaceful and locals still visit sakagura for morning sake."
+  },
+  {
+    "id": "honen-in",
+    "name": "Honen-in",
+    "prefecture": "Kyoto",
+    "address": "30 Goshonouchi Shishigatani, Sakyo-ku, Kyoto",
+    "access": "1 min off the Philosopher's Path, Nanzenji bus stop",
+    "admission": "Free",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "A hidden thatched-gate temple one minute off the Philosopher's Path that almost no tourists find despite its extraordinary beauty. Two sand mounds flanking the gate entrance are raked with seasonal patterns by the monks each week. The moss garden is kept deliberately cool and dark, and the grounds are free to enter."
+  },
+  {
+    "id": "jonangu-shrine",
+    "name": "Jonan-gu Shrine",
+    "prefecture": "Kyoto",
+    "address": "1 Nakajima, Fushimi-ku, Kyoto",
+    "access": "15 min bus from Kyoto Station (City Bus #19)",
+    "admission": "¥600",
+    "best_season": "February–May (plum, cherry, wisteria)",
+    "website_url": "https://jonangu.com",
+    "description": "A serene Heian-era garden shrine in southern Kyoto, completely overlooked by the tourist circuit. The layered garden recreates the plant landscapes described in The Tale of Genji, transforming dramatically with each season — plum blossoms in February, wisteria in April, wild irises in summer."
+  },
+  {
+    "id": "kifune-shrine",
+    "name": "Kifune Shrine",
+    "prefecture": "Kyoto",
+    "address": "180 Kibunecho, Sakyo-ku, Kyoto",
+    "access": "30 min from Demachiyanagi Station (Eizan Line) + 5 min bus",
+    "admission": "Free",
+    "best_season": "May–October (kawadoko), Winter evenings (lanterns)",
+    "website_url": "",
+    "description": "Ascending through a cedar-forested mountain valley north of Kurama, Kifune Shrine is Kyoto's deity of water. The stone lantern-flanked approach through moss and ancient trees is one of Japan's most atmospheric shrine paths. In summer, restaurants suspend dining platforms over the mountain stream (kawadoko dining)."
+  },
+  {
+    "id": "kurama-village",
+    "name": "Kurama Village & Temple",
+    "prefecture": "Kyoto",
+    "address": "1074 Kurama Honmachi, Sakyo-ku, Kyoto",
+    "access": "30 min from Demachiyanagi Station (Eizan Line)",
+    "admission": "¥500 (temple)",
+    "best_season": "April–May, October–November",
+    "website_url": "https://www.kuramadera.or.jp",
+    "description": "A mountain village 30 minutes from central Kyoto that feels centuries removed. The steep cedar-forested trail to Kurama-dera temple rewards climbers with mountain air, ancient moss, and the option to descend through bamboo groves to the hot spring village of Kibune. A full-day mountain escape from the city."
+  },
+  {
+    "id": "philosophers-path",
+    "name": "Philosopher's Path",
+    "prefecture": "Kyoto",
+    "address": "Tetsugaku no Michi, Sakyo-ku, Kyoto",
+    "access": "Ginkakuji-michi bus stop (from Kyoto Station, 40 min)",
+    "admission": "Free",
+    "best_season": "Late March–early April (cherry), November (maples)",
+    "website_url": "",
+    "description": "A 2km canal-side walkway between Ginkakuji and Nanzenji, named after philosopher Nishida Kitaro who walked it daily. It connects eight major temples through an almost continuous canopy of cherry trees in spring and maple trees in autumn, passing quiet backstreet cafes and pottery studios."
+  },
+  {
+    "id": "pontocho-alley",
+    "name": "Pontocho",
+    "prefecture": "Kyoto",
+    "address": "Pontocho, Nakagyo-ku, Kyoto",
+    "access": "5 min walk from Sanjo Station (Keihan Line)",
+    "admission": "Free (restaurant costs vary)",
+    "best_season": "June–September (kawayuka), Year-round evenings",
+    "website_url": "",
+    "description": "A single narrow lane running 500 metres between the Kamo River and Kiyamachi Street — Kyoto's most atmospheric dining corridor. In summer, restaurants extend wooden decks (kawayuka) over the river where diners eat in the breeze. The lane has no cars and no chain stores — only traditional restaurants and ochaya (geisha teahouses)."
+  },
+  {
+    "id": "shimogamo-shrine",
+    "name": "Shimogamo Shrine",
+    "prefecture": "Kyoto",
+    "address": "59 Shimogamo Izumigawamachi, Sakyo-ku, Kyoto",
+    "access": "10 min walk from Demachiyanagi Station (Keihan)",
+    "admission": "Free",
+    "best_season": "Year-round (May for Aoi Festival)",
+    "website_url": "",
+    "description": "One of Kyoto's oldest shrines (UNESCO), approached through the Tadasu no Mori — a primeval forest of 600-year-old trees untouched by the surrounding city. The forest path is far less crowded than the famous Fushimi Inari gates and gives a genuine sense of approaching an ancient sacred space. The shrine hosts the Aoi Festival in May."
+  },
+  {
+    "id": "tofukuji-garden",
+    "name": "Tofukuji Garden",
+    "prefecture": "Kyoto",
+    "address": "15-778 Honmachi, Higashiyama-ku, Kyoto",
+    "access": "Tofukuji Station on JR Nara Line / Keihan (10 min from Kyoto Station)",
+    "admission": "¥600 (garden)",
+    "best_season": "November (foliage), May–June (fresh green)",
+    "website_url": "",
+    "description": "A Zen temple famous for Japan's most radical garden — the Hojo garden designed by Mirei Shigemori in 1939, featuring a stark chessboard pattern of moss and stone squares. The autumn foliage over the Tsutenkyo bridge rivals any in Kyoto. The temple sits at the southern end of the city and avoids the worst crowds."
+  },
+  {
+    "id": "expo70-park",
+    "name": "Expo '70 Commemorative Park",
+    "prefecture": "Osaka",
+    "address": "1-1 Senribanpaku-koen, Suita City, Osaka",
+    "access": "Expo Kinen Koen Station on Osaka Monorail (30 min from Umeda)",
+    "admission": "¥260 (park), ¥720 (tower interior)",
+    "best_season": "May (roses), October (roses + foliage)",
+    "website_url": "",
+    "description": "The grounds of the 1970 World Expo, preserved as a massive park around Taro Okamoto's Tower of the Sun — the most iconic sculpture in Japanese postwar art. The tower's interior, opened to the public in 2018, reveals three human-evolution murals covering every wall. Japan's finest rose garden and a Japanese garden complete the grounds."
+  },
+  {
+    "id": "hozenji-yokocho",
+    "name": "Hozenji Yokocho",
+    "prefecture": "Osaka",
+    "address": "1-1-17 Namba, Chuo-ku, Osaka",
+    "access": "3 min walk from Namba Station (Midosuji Line)",
+    "admission": "Free",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "A narrow stone-paved alley tucked behind the Dotonbori crowds, lined with intimate restaurants and presided over by a moss-draped Fudo Myo-o statue. Locals splash water on the statue for good luck, giving it its distinctive emerald coat. The alley feels untouched by tourism despite sitting metres from Namba."
+  },
+  {
+    "id": "kuromon-ichiba",
+    "name": "Kuromon Ichiba Market",
+    "prefecture": "Osaka",
+    "address": "2-4-1 Nipponbashi, Chuo-ku, Osaka",
+    "access": "1 min walk from Nipponbashi Station (Sennichimae Line)",
+    "admission": "Free",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "A 580-metre covered arcade of 170 stalls that has supplied Osaka's restaurants and households for nearly 200 years. Known as \"Osaka's Kitchen,\" it specialises in fresh seafood, Wagyu beef, and ready-to-eat bites. Arrive before 10am to see chefs doing their morning shopping."
+  },
+  {
+    "id": "minoo-waterfall",
+    "name": "Minoo Waterfall",
+    "prefecture": "Osaka",
+    "address": "Minoo Park, Minoo City, Osaka",
+    "access": "Minoo Station on Hankyu Minoo Line (30 min from Umeda)",
+    "admission": "Free",
+    "best_season": "October–November (foliage), May–June (greenery)",
+    "website_url": "",
+    "description": "A 33-metre waterfall hidden at the end of a forested gorge barely 30 minutes from downtown Osaka. The 2.7km trail through Minoo Quasi-National Park passes ancient temple ruins and maple trees that turn scarlet in November. Deep-fried maple leaves (momiji tempura) are the local snack sold at stalls along the path."
+  },
+  {
+    "id": "namba-yasaka-shrine",
+    "name": "Namba Yasaka Shrine",
+    "prefecture": "Osaka",
+    "address": "2-9-19 Motomachi, Naniwa-ku, Osaka",
+    "access": "5 min walk from Namba Station (Midosuji Line)",
+    "admission": "Free",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "Hidden in a quiet residential block minutes from Dotonbori, this shrine is famous for its enormous lion-head stage — a 12-metre demon face with gaping mouth used as an outdoor performance space. The contrast between the giant folkloric face and the quiet neighbourhood lane is quintessentially Osaka."
+  },
+  {
+    "id": "sakai-mounded-tombs",
+    "name": "Sakai — Mozu Kofun Tombs (UNESCO)",
+    "prefecture": "Osaka",
+    "address": "Daisen-cho, Sakai-ku, Sakai City, Osaka",
+    "access": "Mikunigaoka Station on JR Hanwa Line (30 min from Namba)",
+    "admission": "Free (exterior), museum ¥200",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "The largest tomb in the world by area — the Daisen Kofun (burial mound of Emperor Nintoku) is 486 metres long, larger than the Great Pyramid of Giza by footprint. Designated UNESCO World Heritage in 2019, the keyhole-shaped moated mound is visible only from the air or from the surrounding green belt path."
+  },
+  {
+    "id": "shinsekai-district",
+    "name": "Shinsekai",
+    "prefecture": "Osaka",
+    "address": "Shinsekai, Naniwa-ku, Osaka",
+    "access": "5 min walk from Dobutsuen-mae Station (Midosuji Line)",
+    "admission": "Free (tower ¥800)",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "Built in 1912 to mimic Paris and New York, Shinsekai fell into gentle decline and preserved its retro Showa-era atmosphere almost perfectly. Kushikatsu (skewered deep-fried food) was invented here, and the double-dip rule is sacred. The neighbourhood radiates working-class Osaka character."
+  },
+  {
+    "id": "shitennoji-temple",
+    "name": "Shitennoji Temple",
+    "prefecture": "Osaka",
+    "address": "1-11-18 Shitennoji, Tennoji-ku, Osaka",
+    "access": "5 min walk from Shitennoji-mae Yuhigaoka Station (Tanimachi Line)",
+    "admission": "¥300 (inner precinct)",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "Japan's oldest officially administered temple, founded by Prince Shotoku in 593 CE — predating both Nara and Kyoto. The five-storey pagoda, outer gardens, and treasure house sit in the middle of Osaka city almost unnoticed by most tourists. The first Sunday flea market draws thousands of antique hunters each month."
+  },
+  {
+    "id": "sumiyoshi-taisha",
+    "name": "Sumiyoshi Taisha",
+    "prefecture": "Osaka",
+    "address": "2-9-89 Sumiyoshi, Sumiyoshi-ku, Osaka",
+    "access": "3 min walk from Sumiyoshi Taisha Station (Nankai Line)",
+    "admission": "Free",
+    "best_season": "Year-round (New Year exceptional)",
+    "website_url": "",
+    "description": "Japan's oldest Shinto shrine predating Buddhism's arrival, and the prototype for all Sumiyoshi shrines nationwide. The iconic arched Taiko bridge over the reflecting pond requires a steep climb and is one of Osaka's most photographed scenes. The compound is strikingly calm despite its urban location."
+  },
+  {
+    "id": "tsuruhashi-koreatown",
+    "name": "Tsuruhashi Koreatown",
+    "prefecture": "Osaka",
+    "address": "3-chome Tsuruhashi, Ikuno-ku, Osaka",
+    "access": "Tsuruhashi Station (JR/Kintetsu/Tanimachi Line, 10 min from Namba)",
+    "admission": "Free",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "Japan's largest and oldest Korean market — a labyrinth of over 600 shops and stalls that has operated since the 1940s. The covered arcade smells of kimchi, grilling galbi, and Korean spices. It's the most authentic Korean food experience outside Korea, with families who have run the same stall for three generations."
+  }
+]

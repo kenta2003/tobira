@@ -1,0 +1,461 @@
+[
+  {
+    "id": "hiroshima-castle",
+    "name": "Hiroshima Castle",
+    "prefecture": "Hiroshima",
+    "address": "21-1 Motomachicho, Naka Ward, Hiroshima",
+    "website_url": "",
+    "opening_hours": "9:00–18:00 (Mar–Nov); 9:00–17:00 (Dec–Feb)",
+    "tips": "The castle was destroyed by the atomic bomb and reconstructed in 1958 — the top floor gives a clear view toward the A-Bomb Dome 2km away, a sobering perspective. The interior museum covers samurai history well. Combine with Shukkeien Garden (15 min walk) and Peace Park for a full Hiroshima day."
+  },
+  {
+    "id": "hiroshima-oyster",
+    "name": "Hiroshima Oyster Experience",
+    "prefecture": "Hiroshima",
+    "address": "Various locations around Hiroshima Bay and Miyajima",
+    "website_url": "",
+    "opening_hours": "Oyster restaurants: typically 11:00–14:00 and 17:00–22:00; oyster shacks near Miyajima open from late morning",
+    "tips": "Hiroshima produces 60% of Japan's oysters — the size and richness far exceeds what you find elsewhere. Kaki-ya near Hiroshima Station and the oyster shacks at Miyajima's ropeway base are the best casual options. Oyster season peaks November–February when the water is coldest and the oysters fattest. Even if visiting in summer, the cooked preparations (grilled, fried) remain excellent."
+  },
+  {
+    "id": "hiroshima-peace-memorial",
+    "name": "Hiroshima Peace Memorial (A-Bomb Dome)",
+    "prefecture": "Hiroshima",
+    "address": "中島町1, Naka Ward, Hiroshima",
+    "website_url": "https://www.pcf.city.hiroshima.jp/virtual/VirtualMuseum_e/",
+    "opening_hours": "Always open (outdoor monument)",
+    "tips": "The A-Bomb Dome is most affecting early in the morning before tour groups arrive — stand quietly and let the scale of what happened register. The dome is directly on the Motoyasu River; the view from the Aioi Bridge (the actual bomb aiming point) adds a further dimension. Cross the river to Peace Memorial Park immediately after."
+  },
+  {
+    "id": "hiroshima-peace-museum",
+    "name": "Hiroshima Peace Memorial Museum",
+    "prefecture": "Hiroshima",
+    "address": "中島町1-2, Naka Ward, Hiroshima",
+    "website_url": "https://hpmmuseum.jp/",
+    "opening_hours": "8:30–18:00 (Mar–Nov); 8:30–19:00 (Aug); 8:30–17:00 (Dec–Feb); open daily",
+    "tips": "Allow 2 hours minimum — the personal artifacts, shadow burns, and survivor testimonies make this one of the world's most important museums. Visit early when the building is quieter. The east building (free) provides historical context; the west building (¥200) contains the most affecting exhibits. Book the Peace Volunteer Guide in advance for a survivor's-family perspective."
+  },
+  {
+    "id": "itsukushima-shrine",
+    "name": "Itsukushima Shrine",
+    "prefecture": "Hiroshima",
+    "address": "宮島町1-1, Hatsukaichi City, Hiroshima",
+    "website_url": "https://www.itsukushimajinja.jp/en/index.html",
+    "opening_hours": "6:30–18:00 (summer); 6:30–17:00 (winter); tide schedule affects when the torii appears to float",
+    "tips": "Visit at both high and low tide for completely different experiences — at low tide you can walk out to the torii. The shrine interior is best in the early morning before the first ferries arrive. Stay overnight on Miyajima Island to experience the shrine lit at dusk after day-trippers leave — a completely different atmosphere."
+  },
+  {
+    "id": "miyajima-momijidani",
+    "name": "Momijidani Park",
+    "prefecture": "Hiroshima",
+    "address": "宮島町紅葉谷, Hatsukaichi City, Hiroshima",
+    "website_url": "",
+    "opening_hours": "Open 24 hours; park facilities 8:30–17:00",
+    "tips": "Momijidani (Maple Valley) Park peaks mid-November when maples blaze red and orange. The path along the Momijidani River to the ropeway base station is free and uncrowded early morning. Deer wander freely through the park — do not feed them."
+  },
+  {
+    "id": "onomichi",
+    "name": "Onomichi",
+    "prefecture": "Hiroshima",
+    "address": "尾道市, Onomichi City, Hiroshima",
+    "website_url": "",
+    "opening_hours": "Cable car: 9:00–17:15 (last ascent 17:00); town always accessible; Cat Path: always accessible",
+    "tips": "Onomichi's Cat Path — a narrow lane through old machiya with cats sunbathing on every step — is the most charming urban walk in western Japan. The hill-town has 25 temples within a 2.5km walking circuit. The starting point of the Shimanami Kaido cycle route to Imabari (70km) makes this a natural cycling trip hub. Onomichi ramen (shoyu with chicken fat) and Onomichi popcorn (unusual but excellent) are local foods worth trying."
+  },
+  {
+    "id": "sandankyo-gorge",
+    "name": "Sandankyo Gorge",
+    "prefecture": "Hiroshima",
+    "address": "安芸太田町, Akiota-cho, Hiroshima",
+    "website_url": "",
+    "opening_hours": "9:00–17:00; boat tours available in season; gorge trail accessible during opening hours",
+    "tips": "A remote and beautiful three-tiered gorge deep in the Hiroshima mountains — the vivid green water, moss-covered boulders, and waterfalls are extraordinary. The 16km round-trip gorge trail is the full experience; a shorter 4km section covers the most dramatic cascades. Very quiet even in peak season — a genuine escape."
+  },
+  {
+    "id": "shimanami-kaido",
+    "name": "Shimanami Kaido",
+    "prefecture": "Hiroshima",
+    "address": "Connecting Onomichi (Hiroshima) to Imabari (Ehime)",
+    "website_url": "https://www.go-shimanami.jp/",
+    "opening_hours": "Cycling route: year-round; best Apr–Jun and Sep–Nov; bicycle rental at Onomichi Station and Imabari Station",
+    "tips": "The 70km route crosses six islands and seven bridges — the combination of Seto Inland Sea views, island villages, and gentle terrain makes it Japan's finest cycle route. One day (Onomichi to Imabari) is achievable for fit cyclists; two days is far more relaxed. Shimanami Rent-a-cycle is the most convenient service with multiple drop-off points across the islands."
+  },
+  {
+    "id": "shukkei-en",
+    "name": "Shukkei-en Garden",
+    "prefecture": "Hiroshima",
+    "address": "上幟町2-11, Naka Ward, Hiroshima",
+    "website_url": "",
+    "opening_hours": "9:00–18:00 (Oct–Mar 17:00); closed Mon",
+    "tips": "The garden survived the atomic bomb (which fell 1km away) and served as an emergency treatment area for survivors — a fact that adds emotional weight to its serene beauty. The 'contracted scenery' design miniaturises a mountain lake landscape within a small area. The island pavilion tea house is worth the ¥250 extra for a bowl of matcha with the garden view."
+  },
+  {
+    "id": "takehara",
+    "name": "Takehara Preservation District",
+    "prefecture": "Hiroshima",
+    "address": "竹原市本町, Takehara City, Hiroshima",
+    "website_url": "",
+    "opening_hours": "Town: always accessible; Preservation District: buildings accessible from outside at all hours; individual sites: 9:00–17:00",
+    "tips": "Takehara's well-preserved Edo-era merchant streets stretch several hundred metres — an intimate alternative to the more visited Kurashiki. The area grew rich on salt and sake production. The Hiroshima Botanical Garden is 40 minutes away by car. Combine with Onomichi (30 min by car) and the Shimanami Kaido for a full western Hiroshima coast day."
+  },
+  {
+    "id": "tomonoura",
+    "name": "Tomonoura",
+    "prefecture": "Hiroshima",
+    "address": "鞆町, Fukuyama City, Hiroshima",
+    "website_url": "",
+    "opening_hours": "Town always accessible; Fukuzen-ji temple view: 9:00–17:00 (¥200); harbour ferry: year-round",
+    "tips": "Tomonoura was the model for the village in Miyazaki's 'Ponyo on the Cliff by the Sea' — the director spent time here before the film's creation. The view from Fukuzen-ji temple across the harbour to the islands is the most beautiful in the Seto Inland Sea. The Iroha-maru Exhibition Hall covers the ship that Ryoma Sakamoto's fleet sank here. Combine with Onomichi (30 min by ferry) for a full Hiroshima coast day."
+  },
+  {
+    "id": "bizen-pottery-village",
+    "name": "Bizen Pottery Village",
+    "prefecture": "Okayama",
+    "address": "Imbe, Bizen, Okayama",
+    "website_url": "https://www.bizen-city.jp/",
+    "opening_hours": "Museum: 9:30–17:00, closed Mon; shops: typically 10:00–17:00, many closed Tue",
+    "tips": "Bizen ware is fired without glaze — the earthy tones come purely from wood ash and flame. Several workshops near the station offer English-language pottery classes (2–3 hours, from ¥3,000). Sake cups and mugs make ideal compact souvenirs."
+  },
+  {
+    "id": "hiruzen-highlands",
+    "name": "Hiruzen Highlands",
+    "prefecture": "Okayama",
+    "address": "Maniwa, Okayama",
+    "website_url": "https://hiruzen.info/",
+    "opening_hours": "Always open; individual gardens and attractions: 9:00–17:00",
+    "tips": "The highlands are famous for jersey dairy farming — the soft-serve ice cream here uses milk from local jersey cows and is exceptional. Hiruzen Jōkamachi is a compact village with craft shops and restaurants. Combine with Maniwa's Yubara Onsen (30 min by car) for a relaxing afternoon."
+  },
+  {
+    "id": "kibiji-cycling-path",
+    "name": "Kibiji Cycling Path",
+    "prefecture": "Okayama",
+    "address": "Soja, Okayama",
+    "website_url": "https://okayama-kanko.net/kibiji/",
+    "opening_hours": "Path always open; bicycle rental at Bizen-Ichinomiya Station: 9:00–17:00",
+    "tips": "The 17km flat cycling path connects ancient burial mounds, Kibitsu Shrine (with Japan's longest corridor), and picturesque rural scenery — a genuinely rewarding 3-hour ride. Kibitsu Shrine and Kibiitsu-hiko Shrine bookend the route. The path is almost entirely flat and well-marked — suitable for all fitness levels."
+  },
+  {
+    "id": "korakuen-garden",
+    "name": "Korakuen Garden",
+    "prefecture": "Okayama",
+    "address": "Korakuen, Kita-ku, Okayama",
+    "website_url": "https://www.okayama-korakuen.jp/",
+    "opening_hours": "7:30–18:00 (Mar–Sep); 8:00–17:00 (Oct–Feb)",
+    "tips": "One of Japan's three great gardens. The view of Okayama Castle framed by the garden's pine groves is a classic composition. The 'rice field' and tea field within the garden are unusual features — it's one of the only Japanese gardens to incorporate working farmland. Cross the river by rowboat ferry to Okayama Castle (¥100) for the combined experience."
+  },
+  {
+    "id": "kurashiki-bikan",
+    "name": "Kurashiki Bikan Historical Quarter",
+    "prefecture": "Okayama",
+    "address": "Honmachi, Kurashiki, Okayama",
+    "website_url": "https://www.kurashiki-tabi.jp/",
+    "opening_hours": "District always accessible; Ohara Museum: 9:00–17:00, closed Mon; most shops 9:00–18:00",
+    "tips": "The white-walled kurazashiki warehouses converted into galleries and shops are most photogenic in morning light before the crowds. The Ohara Museum of Art is a genuine surprise — an outstanding collection of Western masters (El Greco, Monet, Picasso) in a small Japanese city. The canal boat ride (¥500, 20 min) gives the classic water-level view of the district."
+  },
+  {
+    "id": "ohama-beach-tamano",
+    "name": "Ohama Beach, Tamano",
+    "prefecture": "Okayama",
+    "address": "Tamano, Okayama",
+    "website_url": "",
+    "opening_hours": "Beach: always open; facilities May–Sep",
+    "tips": "A quiet Seto Inland Sea beach on the Tamano Peninsula with calm, warm water and pine-backed sand. The beach faces west toward the Kasado and Shiraishi islands. Combine with Kurashiki Bikan (30 min) for a beach-and-culture Okayama day. The prawn and octopus from the local fishing port are excellent at the port-side restaurants."
+  },
+  {
+    "id": "okayama-castle",
+    "name": "Okayama Castle (Crow Castle)",
+    "prefecture": "Okayama",
+    "address": "Marunouchi, Kita-ku, Okayama",
+    "website_url": "https://okayama-kanko.net/ujo/",
+    "opening_hours": "9:00–17:30 (last entry 17:00)",
+    "tips": "The original castle was burned in WWII — the 1966 reconstruction is accurate but modern inside. The lacquered black exterior gives the castle its nickname 'Crow Castle'. Cross the river to Korakuen Garden (the view of the castle from the garden is the classic image). The castle town has excellent fresh Kibi dangos (millet dumplings) at shops along the approach street."
+  },
+  {
+    "id": "ushimado-coast",
+    "name": "Ushimado Olive Coast",
+    "prefecture": "Okayama",
+    "address": "Ushimado, Setouchi, Okayama",
+    "website_url": "",
+    "opening_hours": "Always accessible; olive grove: always open; Ushimado International Art Festival: Oct (biennial)",
+    "tips": "Ushimado is an Aegean-themed resort area on the Seto Inland Sea coast — olive cultivation, white-washed buildings, and a Greek-inspired village feel give it a distinctive character unusual in Japan. The view of the island-dotted Seto Inland Sea from the hilltop is outstanding. Combine with Kurashiki (45 min by car) for a full Okayama coast and culture day."
+  },
+  {
+    "id": "washuzan-hill",
+    "name": "Washuzan Hill",
+    "prefecture": "Okayama",
+    "address": "Shimotsui, Kurashiki, Okayama",
+    "website_url": "",
+    "opening_hours": "Open 24 hours (observation areas); gift shops 9:00–17:00",
+    "tips": "Arrive at sunset for the most dramatic view of the Seto Inland Sea and the Great Seto Bridge lit golden. Early morning mist creates a painterly scene too. Park near the lower lot and walk up — it is a short climb."
+  },
+  {
+    "id": "yubara-onsen",
+    "name": "Yubara Onsen (Open-Air Bath)",
+    "prefecture": "Okayama",
+    "address": "Yubara, Maniwa, Okayama",
+    "website_url": "https://www.yubara.info/",
+    "opening_hours": "Sunayu open-air bath 6:00–22:00 (free, mixed); ryokan baths 24 hrs for guests",
+    "tips": "Sunayu is Japan's most famous free open-air mixed bath, set directly beside the Asahi River — there is no fence. Arrive early morning when mist rises from the water and the gorge is quiet. The single main street of this tiny spa village takes 10 minutes to walk."
+  },
+  {
+    "id": "adachi-museum",
+    "name": "Adachi Museum of Art",
+    "prefecture": "Shimane",
+    "address": "Furukawa, Yasugi, Shimane",
+    "website_url": "https://www.adachi-museum.or.jp/",
+    "opening_hours": "9:00–17:30 (Oct–Mar until 17:00); open year-round",
+    "tips": "Arrive at opening to photograph the iconic framed garden views without crowds. The best light falls on the main garden in the morning. The free shuttle from Yasugi station runs roughly every 30 minutes — check the timetable at the station."
+  },
+  {
+    "id": "hinomisaki-shrine",
+    "name": "Hinomisaki Shrine & Lighthouse",
+    "prefecture": "Shimane",
+    "address": "Hinomisaki, Taisha-cho, Izumo, Shimane",
+    "website_url": "",
+    "opening_hours": "Shrine: sunrise–sunset; lighthouse: 9:00–16:30 (closed Wed in winter)",
+    "tips": "Japan's tallest stone lighthouse (44m) gives stunning views of the Shimane coastline and, on clear days, the Oki Islands. The shrine complex has both an upper and lower shrine — explore both, as most visitors only see the lower section. Combine with Izumo Taisha Grand Shrine (20 min by bus) for Shimane's two most sacred sites in one day."
+  },
+  {
+    "id": "iwami-ginzan",
+    "name": "Iwami Ginzan Silver Mine",
+    "prefecture": "Shimane",
+    "address": "Omori, Ohda, Shimane",
+    "website_url": "https://ginzan.city.ohda.lg.jp/",
+    "opening_hours": "Town always accessible; Ryugenji Mabu mine tunnel: 9:00–17:00 (last entry 16:15)",
+    "tips": "This UNESCO-listed silver mine produced a third of the world's silver output at its 17th-century peak. The preserved mine town (Omori) is a quiet, elegant historic streetscape. Rent a bicycle to reach the mine entrance (15 min from Omori). The small museums throughout the town add context to a genuinely impressive historical site."
+  },
+  {
+    "id": "izumo-taisha",
+    "name": "Izumo Grand Shrine",
+    "prefecture": "Shimane",
+    "address": "Kizuki-Higashi, Taisha-cho, Izumo, Shimane",
+    "website_url": "https://www.izumooyashiro.or.jp/",
+    "opening_hours": "Open year-round; main hall approach: 6:00–20:00 (Apr–Sep), 6:00–18:00 (Oct–Mar)",
+    "tips": "The grand shrine where Japan's eight million gods gather each October (October is called 'Kamiari-zuki' — month of gods — everywhere else in Japan). The distinctive double-ring rope (shimenawa) above the Kaguraden hall is the largest in Japan. Clap four times here (not twice as usual) — two for yourself and two for your partner or a future one. Izumo Taisha-mae Station on the Ichibata Railway is the most scenic arrival."
+  },
+  {
+    "id": "shinji-lake-sunset",
+    "name": "Lake Shinji at Sunset",
+    "prefecture": "Shimane",
+    "address": "Lake Shinji, Matsue, Shimane",
+    "website_url": "",
+    "opening_hours": "Always open (outdoor lakeside)",
+    "tips": "Lake Shinji's sunset is consistently ranked among Japan's best — the silhouettes of fishing boats against the orange sky are a classic image. The best viewpoint is from the Shinji-ko Ohashi bridge or the lakeside road. The Matsue Vogel Park (bird garden) on the lake's north shore provides a contrast activity. Yamato-ni (clam simmered in sake) is the local delicacy — served at ryokan and restaurants around the lake."
+  },
+  {
+    "id": "matsue-castle",
+    "name": "Matsue Castle",
+    "prefecture": "Shimane",
+    "address": "Tonomachi, Matsue, Shimane",
+    "website_url": "https://www.matsue-tourism.or.jp/",
+    "opening_hours": "8:30–18:30 (Apr–Sep); 8:30–17:00 (Oct–Mar)",
+    "tips": "One of Japan's twelve original castle keeps — the black wooden exterior boards give it its nickname 'Black Castle' (Chidori-jo). The castle boat moat cruise (Horikawa sightseeing boat) is the most enjoyable way to see the castle and surroundings. Combine with Lafcadio Hearn's former residence and Izumo Taisha for a full Shimane day."
+  },
+  {
+    "id": "oni-no-shitaburui",
+    "name": "Oni no Shitaburui Gorge",
+    "prefecture": "Shimane",
+    "address": "Nita, Okuizumo, Shimane",
+    "website_url": "",
+    "opening_hours": "Open 24 hours; best visited Apr–Nov",
+    "tips": "The gorge name means \"demon's tongue trembling\" — apt for the boulder-choked rapids. The trail is short (about 1.5 km) but the rock formations are impressive. Visit after rain for the most dramatic water flow. Combine with nearby Akigawa Valley for a full day."
+  },
+  {
+    "id": "tamatsukuri-onsen",
+    "name": "Tamatsukuri Onsen",
+    "prefecture": "Shimane",
+    "address": "Tamatsukuri, Matsue, Shimane",
+    "website_url": "https://www.tama-onsen.jp/",
+    "opening_hours": "Foot bath: daytime; Gyokuyu-no-yu public bath: 6:00–22:00; ryokan day-use: 10:00–15:00 (call ahead)",
+    "tips": "One of Japan's oldest hot springs (documented in the Manyoshu poetry anthology from the 8th century) — the water is said to make skin beautiful. The onsen town is compact and walkable along the Tamatsukuri River. Combine with Matsue Castle and Lake Shinji sunset for a full Shimane day."
+  },
+  {
+    "id": "tsuwano-town",
+    "name": "Tsuwano — Little Kyoto of San'in",
+    "prefecture": "Shimane",
+    "address": "Tsuwano, Kanoashi, Shimane",
+    "website_url": "https://www.tsuwano-kankou.com/",
+    "opening_hours": "Town always accessible; SL Yamaguchi steam train: weekend service from Shin-Yamaguchi",
+    "tips": "Tsuwano's carp-filled streams, whitewashed samurai residences, and the Washibara Hachimangu shrine with a genuine mounted archery course (yabusame) make it one of San'in's most rewarding towns. The SL Yamaguchi steam train (weekend only from Shin-Yamaguchi) is one of Japan's finest heritage rail experiences. The Inari Shrine thousand-torii path behind the town is quieter than Fushimi Inari and genuinely atmospheric."
+  },
+  {
+    "id": "yuushien-garden",
+    "name": "Yuushien Garden",
+    "prefecture": "Shimane",
+    "address": "Daikonshima, Matsue, Shimane",
+    "website_url": "https://www.yuushien.com/",
+    "opening_hours": "8:30–17:00 (peony season 8:00–18:00); entry ¥1,000",
+    "tips": "Yuushien is Japan's finest peony garden, set on a small island in Lake Nakaumi. The outdoor peonies peak in late April to early May; indoor heated peonies bloom year-round. The pond walkway lit at night during the autumn illumination event is magical."
+  },
+  {
+    "id": "hakuto-coast",
+    "name": "Hakuto Coast",
+    "prefecture": "Tottori",
+    "address": "Kotoura, Tottori",
+    "website_url": "",
+    "opening_hours": "Always open (outdoor coastal road)",
+    "tips": "This coastline is the setting of the myth of the White Rabbit of Inaba — one of Japan's oldest folk tales. Hakuto Shrine sits directly on the beach; the red torii against white sand and Japan Sea waves is striking. The Tottori Sand Dunes are 30 min east — combine both for a full coastal Tottori day."
+  },
+  {
+    "id": "misasa-onsen",
+    "name": "Misasa Onsen",
+    "prefecture": "Tottori",
+    "address": "Misasa, Tottori",
+    "website_url": "https://www.misasa.gr.jp/",
+    "opening_hours": "Radium content free outdoor footbaths: daytime; public bath: varies by facility; ryokan day baths: typically 10:00–14:00",
+    "tips": "Misasa is one of the world's highest-concentration radium hot springs — the water temperature (52°C) and mineral content are genuinely therapeutic. The outdoor footbath on the riverbed (Kawaramuro) is free and accessible any time. Combine with Tottori Sand Dunes (45 min by car) and Hakuto Coast for a full Tottori day."
+  },
+  {
+    "id": "mount-daisen",
+    "name": "Mount Daisen",
+    "prefecture": "Tottori",
+    "address": "Daisen-cho, Tottori",
+    "website_url": "https://www.pref.tottori.lg.jp/daisen/",
+    "opening_hours": "Mountain: year-round; summit trail: best May–Oct; ski area: Dec–Mar; Daisen-ji temple: 8:30–17:00",
+    "tips": "Daisen's north face (from Kagikake Pass) is Japan's most dramatic mountain wall — sheer cliffs rising 1,000m. The summit trail is currently partially closed due to erosion — check the Daisen Visitor Center for current status. The beech forest around the Motonarashi trail in October is extraordinary. The mountain dominates the entire San'in coastal view."
+  },
+  {
+    "id": "sanbutsuji-nageire",
+    "name": "Sanbutsuji Temple Nageire-do",
+    "prefecture": "Tottori",
+    "address": "Mitoku, Misasa, Tottori",
+    "website_url": "https://www.mitokusan.jp/",
+    "opening_hours": "8:00–15:00 (last entry 14:30); closed during bad weather and in winter (Dec–Feb)",
+    "tips": "The tiny shrine building wedged impossibly into a cliff recess 520m above the valley — no one knows how it was built in 849 AD. The trail up involves chains, ladders, and wooden footholds in the cliff face — appropriate footwear is mandatory (rental sandals included). The hike takes 40–60 min each way. Not accessible for those with fear of heights or mobility issues."
+  },
+  {
+    "id": "sand-museum-tottori",
+    "name": "Sand Museum Tottori",
+    "prefecture": "Tottori",
+    "address": "Fukube, Tottori, Tottori",
+    "website_url": "https://www.sand-museum.jp/",
+    "opening_hours": "9:00–18:00 (20:00 during illumination season); closed about 2 weeks between exhibitions",
+    "tips": "The world's only permanent sand sculpture museum — the exhibitions change annually around a different country's theme, with sculptures up to 8m high. Directly beside the Tottori Sand Dunes (5 min walk). The Sand Dunes themselves are free and always accessible. Combine both with the Hakuto Coast for a full Tottori day."
+  },
+  {
+    "id": "tottori-castle-ruins",
+    "name": "Tottori Castle Ruins",
+    "prefecture": "Tottori",
+    "address": "Higashimachi, Tottori, Tottori",
+    "website_url": "",
+    "opening_hours": "Ruins: always accessible; ropeway: 10:00–17:30 (operates on request)",
+    "tips": "The 'castle in the sky' — Tottori Castle ruins sit on a 263m peak accessible by ropeway. The view over Tottori city and the Japan Sea coastline is excellent. The ruins are substantial — the stone terraces and walls climb in stages. Combine with the Sand Dunes and Sand Museum directly below the castle hill for a full Tottori day."
+  },
+  {
+    "id": "tottori-sand-dunes",
+    "name": "Tottori Sand Dunes",
+    "prefecture": "Tottori",
+    "address": "Fukube, Tottori, Tottori",
+    "website_url": "https://www.tottori-guide.jp/",
+    "opening_hours": "Always open; camel rides: 9:00–17:00; sandboard rental: 9:00–17:00",
+    "tips": "Japan's largest sand dunes (16km long, 2km wide) — a completely unexpected landscape in this mountainous country. The dune crests shift with the wind; footprints disappear overnight. The view from the highest dune crest over the Japan Sea is outstanding. The Sand Museum and the Uradome Coast boat tour (20 min drive) complete the full Tottori coastal experience."
+  },
+  {
+    "id": "uradome-coast",
+    "name": "Uradome Coast",
+    "prefecture": "Tottori",
+    "address": "Iwami, Tottori",
+    "website_url": "",
+    "opening_hours": "Cliffs and coast: always accessible; boat tour (glass-bottom): Apr–Nov, 9:00–17:00 (weather permitting)",
+    "tips": "The Sanin Kinnen National Park coastline around Uradome has sea caves, natural arches, and eroded rock stacks accessible by glass-bottom boat (25 min). The Urami-ga-Ura sea-cave walking trail gives land access to some formations. The coast directly east of Tottori Sand Dunes — combining both is the ideal full Tottori day."
+  },
+  {
+    "id": "yumigahama-peninsula",
+    "name": "Yumigahama Peninsula",
+    "prefecture": "Tottori",
+    "address": "Sakaiminato, Tottori",
+    "website_url": "",
+    "opening_hours": "Open 24 hours; beach facilities Jul–Aug 9:00–18:00",
+    "tips": "The peninsula curves into the Sea of Japan creating a bow-shaped white sand beach. The water is calm on the bay side but rough on the outer coast — swim on the bay side only. Sakaiminato at the peninsula tip is famous for Shigeru Mizuki (GeGeGe no Kitaro) manga statues."
+  },
+  {
+    "id": "akiyoshidai-plateau",
+    "name": "Akiyoshidai Karst Plateau",
+    "prefecture": "Yamaguchi",
+    "address": "Shuhocho, Mine, Yamaguchi",
+    "website_url": "https://akiyoshidai-park.jp/",
+    "opening_hours": "Always open (outdoor plateau)",
+    "tips": "The plateau is most photogenic in autumn when the grass turns golden. Combine with Akiyoshido Cave directly below — enter via the steep staircase path from the plateau. Bring a windbreaker as the plateau gets gusty."
+  },
+  {
+    "id": "akiyoshido-cave",
+    "name": "Akiyoshido Cave",
+    "prefecture": "Yamaguchi",
+    "address": "Shuhocho, Mine, Yamaguchi",
+    "website_url": "https://www.akiyoshido.com/",
+    "opening_hours": "8:30–17:30 (Mar–Nov); 8:30–16:30 (Dec–Feb)",
+    "tips": "The cave maintains 17°C year-round — bring a layer even in summer. Exit near the lower cave entrance, then take the lift up to Akiyoshidai plateau above. The main walkway is paved and stroller-friendly."
+  },
+  {
+    "id": "chomonkyo-gorge",
+    "name": "Chomonkyo Gorge",
+    "prefecture": "Yamaguchi",
+    "address": "Ato, Abu, Yamaguchi",
+    "website_url": "",
+    "opening_hours": "Always open; tourist boats may operate Apr–Nov",
+    "tips": "Autumn foliage peaks mid-November and turns the gorge brilliant red — one of western Japan's finest displays. The 10km riverside walking trail is largely flat and peaceful. Combine with Akiyoshidai and Akiyoshido Cave for a full Yamaguchi interior day."
+  },
+  {
+    "id": "hagi-castle-town",
+    "name": "Hagi Castle Town",
+    "prefecture": "Yamaguchi",
+    "address": "Hagi, Yamaguchi",
+    "website_url": "https://www.city.hagi.lg.jp/tourism/",
+    "opening_hours": "Town always accessible; individual historic buildings: 9:00–17:00, closed Tue",
+    "tips": "Hagi produced more Meiji-era leaders than any other city in Japan — the samurai quarter that raised Ito Hirobumi is still largely intact. Rent a bicycle at Higashi Hagi Station — the castle district and Tera-machi temple street form a satisfying 3-hour loop. Hagi-yaki pottery (soft, pastel-toned) is the ideal local souvenir."
+  },
+  {
+    "id": "karato-fish-market",
+    "name": "Karato Fish Market",
+    "prefecture": "Yamaguchi",
+    "address": "Karato, Shimonoseki, Yamaguchi",
+    "website_url": "https://www.karatoichiba.com/",
+    "opening_hours": "6:00–15:00 (Fri–Wed); 6:00–13:00 (Thu); tuna auction viewable Fri–Wed early morning",
+    "tips": "Karato is Shimonoseki's main market — fugu (blowfish) is the local specialty and available year-round. The weekend sushi market (Fri–Sun from 10:00) is the most accessible time to eat fresh sushi and sashimi directly in the market building at very low prices. The Kanmon Strait and Kyushu are visible just across the water."
+  },
+  {
+    "id": "kintaikyo-bridge",
+    "name": "Kintaikyo Bridge",
+    "prefecture": "Yamaguchi",
+    "address": "Iwakuni, Yamaguchi",
+    "website_url": "https://kintaikyo.iwakuni-city.net/",
+    "opening_hours": "8:00–18:00 (Apr–Sep); 8:00–17:00 (Oct–Mar)",
+    "tips": "The five arched wooden bridge rebuilt using traditional joinery techniques with no nails is one of Japan's most elegant structures. Cross it in both directions to see the different arch angles. Cherry blossoms from the castle hill and riverbanks make the bridge scene extraordinary in early April. The cable car up to Iwakuni Castle is worth including."
+  },
+  {
+    "id": "motonosumi-shrine",
+    "name": "Motonosumi Inari Shrine",
+    "prefecture": "Yamaguchi",
+    "address": "Yuya, Nagato, Yamaguchi",
+    "website_url": "https://nagato-city.info/",
+    "opening_hours": "Always open (outdoor shrine)",
+    "tips": "The 123 torii gates cascading down a clifftop to the Sea of Japan are one of Japan's most dramatic shrine approaches. The offering box is at the top of the last torii (not at the bottom) — successfully throwing a coin in is considered good fortune and genuinely difficult. Visit in the golden hour before sunset when the orange torii glow intensely. Remote — 40 min drive from Nagato city."
+  },
+  {
+    "id": "rurikoji-temple",
+    "name": "Rurikoji Temple & Five-Story Pagoda",
+    "prefecture": "Yamaguchi",
+    "address": "Yamaguchi, Yamaguchi",
+    "website_url": "",
+    "opening_hours": "Temple grounds: 8:00–18:00; five-story pagoda exterior: always accessible",
+    "tips": "Rurikoji's five-story pagoda (1442) is one of Japan's three most beautiful — the proportions, weathered wood, and mossy stone base in a cedar forest setting are exceptional. The adjacent graveyard contains tombs of Mori clan lords — historically significant. Combine with Hagi Castle Town (30 min by car) and Akiyoshidai for a full Yamaguchi day."
+  },
+  {
+    "id": "tsunoshima-bridge",
+    "name": "Tsunoshima Bridge",
+    "prefecture": "Yamaguchi",
+    "address": "Tsunoshima, Shimonoseki, Yamaguchi",
+    "website_url": "",
+    "opening_hours": "Always open (road bridge)",
+    "tips": "The 1,780m bridge connects the Shimonoseki coast to Tsunoshima's white sand beaches and lighthouse-topped cliffs. The water around the island is exceptional — Tsunoshima Beach has electric blue water similar to Okinawa. The lighthouse (Japan's oldest stone lighthouse, 1876) is a 20-minute walk from the bridge. Combine with Motonosumi Inari Shrine (1 hour south) for a full western Yamaguchi coast day."
+  },
+  {
+    "id": "yuda-onsen",
+    "name": "Yuda Onsen",
+    "prefecture": "Yamaguchi",
+    "address": "Yuda, Yamaguchi City, Yamaguchi",
+    "website_url": "https://www.yuda-onsen.com/",
+    "opening_hours": "Public bathhouses typically 6:00–24:00; shops 10:00–18:00",
+    "tips": "Legend says a white fox discovered this spring; fox statues dot the town. Foot baths are scattered along the streets — free and perfect for a midday break. Stay at a midrange ryokan and request a window room overlooking the illuminated streets at night."
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "id": "boso-fureai-trail",
+    "name": "Cape Inubosaki & Choshi Port",
+    "prefecture": "Chiba",
+    "address": "Choshi City, Chiba Prefecture",
+    "website_url": "",
+    "opening_hours": "Lighthouse: 9:00–16:00 (closed Tue); fish market open from early morning",
+    "tips": "Choshi is one of Japan's top fishing ports — the morning market has extraordinary fresh fish at a fraction of Tokyo prices. The lighthouse is one of Japan's oldest Western-style lighthouses. Reach by the charming Choshi Electric Railway from Choshi Station."
+  },
+  {
+    "id": "isumi-railway",
+    "name": "Isumi Railway — Rapeseed Blossom Line",
+    "prefecture": "Chiba",
+    "address": "Kazusa-Nakano to Ohara, Chiba",
+    "website_url": "",
+    "opening_hours": "Trains run year-round; rapeseed blossom peak: late March–mid April; SL steam locomotive runs weekends in spring",
+    "tips": "The 26-station railway through Chiba's rural interior is one of Japan's most charming branch lines. In spring, the trackside rapeseed and cherry blossoms create extraordinary views from the windows. The steam locomotive (SL) weekend service in spring is a bucket-list trip for train enthusiasts. Start from Oami Station on the JR Sotobo Line."
+  },
+  {
+    "id": "kujukurihama-beach",
+    "name": "Kujukuri Beach",
+    "prefecture": "Chiba",
+    "address": "Kujukuri-machi, Sammu-gun, Chiba",
+    "website_url": "",
+    "opening_hours": "Open 24 hours; lifeguard stations Jul–Aug 9:00–17:00",
+    "tips": "This 66 km beach is one of Japan's longest. The southern end near Kujukuri village is quietest; the northern section near Choshi is popular with surfers year-round. Visit in early morning for fog and solitude — the off-season (Sept–May) is spectacular for long empty walks."
+  },
+  {
+    "id": "chiba-makuhari-sea",
+    "name": "Makuhari Seaside Park",
+    "prefecture": "Chiba",
+    "address": "Mihama-ku, Chiba City, Chiba",
+    "website_url": "",
+    "opening_hours": "Park: always open; seasonal flower events: spring and summer",
+    "tips": "Best known as a convention district, Makuhari Seaside Park surprises with its large beach, open coastal promenade, and seasonal tulip and poppy fields in spring. A useful base for Chiba Lotte Marines baseball games at the adjacent stadium. The park is virtually empty on weekday mornings — a peaceful escape from Chiba city."
+  },
+  {
+    "id": "mother-farm",
+    "name": "Mother Farm — Boso Hills",
+    "prefecture": "Chiba",
+    "address": "940-3 Takura, Futtsu City, Chiba",
+    "website_url": "",
+    "opening_hours": "9:30–17:00 (weekends 9:00–17:30); seasonal events year-round",
+    "tips": "Mother Farm spans 250 hectares of Boso Peninsula hillside with sheep, cows, pigs, and seasonal flower fields (tulips in April, sunflowers in August). The sheep herding show and cheese-making workshops are the highlights for families. The farm is genuinely large — budget 4 hours. Views of Tokyo Bay and Mt Fuji on clear days from the hilltop."
+  },
+  {
+    "id": "nokogiri-mountain",
+    "name": "Mt Nokogiri — Rock Buddha",
+    "prefecture": "Chiba",
+    "address": "Nokogiriyama, Kyonan-machi, Awa-gun / Hamakanaya, Futtsu City, Chiba",
+    "website_url": "",
+    "opening_hours": "Ropeway: 9:00–17:00 year-round; on-foot trail: always accessible",
+    "tips": "The 'saw mountain' has 1,500 Buddhist carvings cut into the rock face over 1,300 years — including the 31m Great Buddha of Nihon-ji (Japan's largest stone Buddha). The cliff-edge viewpoint ('Jigoku-nozoki' — Hell Peek) is one of Japan's most vertiginous experiences. Reach by Tokyo Bay Ferry from Kurihama (35 min) or Uchibo Line train."
+  },
+  {
+    "id": "narita-san-temple",
+    "name": "Naritasan Shinshoji Temple",
+    "prefecture": "Chiba",
+    "address": "1 Narita, Narita City, Chiba",
+    "website_url": "",
+    "opening_hours": "5:30–18:00 (Apr–Sep); 6:00–17:00 (Oct–Mar); Omotesando shopping street: 9:00–18:00",
+    "tips": "One of Japan's most visited temples after Senso-ji. The Naritasan Omotesando approach street is lined with excellent eel (unaju) restaurants — Narita's speciality. The temple grounds are substantial and beautifully maintained; the garden behind the main hall is largely missed by visitors. Arrive early if transiting through Narita Airport — the temple is 30 minutes by Narita Line from the airport."
+  },
+  {
+    "id": "nokogiriyama-ropeway",
+    "name": "Nokogiriyama Ropeway",
+    "prefecture": "Chiba",
+    "address": "Hamakanaya, Futtsu City, Chiba",
+    "website_url": "",
+    "opening_hours": "Ropeway: 9:00–17:00 (last ascent 16:40); Nihonji Temple grounds: 9:00–16:00",
+    "tips": "The ropeway is also the approach to the Mt Nokogiri ('Sawblade Mountain') stone Buddha complex. The cliff-edge 'Jigoku-nozoki' (Hell Peek) viewpoint involves leaning over a sheer drop — genuinely vertiginous. Reach by Tokyo Bay Ferry from Kurihama (35 min) or JR Uchibo Line. Combining the ferry and ropeway makes this an outstanding half-day from Tokyo."
+  },
+  {
+    "id": "onjuku-beach",
+    "name": "Onjuku Beach & Town",
+    "prefecture": "Chiba",
+    "address": "Onjuku-cho, Isumi-gun, Chiba",
+    "website_url": "",
+    "opening_hours": "Beach: always open; facilities and restaurants: May–Oct peak",
+    "tips": "One of the finest swimming beaches within 2 hours of Tokyo — the Pacific swell creates good bodyboarding conditions. The backstreet izakayas of Onjuku town serve excellent local sashimi and fried iwashi (sardines). The headland walk to the lighthouse gives views south along the Katsu-ura Coast. Combine with Katsuura morning market for an early start."
+  },
+  {
+    "id": "sakura-castle-ruins",
+    "name": "Sakura City & Castle Ruins",
+    "prefecture": "Chiba",
+    "address": "Sakura City, Chiba Prefecture",
+    "website_url": "",
+    "opening_hours": "Park: always open; Sakura City Museum of History and Folklore: 9:00–17:00, closed Mon",
+    "tips": "Sakura is one of the Kanto region's most underrated castle towns — the parks and museum cover the story of the Sakura domain with genuine depth. The Kawamura Zuiken residence and the Sakura samurai district are worth exploring on foot. Easy day trip from Tokyo (60 min on the Sobu rapid line)."
+  },
+  {
+    "id": "ikaho-onsen",
+    "name": "Ikaho Onsen",
+    "prefecture": "Gunma",
+    "address": "Ikaho-machi, Shibukawa City, Gunma",
+    "website_url": "",
+    "opening_hours": "Ishidan-no-yu: 9:00–21:00 (closed Wed); other facilities vary; stone staircase town always accessible",
+    "tips": "The 365-step stone staircase (Ikaho Stone Steps) lined with ryokan and souvenir shops is the town's defining feature — one step for each day of the year. The brown (iron-rich) spring and clear spring give very different baths; try both if time allows. Ikaho is an easy day trip from Tokyo (2 hours by Shinkansen + bus or limited express)."
+  },
+  {
+    "id": "kusatsu-onsen",
+    "name": "Kusatsu Onsen",
+    "prefecture": "Gunma",
+    "address": "Kusatsu-machi, Agatsuma-gun, Gunma",
+    "website_url": "",
+    "opening_hours": "Village always accessible; Yubatake (hot spring field): always visible; Netsunoyu show: 10:00–20:00 (closed Wed)",
+    "tips": "The Yubatake — a wooden channel of bright green hot spring water flowing through the centre of the village — is Kusatsu's iconic image. The Netsunoyu time-bath ceremony (short, theatrical, ¥700) is worth watching. The spring water is highly acidic — strong enough to dissolve metal over time, making it medically powerful but unusual. Arrive in the evening when lanterns light the Yubatake."
+  },
+  {
+    "id": "haruna-lake",
+    "name": "Lake Haruna",
+    "prefecture": "Gunma",
+    "address": "Haruna-ko, Takasaki City, Gunma",
+    "website_url": "",
+    "opening_hours": "Always open; boating and fishing: Apr–Nov; ice fishing: Jan–Feb",
+    "tips": "Lake Haruna sits in a volcanic caldera at 1,084m — the surrounding hills and Mt Haruna reflected in the water are picturesque year-round. Row boats and pedal boats available Apr–Nov. In summer the lake is 5–8°C cooler than Takasaki city below — a genuine escape. Combine with Ikaho Onsen (30 min by bus) for a full Gunma mountain day."
+  },
+  {
+    "id": "minakami-outdoor",
+    "name": "Minakami — Outdoor Sports Capital",
+    "prefecture": "Gunma",
+    "address": "Minakami-machi, Tone-gun, Gunma",
+    "website_url": "",
+    "opening_hours": "Activities run year-round; white-water rafting: Apr–Oct (peak May–Jun snowmelt); skiing: Dec–Mar; onsen: year-round",
+    "tips": "Minakami is Tokyo's outdoor adventure base (2.5 hours from Shinjuku) — rafting on the Tone River, bungee jumping, canyoning, and skiing all within a small valley. Book activities in advance for weekends, especially rafting in May–June when the snowmelt creates the fastest water. The Takaragawa Onsen outdoor bath (mixed, very large) at the valley head is one of Japan's most famous."
+  },
+  {
+    "id": "akagi-mountain",
+    "name": "Mt Akagi",
+    "prefecture": "Gunma",
+    "address": "Maebashi City, Gunma Prefecture",
+    "website_url": "",
+    "opening_hours": "Mountain accessible year-round; Akagi Visitor Center: 9:30–16:30 (closed Mon); lake facilities: Apr–Nov",
+    "tips": "Mt Akagi's caldera contains two lakes — the larger Onuma Lake is circled by a pleasant 3.5km walking path. The Akagi Soba (local buckwheat noodles) restaurants clustered near the lake are excellent for lunch. Autumn foliage peaks mid-October and the lake views are outstanding. Only 90 minutes from Shinjuku by express — underused by Tokyo day-trippers."
+  },
+  {
+    "id": "numata-castle-town",
+    "name": "Numata Castle Ruins & Town",
+    "prefecture": "Gunma",
+    "address": "Numata City, Gunma Prefecture",
+    "website_url": "",
+    "opening_hours": "Park and ruins: always accessible; Numata local market: weekends",
+    "tips": "An undervisited castle town in northern Gunma with excellent hiking access to the Oze National Park wetlands (1 hour north by bus). The castle ruins park has good sakura in April. The Tone River gorge below town has white-water rafting available Apr–Oct. Good transit point for Minakami onsen and outdoor activities."
+  },
+  {
+    "id": "oze-marshland",
+    "name": "Oze National Park",
+    "prefecture": "Gunma",
+    "address": "Katashina-mura, Tone-gun, Gunma",
+    "website_url": "",
+    "opening_hours": "Open mid-May to late October (varies by snowmelt); entry gates: dawn to dusk",
+    "tips": "The largest high-altitude wetland in Japan — 2,000+ hectares of marsh, ponds, and alpine meadows at 1,400m. The mizubasho (skunk cabbage) blooms late May to early June, creating a white carpet across the wetland floor. The 8km main boardwalk circuit takes 3–4 hours. Book accommodation in the single mountain hut well in advance for an overnight wildflower experience."
+  },
+  {
+    "id": "shima-onsen",
+    "name": "Shima Onsen",
+    "prefecture": "Gunma",
+    "address": "Nakanojo-machi, Agatsuma-gun, Gunma",
+    "website_url": "",
+    "opening_hours": "Village accessible year-round; ryokan day baths: typically 12:00–15:00 (call ahead)",
+    "tips": "Shima Onsen is said to be the model for the bathhouse in Spirited Away — the mountain-valley setting with traditional ryokan buildings over the Nakatsu River has a strong connection to the Ghibli visual aesthetic. The public bath Machiyazawa is the most accessible for day visitors. Combine with Nagatoro Gorge and Chichibu for a Saitama/Gunma outdoor day."
+  },
+  {
+    "id": "tatebayashi-castle-park",
+    "name": "Tatebayashi Castle Park — Azalea Hill",
+    "prefecture": "Gunma",
+    "address": "Tatebayashi City, Gunma Prefecture",
+    "website_url": "",
+    "opening_hours": "Park: always open; azalea peak: late April–early May; free at all times",
+    "tips": "Tatebayashi's castle park has 10,000 azalea bushes covering the former castle terraces — one of Japan's finest azalea displays. The cherry blossom season (April) adds a second spectacular flowering. The park is almost entirely unknown to foreign visitors. Combine with a day trip from Nikko or as a stop between Tokyo and Nikko."
+  },
+  {
+    "id": "tomioka-silk-mill",
+    "name": "Tomioka Silk Mill",
+    "prefecture": "Gunma",
+    "address": "1-1 Tomiokacho, Tomioka City, Gunma",
+    "website_url": "",
+    "opening_hours": "9:00–17:00 (last entry 16:30); closed year-end holidays",
+    "tips": "Japan's first modern industrial facility (1872) — a UNESCO World Heritage site and the birthplace of Japan's silk export industry that funded Meiji modernisation. The French-designed brick reeling hall still contains original French Cochet machines. The entire mill complex is intact. The surrounding Tomioka town has good silk-related craft shops. Combine with the Watanabe farm silk heritage site."
+  },
+  {
+    "id": "ibaraki-aqua-world",
+    "name": "Aqua World Ibaraki — Oarai",
+    "prefecture": "Ibaraki",
+    "address": "8252-3 Isohama, Oarai-machi, Higashi-Ibaraki-gun, Ibaraki",
+    "website_url": "",
+    "opening_hours": "10:00–17:00 (18:00 in summer); open year-round",
+    "tips": "Arrive by 10am to catch the shark feeding show. One of Japan's largest aquariums with an impressive shark collection. Oarai Isosaki Shrine (with its famous torii rising from the sea) is 10 minutes away and worth combining."
+  },
+  {
+    "id": "fukuroda-falls",
+    "name": "Fukuroda Falls",
+    "prefecture": "Ibaraki",
+    "address": "Daigo-machi, Kuji-gun, Ibaraki",
+    "website_url": "",
+    "opening_hours": "8:00–18:00 (Apr–Oct); 9:00–17:00 (Nov–Mar); evening illumination on some autumn nights",
+    "tips": "Japan's most famous four-tiered waterfall — each tier has a distinct character visible from multiple platforms. Winter (January–February) occasionally freezes the falls into an ice wall; check conditions via the official site before making the trip. The tunnel walk behind the cliff face gives a unique perspective from within the rock itself."
+  },
+  {
+    "id": "hitachi-seaside-park",
+    "name": "Hitachi Seaside Park",
+    "prefecture": "Ibaraki",
+    "address": "605-4 Onuma, Hitachinaka City, Ibaraki",
+    "website_url": "",
+    "opening_hours": "9:30–17:00 (18:00 during peak season); closed Mon (open if national holiday)",
+    "tips": "Mid-April to early May brings the famous nemophila (baby blue eyes) carpeting the Miharashi Hill in blue — arrive by 8:30am for the park open to avoid the worst crowds. Mid-October brings kochia (burning bush) turning the same hill scarlet. The park is enormous — allow 3–4 hours. The coastal zone and amusement area are bonus sections."
+  },
+  {
+    "id": "taito-museum-nature",
+    "name": "Ibaraki Nature Museum",
+    "prefecture": "Ibaraki",
+    "address": "700 Osaki, Bando City, Ibaraki",
+    "website_url": "",
+    "opening_hours": "9:30–17:00; closed Mon",
+    "tips": "A surprisingly world-class natural history museum — the dinosaur gallery includes an actual Spinosaurus specimen. Well worth a stop when visiting northern Kanto or combining with a trip to Narita. The outdoor natural area with wetland trail adds another 30–45 minutes. Genuinely excellent for all ages."
+  },
+  {
+    "id": "tsukuba-science-city",
+    "name": "JAXA Space Center — Tsukuba",
+    "prefecture": "Ibaraki",
+    "address": "2-1-1 Chigen, Tsukuba City, Ibaraki",
+    "website_url": "",
+    "opening_hours": "Space Center: 10:00–17:00; closed Mon and year-end holidays; advance reservation required for some exhibits",
+    "tips": "The H-II rocket, space shuttle experiments, and ISS module replicas are genuinely impressive. Free guided tours (English available) run multiple times daily — the guide access is worth booking. Combine with the Tsukuba Science Expo Center nearby. The Tsukuba Express from Akihabara reaches Tsukuba in 45 minutes."
+  },
+  {
+    "id": "kairakuen-plum",
+    "name": "Kairakuen Garden",
+    "prefecture": "Ibaraki",
+    "address": "3-3-6 Tokiwa-cho, Mito City, Ibaraki",
+    "website_url": "",
+    "opening_hours": "6:00–19:00 (Mar–Sep); 7:00–18:00 (Oct–Feb); free except during plum blossom festival (Feb–Mar, ¥320)",
+    "tips": "One of Japan's three great gardens — most famous for its 3,000 plum trees (100 varieties) that bloom February–March. The Kobuntei villa inside the garden has excellent garden views from the second floor. Unlike Kenroku-en and Korakuen, entry is free most of the year. Combine with Kodokan domain school (5 min walk) for a full Mito historical day."
+  },
+  {
+    "id": "kashima-shrine",
+    "name": "Kashima Jingu",
+    "prefecture": "Ibaraki",
+    "address": "2306-1 Kyuga, Kashima City, Ibaraki",
+    "website_url": "",
+    "opening_hours": "Shrine grounds: 24 hours; inner sanctuary: 8:30–16:30; Treasure Hall: 8:30–16:30",
+    "tips": "One of Japan's most ancient shrines with a 2,600-year history. The approach path of giant cedars is one of the most impressive in the country. The treasure hall contains a rare straight sword (chokuto) and the stone that legend says suppresses earthquakes. Combine with Naritasan Shinshoji and Sawara historic district for a full Northern Chiba day."
+  },
+  {
+    "id": "tsukuba-mountain",
+    "name": "Mt Tsukuba",
+    "prefecture": "Ibaraki",
+    "address": "Tsukuba City, Ibaraki Prefecture",
+    "website_url": "",
+    "opening_hours": "Ropeway: 9:10–17:10 (last ascent 16:40); cable car: 8:40–17:20; summit accessible year-round",
+    "tips": "Mt Tsukuba (877m) is one of Japan's 100 Famous Mountains and the most accessible peak from Tokyo by science city standards. The dual-peak summit (Male Peak and Female Peak) gives 360° views including Mt Fuji, Tokyo, and the Kanto plain. The Tsukuba Shrine at the base is worth visiting before ascending. Spring wildflowers on the cable car route are excellent."
+  },
+  {
+    "id": "oarai-isosaki-shrine",
+    "name": "Oarai Isosaki Shrine — Sea Torii",
+    "prefecture": "Ibaraki",
+    "address": "6890 Isohama, Oarai-machi, Ibaraki",
+    "website_url": "",
+    "opening_hours": "Always open; torii best at sunrise and dawn low tide",
+    "tips": "The two sacred torii standing in the surf of the Pacific are most dramatic at sunrise when the waves crash around the base. The shrine itself sits on a headland directly above. Combine with Aqua World aquarium (10 min by bus) for a full Ibaraki coast day. The Oarai Beef (wagyu) lunch at local restaurants is worth planning around."
+  },
+  {
+    "id": "ushiku-daibutsu",
+    "name": "Ushiku Daibutsu",
+    "prefecture": "Ibaraki",
+    "address": "2083 Kuridamachi, Ushiku City, Ibaraki",
+    "website_url": "",
+    "opening_hours": "9:30–17:30 (last entry 17:00); extended hours during illumination events",
+    "tips": "At 120m total height (statue itself 100m), Ushiku Daibutsu is the world's tallest Buddhist statue and one of the world's tallest statues of any kind. The interior elevator ascends to an observation deck at 85m with views across the Kanto plain. The surrounding pond and garden are pleasant. Combine with Tsukuba Science City (30 min by car) for a full Ibaraki day."
+  },
+  {
+    "id": "enoshima-island",
+    "name": "Enoshima Island",
+    "prefecture": "Kanagawa",
+    "address": "Enoshima, Fujisawa City, Kanagawa",
+    "website_url": "",
+    "opening_hours": "Island always accessible; Enoshima Shrine: 8:30–17:00; Samuel Cocking Garden & Sea Candle observation tower: 9:00–20:00",
+    "tips": "Weekends are very crowded — the single bridge causeway creates bottlenecks. Come on a weekday morning when the island feels like a local escape. The Sea Candle observation tower gives the best views of Mt Fuji on clear winter mornings. Shirasu (whitebait) is the local specialty — try shirasu-don at a restaurant near the causeway entrance."
+  },
+  {
+    "id": "hakone-ryokan",
+    "name": "Hakone Onsen",
+    "prefecture": "Kanagawa",
+    "address": "Hakone-machi, Ashigarashimo-gun, Kanagawa",
+    "website_url": "",
+    "opening_hours": "Area accessible year-round; ryokan day baths: typically 10:00–15:00; Hakone Free Pass covers most transport",
+    "tips": "The Hakone Free Pass (2-day ¥5,000 from Shinjuku) covers the Romancecar train, ropeway, pirate ship, and most buses — buy it at Shinjuku Station. Mt Fuji views from the ropeway and Lake Ashi are weather-dependent — check the forecast. Weekends are extremely crowded; a Mon–Thu visit is a completely different experience."
+  },
+  {
+    "id": "hakone-open-air-museum",
+    "name": "Hakone Open Air Museum",
+    "prefecture": "Kanagawa",
+    "address": "1121 Ninotaira, Hakone-machi, Ashigarashimo-gun, Kanagawa",
+    "website_url": "",
+    "opening_hours": "9:00–17:00 year-round",
+    "tips": "The Picasso Pavilion alone justifies the admission — over 300 works in a dedicated gallery. The outdoor sculptures include a Niki de Saint Phalle mosaic tower you can climb inside. The foot bath within the museum grounds is free with admission — a perfect mid-visit break."
+  },
+  {
+    "id": "kamakura-great-buddha",
+    "name": "Kamakura — Great Buddha & Hase-dera",
+    "prefecture": "Kanagawa",
+    "address": "4-2-28 Hase, Kamakura City, Kanagawa",
+    "website_url": "",
+    "opening_hours": "Great Buddha: 8:00–17:30 (Apr–Oct); 8:00–17:00 (Nov–Mar); Hase-dera: 8:00–17:30",
+    "tips": "The Great Buddha interior (¥20 extra) is surprisingly spacious — worth entering. Hase-dera's hillside garden and the view of Kamakura bay from the garden path are underrated. Avoid summer weekends when crowds are extreme. The beach at Yuigahama (10 min walk from Hase Station) is a good reward after the temples."
+  },
+  {
+    "id": "kamakura-temples-trail",
+    "name": "Kamakura Temple Trail",
+    "prefecture": "Kanagawa",
+    "address": "Kamakura City, Kanagawa Prefecture",
+    "website_url": "",
+    "opening_hours": "Individual temples: typically 8:00–17:00; Zeniarai Benzaiten cave shrine always accessible",
+    "tips": "The Daibutsu Hiking Trail (5km) connects several quiet Zen temples through forested hills — a far more rewarding experience than the crowded streets near Kamakura Station. Engakuji and Kenchoji are the most impressive full temples; Meigetsuin is famous for hydrangeas in June. Arrive by 9am on weekends or go on a weekday to have the trail largely to yourself."
+  },
+  {
+    "id": "miura-peninsula",
+    "name": "Miura Peninsula Coastal Walk",
+    "prefecture": "Kanagawa",
+    "address": "Miura City, Kanagawa Prefecture",
+    "website_url": "",
+    "opening_hours": "Paths always accessible; Misaki tuna market: early morning; beaches: year-round",
+    "tips": "The Miura Peninsula is Tokyo's closest Pacific coastline — 90 minutes from Shinjuku. Misaki tuna (misakimaguro) landed at Misaki Port is served at restaurants throughout the peninsula at very low prices. The clifftop path from Jogashima Island (connected by bridge) gives views of Izu Peninsula and Mt Fuji on clear days. Cycling from Miura-Kaigan Station is a good option."
+  },
+  {
+    "id": "odawara-castle",
+    "name": "Odawara Castle",
+    "prefecture": "Kanagawa",
+    "address": "3-1-22 Jonai, Odawara City, Kanagawa",
+    "website_url": "",
+    "opening_hours": "9:00–17:00 (last entry 16:30); park always open",
+    "tips": "Odawara Castle was the headquarters of the Hojo clan and the most powerful fortress in the Kanto region before Hideyoshi's siege in 1590. The current reconstruction is solid; the fifth-floor view of Sagami Bay and Mt Fuji on clear days is outstanding. The castle town shotengai (shopping street) has excellent kamaboko (fish cake) shops — Odawara's culinary specialty."
+  },
+  {
+    "id": "sankeien-garden",
+    "name": "Sankeien Garden",
+    "prefecture": "Kanagawa",
+    "address": "58-1 Honmoku Sannotani, Naka-ku, Yokohama",
+    "website_url": "",
+    "opening_hours": "9:00–17:00 year-round (last entry 16:30)",
+    "tips": "A private garden created by a Meiji-era silk merchant — historic buildings relocated from Kyoto, Kamakura, and elsewhere are scattered through the landscape. The inner garden (Naien) requires separate entry but contains the most important buildings. Much less crowded than Kenroku-en or Korakuen. Combine with Yokohama Chinatown (30 min by bus) for a full Kanagawa day."
+  },
+  {
+    "id": "yokohama-chinatown",
+    "name": "Yokohama Chinatown",
+    "prefecture": "Kanagawa",
+    "address": "Yamashita-cho, Naka-ku, Yokohama",
+    "website_url": "",
+    "opening_hours": "Most restaurants 11:00–22:00; shops 10:00–21:00",
+    "tips": "Japan's largest Chinatown has over 600 shops and restaurants — skip the tourist-facing buns and head inside for proper dim sum lunch. Visit on weekdays to avoid weekend crowds. The Kanteibyo (Guan Yu Temple) is free to enter and worth a look."
+  },
+  {
+    "id": "yokohama-minatomirai",
+    "name": "Yokohama Minato Mirai",
+    "prefecture": "Kanagawa",
+    "address": "Minato Mirai, Nishi-ku, Yokohama",
+    "website_url": "",
+    "opening_hours": "Area open 24 hours; attractions 10:00–21:00 (varies)",
+    "tips": "The harbor view from Osanbashi Pier is free and best at night when the Landmark Tower and the Yokohama Bay Bridge are reflected in the water. The Cupnoodles Museum (admission ¥500) lets you design your own instant ramen cup — a fun rainy-day activity."
+  },
+  {
+    "id": "chichibu-shrine",
+    "name": "Chichibu — Mountain Town & Shrine",
+    "prefecture": "Saitama",
+    "address": "Chichibu City, Saitama Prefecture",
+    "website_url": "",
+    "opening_hours": "Shrine grounds: 6:00–17:00; inner shrine open during daylight",
+    "tips": "Chichibu's Yo-matsuri Night Festival (December 3) is one of Japan's three great float festivals — dramatic and far less crowded than Kyoto equivalents. The mountain-town setting an hour from Tokyo makes Chichibu excellent for a day or weekend escape. Look out for Ichiro's Malt whisky from the local Chichibu Distillery."
+  },
+  {
+    "id": "kawagoe-little-edo",
+    "name": "Kawagoe — Little Edo",
+    "prefecture": "Saitama",
+    "address": "Kawagoe City, Saitama Prefecture",
+    "website_url": "",
+    "opening_hours": "Town always accessible; Kurazukuri Street: most shops 9:00–18:00; Toki-no-Kane bell tower always visible",
+    "tips": "The bell tower (Toki-no-Kane) still rings four times daily. Sweet potato (imo) products are Kawagoe's culinary identity — imo-yokan, imo-chi, and purple sweet potato soft-serve are everywhere. Come on a weekday; weekend crowds on the main Kurazukuri Street can be intense. The Kitain Temple (30 min walk) has 540 stone disciples with expressive faces."
+  },
+  {
+    "id": "hanno-tenran-mountain",
+    "name": "Mt Tenran — Hanno",
+    "prefecture": "Saitama",
+    "address": "Hanno City, Saitama Prefecture",
+    "website_url": "",
+    "opening_hours": "Mountain trail: always open; cable car (planned but not yet operational as of 2024); summit: 295m",
+    "tips": "A gentle 295m peak above Hanno city with excellent views of the Okutama mountains and, on clear days, the Skytree in Tokyo. The trail from Hanno Station takes 45 minutes. The autumn foliage on the cedar and maple slopes is underrated. Hanno is also the entry point for the Okutama wilderness area further north."
+  },
+  {
+    "id": "higashi-matsuyama-hike",
+    "name": "Musashi Kyuryo National Government Park",
+    "prefecture": "Saitama",
+    "address": "Ranzan-machi, Hiki-gun, Saitama",
+    "website_url": "",
+    "opening_hours": "9:30–17:00 (varies by season); closed Mon",
+    "tips": "One of the Kanto region's most underrated parks — 304 hectares of mixed forest on ancient burial mound terrain. The nemophila (baby blue eyes) display in spring, while smaller than Hitachi, is far less crowded. The park is ideal for trail running and forest bathing. Combine with Yoshimi Hundreds of Caves (ancient burial caves, 15 min by car)."
+  },
+  {
+    "id": "nagatoro-gorge",
+    "name": "Nagatoro Gorge",
+    "prefecture": "Saitama",
+    "address": "Nagatoro-cho, Chichibu-gun, Saitama",
+    "website_url": "",
+    "opening_hours": "Gorge: always accessible; Rocking Boat ride: Mar–Nov, 9:00–16:30 (weather permitting)",
+    "tips": "The traditional wooden boat ride through the Arakawa River gorge (30 min, ¥1,600) is guided by experienced boatmen who use poles to navigate the rapids. The gorge walls of folded metamorphic rock are geologically extraordinary. The Hodo-san cable car above the gorge gives aerial views. Combine with Chichibu Shrine for a full Saitama mountain day."
+  },
+  {
+    "id": "omiya-bonsai-village",
+    "name": "Omiya Bonsai Village",
+    "prefecture": "Saitama",
+    "address": "Omiya Ward, Saitama City, Saitama",
+    "website_url": "",
+    "opening_hours": "Village and nurseries: accessible year-round; Omiya Bonsai Art Museum: 9:00–16:30, closed Thu; individual nurseries: 9:00–17:00",
+    "tips": "Nine professional bonsai nurseries cluster in a quiet residential area of Omiya — several welcome visitors to walk among their trees. The Art Museum has rotating exhibitions including trees hundreds of years old. The Fuyo-en and Edokiryuso nurseries are the most visitor-friendly. Reach by Tobu Noda Line from Omiya Station (10 min)."
+  },
+  {
+    "id": "ranzan-gorge",
+    "name": "Ranzan Gorge",
+    "prefecture": "Saitama",
+    "address": "Ranzan-machi, Hiki-gun, Saitama",
+    "website_url": "",
+    "opening_hours": "Always open; boat rental: Mar–Nov 9:00–16:00",
+    "tips": "The gorge is often called the 'Arashiyama of the Kanto region' — a flattering comparison it doesn't quite match, but it's genuinely pleasant and very accessible from Tokyo. The flat-bottomed rental boats are the best way to explore. The spring cherry blossoms and autumn foliage are both excellent. Combine with Nagatoro Gorge (30 min by train) for a full Saitama river day."
+  },
+  {
+    "id": "saitama-railway-museum",
+    "name": "Saitama Railway Museum",
+    "prefecture": "Saitama",
+    "address": "3-47 Onari-cho, Omiya-ku, Saitama City",
+    "website_url": "",
+    "opening_hours": "10:00–18:00 (last entry 17:30); closed Tue",
+    "tips": "One of Japan's finest railway museums — 36 historic rolling stock pieces displayed in a vast hall, from Meiji-era steam locomotives to Shinkansen. The N700 Shinkansen simulator is the most popular exhibit (book a slot in advance). The outdoor turntable demonstration (11am, 1:30pm, 3:30pm) is worth timing your visit around. 3 minutes from Tetsudo Hakubutsukan Station on Saitama New Shuttle."
+  },
+  {
+    "id": "washinomiya-shrine",
+    "name": "Washinomiya Shrine",
+    "prefecture": "Saitama",
+    "address": "135-1 Washinomiya, Kuki City, Saitama",
+    "website_url": "",
+    "opening_hours": "Open 24 hours; office 9:00–17:00",
+    "tips": "One of the Kanto region's oldest shrines, this became a pilgrimage site for anime fans after featuring in Lucky Star. Visit at New Year (Hatsumode) for one of Saitama's largest gatherings. The approach avenue of cedars is serene in the early morning mist."
+  },
+  {
+    "id": "yoshimi-caves",
+    "name": "Yoshimi Hyakuana Caves",
+    "prefecture": "Saitama",
+    "address": "Yoshimi-cho, Hiki-gun, Saitama",
+    "website_url": "",
+    "opening_hours": "9:00–16:30 (closed Mon); entry ¥300",
+    "tips": "These 219 ancient burial caves were carved in the Kofun period (4th–7th century). Some were later used as ammunition depots in WWII. Bring a flashlight to explore the darker recesses. The site is uncrowded and very peaceful — rare for Saitama."
+  },
+  {
+    "id": "ashikaga-flower-park",
+    "name": "Ashikaga Flower Park",
+    "prefecture": "Tochigi",
+    "address": "607 Kodakucho, Ashikaga City, Tochigi",
+    "website_url": "",
+    "opening_hours": "9:00–18:00 (extended hours during illumination season); seasonal closures between blooms — check website",
+    "tips": "The famous wisteria blooms mid-April to mid-May — confirm exact peak on the official website as it varies year to year. Avoid Golden Week weekends when queues form just to enter the wisteria tunnel. The winter illumination (Nov–Feb) is also spectacular."
+  },
+  {
+    "id": "nikko-kegon-falls",
+    "name": "Kegon Falls & Lake Chuzenji",
+    "prefecture": "Tochigi",
+    "address": "Chugushi, Nikko City, Tochigi",
+    "website_url": "",
+    "opening_hours": "Elevator: 8:00–17:00 (Apr–Nov); 9:00–16:30 (Dec–Mar); waterfall always visible from upper viewpoint",
+    "tips": "The 97m drop is most dramatic during spring snowmelt (April–May) and after typhoon rains in autumn. The elevator (¥550) descends to an observation platform at the base of the falls — the view upward at the white column of water is outstanding. Lake Chuzenji above the falls and the Nikko Toshogu shrines complete a classic Nikko day."
+  },
+  {
+    "id": "kinugawa-onsen",
+    "name": "Kinugawa Onsen",
+    "prefecture": "Tochigi",
+    "address": "Nikko City, Tochigi Prefecture",
+    "website_url": "",
+    "opening_hours": "Ryokan day baths: typically 11:00–15:00 (call ahead); outdoor free footbath at station: daytime",
+    "tips": "Kinugawa's gorge setting is the main appeal — the deep canyon and rushing river running between the ryokan buildings creates a dramatic backdrop. The Tobu Railway Day Pass from Asakusa covers trains and some bus routes. Nikko is 30 minutes away — combine both for a full Tochigi day."
+  },
+  {
+    "id": "mashiko-pottery",
+    "name": "Mashiko — Living Pottery Village",
+    "prefecture": "Tochigi",
+    "address": "Mashiko-machi, Haga-gun, Tochigi",
+    "website_url": "",
+    "opening_hours": "Town accessible year-round; Mashiko Museum of Ceramic Art: 9:30–17:00, closed Mon; workshops: bookable year-round",
+    "tips": "Mashiko is where Hamada Shoji established his mingei (folk craft) workshop — the tradition continues with over 300 active potteries. The spring and autumn pottery fairs (late April–May, October–November) fill the town with hundreds of potters selling direct. Several kilns offer hands-on throwing experiences bookable on the day."
+  },
+  {
+    "id": "nasu-highland",
+    "name": "Nasu Highland",
+    "prefecture": "Tochigi",
+    "address": "Nasu-machi, Nasu-gun, Tochigi",
+    "website_url": "",
+    "opening_hours": "Highland always accessible; Nasu Ropeway (Mt Chausu): 8:30–16:00 (weather permitting); Bettanuma marsh trail: year-round",
+    "tips": "The highland plateau has active volcanic vents, deer, and good hiking. The Bettanuma marsh boardwalk (1.5km) is accessible year-round and often has wild deer. Combine with Nasu's famous cheese and dairy farms — the area's butter and ice cream are excellent. The autumn foliage on the highland plateau (October) is outstanding."
+  },
+  {
+    "id": "nikko-national-park-hiking",
+    "name": "Nikko National Park Hikes",
+    "prefecture": "Tochigi",
+    "address": "Nikko City, Tochigi Prefecture",
+    "website_url": "",
+    "opening_hours": "Trails accessible year-round; some high-altitude routes closed Nov–May; Senjogahara Marsh: May–Nov best",
+    "tips": "The Senjogahara Marsh boardwalk (8km loop) is Nikko's finest nature walk — the open wetland views of surrounding peaks and the Yudaki waterfall at the far end are spectacular. The Ryuzu Falls (dragon head falls) is accessible even in winter. Combine with Kegon Falls and Lake Chuzenji for a full highland Nikko day."
+  },
+  {
+    "id": "nikko-toshogu",
+    "name": "Nikko Tosho-gu",
+    "prefecture": "Tochigi",
+    "address": "2301 Sannai, Nikko City, Tochigi",
+    "website_url": "",
+    "opening_hours": "8:00–17:00 (Apr–Oct); 8:00–16:00 (Nov–Mar)",
+    "tips": "Tosho-gu is the most ornate shrine in Japan — every surface is carved, gilded, or lacquered. The three wise monkeys carving and the sleeping cat (Nemuri-neko) are the most famous details. The 207-step cedar avenue staircase to Okusha (Ieyasu's mausoleum) beyond the main complex is the most atmospheric section. Buy a combined ticket covering all areas."
+  },
+  {
+    "id": "sano-outlet",
+    "name": "Sano Premium Outlets",
+    "prefecture": "Tochigi",
+    "address": "2353 Higashitsurugaoka, Sano City, Tochigi",
+    "website_url": "",
+    "opening_hours": "10:00–20:00 year-round",
+    "tips": "Sano Premium Outlets is the largest outlet mall in eastern Japan — 210+ shops spread over multiple buildings connected by indoor and outdoor paths. The Tochigi-brand items (Nikko woodcraft, Mashiko pottery, Sano ramen shops) make it more than just a generic outlet. The direct bus from Shinjuku (90 min) is the easiest way to visit."
+  },
+  {
+    "id": "tochigi-city-canal",
+    "name": "Tochigi City — Edo Canal Town",
+    "prefecture": "Tochigi",
+    "address": "Tochigi City, Tochigi Prefecture",
+    "website_url": "",
+    "opening_hours": "Town always accessible; boat rides: Mar–Nov 10:00–16:00; Tochigi Prefectural Museum: 9:30–17:00",
+    "tips": "Tochigi city preserves the finest Edo-period canal town architecture in the Kanto region — more intact and authentic than Kawagoe or Sawara. The canal-side kurazashiki warehouse district is the main draw. The boat ride through the canal gives the best perspective of the architecture from the water. Very few foreign visitors — a genuine discovery."
+  },
+  {
+    "id": "utsunomiya-gyoza",
+    "name": "Utsunomiya Gyoza Town",
+    "prefecture": "Tochigi",
+    "address": "Utsunomiya City, Tochigi Prefecture",
+    "website_url": "",
+    "opening_hours": "Gyoza restaurants: typically 11:30–22:00; Minmaya and Masashi open from 11:30 with queues forming earlier",
+    "tips": "Utsunomiya produces more gyoza than any other city in Japan — the local style is thinner-skinned with more garlic and chive than the Osaka style. The Gyoza no Masashi original store and Minmaya are the most respected traditional shops. The Gyoza Street near Utsunomiya Station has 20+ restaurants in a single block. The Oya Stone Museum (carved cave, 25 min by bus) is an excellent non-food addition."
+  },
+  {
+    "id": "hamarikyu-gardens",
+    "name": "Hamarikyu Gardens",
+    "prefecture": "Tokyo",
+    "address": "1-1 Hamarikyu Teien, Chuo-ku, Tokyo",
+    "website_url": "",
+    "opening_hours": "9:00–17:00 year-round; closed 29 Dec–1 Jan",
+    "tips": "One of Tokyo's few surviving daimyo gardens, with a tidal pond that changes character with the tide. The Nakajima Teahouse on the island serves matcha and wagashi (¥510) — try to reserve a tatami seat. Access by water bus from Asakusa is the most scenic approach and highly recommended over the subway."
+  },
+  {
+    "id": "kagurazaka",
+    "name": "Kagurazaka",
+    "prefecture": "Tokyo",
+    "address": "Kagurazaka, Shinjuku-ku, Tokyo",
+    "website_url": "",
+    "opening_hours": "Always accessible; restaurants: typically 11:30–14:00 and 18:00–22:00; most shops 11:00–19:00",
+    "tips": "Kagurazaka is Tokyo's most French-Japanese neighbourhood — the back lanes (yokocho) hide excellent French bistros and traditional Japanese restaurants in converted machiya. Visit on a Saturday evening when the pedestrian section of the main street comes alive. The Bishamonten Zenkoku-ji shrine at the top of the street is the local guardian deity — worth a quick visit."
+  },
+  {
+    "id": "koenji-awa-odori",
+    "name": "Koenji",
+    "prefecture": "Tokyo",
+    "address": "Koenji, Suginami-ku, Tokyo",
+    "website_url": "",
+    "opening_hours": "Neighbourhood always accessible; vintage shops: typically 12:00–20:00; Awa Odori Festival: late August (exact dates vary)",
+    "tips": "Koenji is Tokyo's most creatively alive neighbourhood — concentrated vintage clothing (furugiya), record shops, and live music venues in a tight warren of shotengai arcades. The Koenji Awa Odori festival (late August) is one of Tokyo's most energetic summer festivals. The neighbourhood is quieter before noon — best explored from early afternoon through evening."
+  },
+  {
+    "id": "nezu-shrine",
+    "name": "Nezu Shrine",
+    "prefecture": "Tokyo",
+    "address": "1-28-9 Nezu, Bunkyo-ku, Tokyo",
+    "website_url": "",
+    "opening_hours": "6:00–17:00; azalea garden: late March–late April, ¥500 during this period",
+    "tips": "Nezu is one of Tokyo's oldest shrines and has a tunnel of torii leading to the inner sanctuary — smaller scale than Fushimi Inari but far less crowded. The azalea festival (Tsutsuji Matsuri) from late March to late April is outstanding — 3,000 azalea bushes covering the hillside behind the shrine. Combine with Yanaka cemetery and old shitamachi for a full historic east Tokyo day."
+  },
+  {
+    "id": "tokyo-tower-shiba-park",
+    "name": "Shiba Park & Zojo-ji Temple",
+    "prefecture": "Tokyo",
+    "address": "4-7-35 Shiba-koen, Minato-ku, Tokyo",
+    "website_url": "",
+    "opening_hours": "Shrine and park: always accessible; Zojo-ji inner halls: 6:00–17:30",
+    "tips": "Zojo-ji is the Tokugawa family mortuary temple — six of the fifteen Tokugawa shoguns are buried here. The Tokyo Tower directly behind the main gate is the most photographed backdrop in Tokyo. The row of small Jizo statues in red bibs (Migawari Jizo) dedicated to lost children is quietly moving. Combine with nearby Roppongi Hills and the National Art Center for a full afternoon."
+  },
+  {
+    "id": "shimokitazawa",
+    "name": "Shimokitazawa",
+    "prefecture": "Tokyo",
+    "address": "Shimokitazawa, Setagaya-ku, Tokyo",
+    "website_url": "",
+    "opening_hours": "Always accessible; vintage shops: 12:00–20:00; live music venues: 19:00–late; restaurants: 11:00–late",
+    "tips": "Shimokitazawa is Tokyo's most creatively concentrated neighbourhood — 200+ vintage clothing shops, independent record stores, small theatres, and live music clubs in 3km² of pedestrian-friendly streets. The Sunday vintage market at Shimokita College is excellent. The neighbourhood rewards slow walking and random discovery; the best things are found by wandering, not planning."
+  },
+  {
+    "id": "todoroki-valley",
+    "name": "Todoroki Valley",
+    "prefecture": "Tokyo",
+    "address": "Todoroki, Setagaya-ku, Tokyo",
+    "website_url": "",
+    "opening_hours": "Always open (natural valley park)",
+    "tips": "A genuine forested river gorge running through residential Setagaya — one of Tokyo's most unexpected nature experiences. The 1km path follows the Yazawa River between 10m-high forested banks with a waterfall, small shrine, and bridge. Completely free, accessible year-round, and 10 minutes walk from Todoroki Station on the Tokyu Oimachi Line. The adjacent temple and traditional garden add a contemplative element."
+  },
+  {
+    "id": "tsukiji-outer-market",
+    "name": "Tsukiji Outer Market",
+    "prefecture": "Tokyo",
+    "address": "4-16-2 Tsukiji, Chuo-ku, Tokyo",
+    "website_url": "",
+    "opening_hours": "Most stalls: 5:00–14:00 (fish dealers from earlier); tamagoyaki shops open from 6:00; best visited 7:00–10:00",
+    "tips": "The inner tuna market moved to Toyosu in 2018 but the outer market remains the best street food corridor in Tokyo. Tamagoyaki (thick egg omelette) fresh from the griddle, tuna temaki handrolls, and fresh scallops on the shell at ¥300 are the staple breakfast. Come hungry and eat as you walk — bring cash. The Namiyoke Inari Shrine at the market entrance is worth a quick visit."
+  },
+  {
+    "id": "yanaka-ginza",
+    "name": "Yanaka Ginza",
+    "prefecture": "Tokyo",
+    "address": "Yanaka, Taito-ku, Tokyo",
+    "website_url": "",
+    "opening_hours": "Shops generally 10:00–18:00; some close Mon or Tue",
+    "tips": "This 170-meter shotengai is best explored on a weekend morning before noon crowds arrive. Try the menchi-katsu (minced meat cutlet) from Yanaka Meat Shop — locals queue for it. Continue uphill to Yanaka Cemetery for quiet walks among old Tokyo tombstones."
+  },
+  {
+    "id": "yoyogi-park",
+    "name": "Yoyogi Park & Meiji Jingu",
+    "prefecture": "Tokyo",
+    "address": "2-1 Yoyogi Kamizonocho, Shibuya-ku, Tokyo",
+    "website_url": "",
+    "opening_hours": "Park open 24 hours; Meiji Jingu 5:00–18:00 (varies by season)",
+    "tips": "Walk the forested path from Harajuku Station into Meiji Jingu before 8:00 AM for a near-wilderness experience in central Tokyo. Yoyogi Park's open lawn fills with picnickers on sunny weekends — great for people-watching. Free entry to both park and shrine."
+  }
+]

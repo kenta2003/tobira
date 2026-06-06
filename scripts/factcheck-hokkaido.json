@@ -1,0 +1,112 @@
+[
+  {
+    "id": "abashiri-drift-ice",
+    "name": "Abashiri Drift Ice & Aurora Icebreaker Cruise",
+    "prefecture": "Hokkaido",
+    "address": "Minato-cho, Abashiri, Hokkaido",
+    "access": "From Abashiri Station, 10-min by taxi to Abashiri Port; or Memanbetsu Airport to Abashiri by bus approx. 25 min",
+    "admission": "¥4,000 adult, ¥2,000 child (Aurora icebreaker cruise); advance booking strongly recommended",
+    "best_season": "Late January–mid-March (drift ice season)",
+    "website_url": "",
+    "description": "Each winter the Sea of Okhotsk freezes in Siberia and vast sheets of drift ice — up to 1 metre thick — flow south to Abashiri, turning the sea into a grinding white plain. The Aurora icebreaker smashes through these floes on 1-hour cruises, and on calm days visitors can step onto the ice itself. This is the southernmost naturally occurring drift ice on the planet."
+  },
+  {
+    "id": "asahiyama-zoo",
+    "name": "Asahiyama Zoo",
+    "prefecture": "Hokkaido",
+    "address": "Kuranuma, Higashiasahikawa-cho, Asahikawa, Hokkaido",
+    "access": "About 30 min by bus from Asahikawa Station (Higashiasahikawa-bound bus, alight at Asahiyama Zoo)",
+    "admission": "¥1,000 adult; free for junior high school students and below",
+    "best_season": "April–November (summer season); January–March (winter penguin walks)",
+    "website_url": "",
+    "description": "Japan's most innovative zoo, which rescued itself from near-closure in the 1990s by pioneering \"behaviour exhibits\" — glass tunnels through penguin tanks, polar bear pools with underwater viewing, and orangutan sky-walks overhead. The winter penguin parade, when keepers walk the birds through snow for exercise, has become one of Hokkaido's most beloved daily spectacles."
+  },
+  {
+    "id": "daisetsuzan-national-park",
+    "name": "Daisetsuzan National Park",
+    "prefecture": "Hokkaido",
+    "address": "Kamikawa District / Kato District, Hokkaido",
+    "access": "Bus from Asahikawa Station to Sounkyo Onsen approx. 1 hour 30 min (Dohoku Bus)",
+    "admission": "Free (park); Sounkyo Ropeway round-trip ¥2,000 adult",
+    "best_season": "Late June–October (hiking); late September (koyo); February–March (ice waterfall festival)",
+    "website_url": "",
+    "description": "Japan's largest national park — bigger than Tokyo Prefecture — a volcanic plateau of jagged peaks, alpine meadows and cascading waterfalls at the geographical heart of Hokkaido. Autumn colours arrive here 6–8 weeks earlier than the rest of Japan, earning Daisetsuzan the title \"first stage of autumn in Japan\". The Sounkyo gorge, with its 150m basalt columns and twin waterfalls, is the most dramatic gateway into the park."
+  },
+  {
+    "id": "kushiro-wetlands",
+    "name": "Kushiro Wetlands National Park",
+    "prefecture": "Hokkaido",
+    "address": "Hokuto, Kushiro, Hokkaido",
+    "access": "Bus from Kushiro Station to Hosooka Observatory approx. 40 min (Akan Bus); or rental car recommended",
+    "admission": "Free (wetlands & observatories)",
+    "best_season": "January–February (crane dances on snow); June–October (canoeing & Norokko Train)",
+    "website_url": "",
+    "description": "Japan's largest wetland, a peat-bog wilderness of reeds, meandering rivers and oxbow lakes covering 183 km² — a primeval landscape unchanged since the ice age. The park is the last stronghold of the red-crowned crane (tancho), the rarest crane on Earth. In winter, dozens of cranes gather at feeding stations and perform elaborate courtship dances on the snow."
+  },
+  {
+    "id": "lake-mashu",
+    "name": "Lake Mashu",
+    "prefecture": "Hokkaido",
+    "address": "Teshikaga, Kawakami District, Hokkaido",
+    "access": "About 25-min drive from Mashu Station (JR Senmo Line); limited bus service from Kawayu Onsen in summer",
+    "admission": "¥450 (parking fee per vehicle; walk-in free)",
+    "best_season": "May–October; early morning for the best chance of a clear view",
+    "website_url": "",
+    "description": "One of the world's clearest lakes — a caldera filled to its brim with translucent cobalt water, ringed by sheer 200m cliffs that drop straight into the lake with no shoreline. The Ainu called it \"Lake of the Devil\" for the impenetrable fog that rolls in from the sea of Okhotsk and swallows it whole. No rivers enter or leave; the water is naturally filtered to near-distilled clarity."
+  },
+  {
+    "id": "hakodate-mountain-night-view",
+    "name": "Mt. Hakodate Night View",
+    "prefecture": "Hokkaido",
+    "address": "Hakodate-yama, Hakodate, Hokkaido",
+    "access": "Tram to Jujigai stop then 10-min walk to ropeway base; or direct bus (Hakodate Bus route 26) from Hakodate Station",
+    "admission": "Ropeway round-trip ¥1,800 adult, ¥900 child (ages 6–12)",
+    "best_season": "Year-round; most dramatic on clear evenings; avoid foggy days",
+    "website_url": "",
+    "description": "From the 334m summit of Mt. Hakodate, the city glitters below in one of the world's most celebrated night views — a narrow hourglass of light pinched between two bays, the dark ocean curving away on both sides. Listed alongside Naples and Hong Kong as one of the world's three great night views, the panorama is most dramatic in the blue hour just after sunset."
+  },
+  {
+    "id": "niseko-ski-resort",
+    "name": "Niseko United Ski Resort",
+    "prefecture": "Hokkaido",
+    "address": "Aza Yamada, Niseko-cho, Abuta District, Hokkaido",
+    "access": "Shuttle bus from New Chitose Airport approx. 2 hours 30 min (advance booking essential in peak season); or JR to Niseko Station then local bus",
+    "admission": "1-day lift pass from ¥8,800 adult (varies by resort and season)",
+    "best_season": "December–March (ski season); July–September (mountain biking, hiking)",
+    "website_url": "",
+    "description": "Asia's premier powder skiing destination — four interconnected resorts on the flanks of the active volcano Mt. Yotei receive an average of 15 metres of feather-light JAPOWder snow per season, driven by cold air crossing the Sea of Japan and wrung dry over the mountains. In summer the resorts reinvent themselves as mountain biking and hiking hubs with Yotei's perfect cone as a backdrop."
+  },
+  {
+    "id": "sapporo-odori-park",
+    "name": "Odori Park & Sapporo Snow Festival",
+    "prefecture": "Hokkaido",
+    "address": "Odori Nishi, Chuo-ku, Sapporo, Hokkaido",
+    "access": "2-min walk from Odori Station (Subway Namboku / Tozai / Toho Line)",
+    "admission": "Free (park); TV Tower observation deck ¥800 adult",
+    "best_season": "February (Snow Festival); June–August (beer gardens & flowers)",
+    "website_url": "",
+    "description": "A 1.5 km green boulevard bisecting central Sapporo that transforms each February into the world-famous Snow Festival — 200-plus enormous ice and snow sculptures lit up across six blocks. In summer the park hosts flower gardens, beer gardens and outdoor concerts beneath the TV Tower."
+  },
+  {
+    "id": "rebun-island",
+    "name": "Rebun Island",
+    "prefecture": "Hokkaido",
+    "address": "Rebun-cho, Rebun District, Hokkaido",
+    "access": "Ferry from Wakkanai Port approx. 2 hours (Heart Land Ferry, ¥2,570 adult one-way 2nd class). Wakkanai by JR Super Soya Ltd. Express from Sapporo approx. 5 hours",
+    "admission": "Ferry fare ¥2,570 adult one-way (2nd class)",
+    "best_season": "June–August (flowers peak); May–September (ferry season)",
+    "website_url": "",
+    "description": "A sliver of island 60 km off the northern tip of Hokkaido, closer to Sakhalin than to Sapporo — nicknamed \"the floating island of flowers\" for the 300 alpine plant species that bloom across its treeless plateau each June and July. Because the island has no mountains high enough to create snow-line conditions, these rare arctic-alpine flowers grow unusually low, just metres above sea level."
+  },
+  {
+    "id": "sapporo-beer-garden",
+    "name": "Sapporo Beer Garden & Museum",
+    "prefecture": "Hokkaido",
+    "address": "Kita 9-jo Higashi 9-chome, Higashi-ku, Sapporo, Hokkaido",
+    "access": "10-min walk from JR Sapporo Station; or free shuttle bus from Sapporo Station (East Exit)",
+    "admission": "Museum free; Genghis Khan BBQ from ¥2,728 per person (90 min)",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "The birthplace of Sapporo Beer, housed in a grand red-brick factory complex built in 1890. The free museum traces the history of Japan's oldest brand through vintage posters and brewing machinery, while the cavernous Genghis Khan halls serve all-you-can-eat lamb BBQ and unlimited draft beer beneath soaring ceilings."
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "atsuta-jingu",
+    "name": "Atsuta Jingu",
+    "prefecture": "Aichi",
+    "address": "1-1-1 Jingu, Atsuta-ku, Nagoya",
+    "website_url": "",
+    "opening_hours": "Shrine grounds: 24 hours; inner shrine: 5:00–19:00; Treasure Hall: 9:00–16:30, closed Fri",
+    "tips": "One of Japan's most sacred shrines, second only to Ise. Walk the full perimeter path through ancient camphor trees — far less visited than the main hall. The Hitsumabushi (grilled eel over rice) restaurants near the south gate are a Nagoya culinary pilgrimage."
+  },
+  {
+    "id": "inuyama-castle",
+    "name": "Inuyama Castle",
+    "prefecture": "Aichi",
+    "address": "65-2 Kita-Koguchi, Inuyama",
+    "website_url": "",
+    "opening_hours": "9:00–17:00 (last entry 16:30); closed Dec 29–31",
+    "tips": "One of Japan's twelve original castle keeps — the observation deck at the top is reached by very steep stairs but the views over the Kiso River gorge are outstanding. The Inuyama castle town (Honmachi street) has excellent craft shops and cafes. Combine with Meiji Mura open-air architecture museum (15 min by bus) for a full day."
+  },
+  {
+    "id": "meiji-mura",
+    "name": "Meiji Mura Open Air Museum",
+    "prefecture": "Aichi",
+    "address": "1 Uchiyama, Inuyama",
+    "website_url": "",
+    "opening_hours": "9:30–17:00 (Mar–Oct); 10:00–16:00 (Nov–Feb); closed Mon in winter",
+    "tips": "Over 60 Meiji-era buildings relocated from across Japan and reassembled in a hillside park. The Frank Lloyd Wright Imperial Hotel lobby is the centrepiece. The steam locomotive ride, vintage bus, and tram are included in admission. Allow 4–5 hours for the full site — bring comfortable shoes as distances between buildings are significant."
+  },
+  {
+    "id": "nagoya-castle",
+    "name": "Nagoya Castle",
+    "prefecture": "Aichi",
+    "address": "1-1 Honmaru, Naka-ku, Nagoya",
+    "website_url": "",
+    "opening_hours": "9:00–16:30 (last entry 16:00); closed Dec 29–31",
+    "tips": "The golden shachi (tiger-fish) on the castle's roof corners are Nagoya's most iconic symbol. The Honmaru Palace reconstruction (completed 2018) uses traditional techniques and materials — the painted interior rooms are extraordinary. The original main tower is under reconstruction; the Honmaru Palace is the main current attraction. Combine with Atsuta Jingu for a full Nagoya historical day."
+  },
+  {
+    "id": "okazaki-castle",
+    "name": "Okazaki Castle",
+    "prefecture": "Aichi",
+    "address": "561-1 Kōsei-cho, Okazaki",
+    "website_url": "",
+    "opening_hours": "9:00–17:00 (last entry 16:30); park always open",
+    "tips": "Tokugawa Ieyasu's birthplace — the castle displays the founder of the Edo shogunate's life and legacy in detail. The cherry blossom season (late March–early April) with 800 trees lining the castle moat is one of the finest in the Tokai region. Combine with the Iga Ninja Museum (1.5 hours by car) for a full feudal Japan day."
+  },
+  {
+    "id": "seto-city-ceramics",
+    "name": "Seto — Japan's Pottery Capital",
+    "prefecture": "Aichi",
+    "address": "Seto City, Aichi Prefecture",
+    "website_url": "",
+    "opening_hours": "Town: always accessible; Seto Ceramic Art Museum: 9:30–17:00, closed Mon; kilns: individual hours vary",
+    "tips": "Seto has produced over half of Japan's ceramic output since the 12th century — 'setomono' is still the generic Japanese word for ceramics. The Suemono-yama preservation area has traditional kilns and workshops. The Seto Ceramics Market (September) brings 300+ artists. The town is 30 min from Nagoya by Meitetsu Seto Line."
+  },
+  {
+    "id": "tokoname-pottery-town",
+    "name": "Tokoname — Pottery Street",
+    "prefecture": "Aichi",
+    "address": "Tokoname City, Aichi Prefecture",
+    "website_url": "",
+    "opening_hours": "Town always accessible; Tokoname Pottery Walking Trail: daylight hours; Tokoname Toki-no-Mori Park: 10:00–17:00",
+    "tips": "Tokoname is one of Japan's Six Ancient Kilns — the pottery town walking trail passes enormous kilns, clay pipe walls, and ceramic tile installations. The town produces Tokoname-yaki teapots (noted for the iron content that reduces tea bitterness) and architectural tiles. The brick chimney landscape is photogenic. Located 15 minutes by Meitetsu train from Nagoya — easy airport day trip if flying through Centrair."
+  },
+  {
+    "id": "tsushima-shrine-aichi",
+    "name": "Tsushima Shrine",
+    "prefecture": "Aichi",
+    "address": "1 Tsushima-cho, Tsushima",
+    "website_url": "",
+    "opening_hours": "Shrine: always accessible; Tenno Festival (June): one of Japan's three great river festivals",
+    "tips": "Tsushima Shrine is the head of all Gozuten shrines in Japan and home to the Owari Tsushima Tenno Festival — lantern boats on the Kiso River in June. The shrine buildings include important structures dating to the Edo period. Combine with Inuyama Castle (30 min by car) and Meiji Mura for a full western Aichi day."
+  },
+  {
+    "id": "gero-onsen",
+    "name": "Gero Onsen",
+    "prefecture": "Gifu",
+    "address": "Gero City, Gifu Prefecture",
+    "website_url": "",
+    "opening_hours": "Ryokan day baths: typically 11:00–15:00; Bouyou-no-Yu public bath: 10:00–22:00",
+    "tips": "Gero is one of Japan's three great hot spring towns alongside Arima and Kusatsu. The free foot baths along the river promenade are a good low-commitment introduction. The Gero Onsen Gassho-mura open-air museum (30 min walk) has relocated Shirakawa-go farmhouses — a natural combination with the onsen visit."
+  },
+  {
+    "id": "gujo-hachiman",
+    "name": "Gujo Hachiman",
+    "prefecture": "Gifu",
+    "address": "Hachiman-cho, Gujo-shi, Gifu",
+    "website_url": "",
+    "opening_hours": "Castle: 9:00–17:00 (Jun–Aug until 18:00); town always accessible",
+    "tips": "Gujo is the epicentre of Japan's most extraordinary summer festival — Gujo Odori (mid-July to early September, 30+ nights of street dancing) culminates in four Obon all-night dances where anyone can join. The crystal-clear Yoshida River is so clean locals still wash vegetables in it. Plastic food sample manufacturing originated here — factory tours are bookable."
+  },
+  {
+    "id": "magome-juku",
+    "name": "Magome-juku",
+    "prefecture": "Gifu",
+    "address": "Nakatsugawa City, Gifu Prefecture",
+    "website_url": "",
+    "opening_hours": "Town always accessible; most shops: 9:00–17:00; post town road: daylight hours",
+    "tips": "The Magome-Tsumago Nakasendo trail (8km, 3 hours) is one of Japan's finest half-day walks — the historic post road through cedar and cypress forest between two perfectly preserved Edo-era towns. Start at Magome (downhill toward Tsumago) for the easier direction. The road is closed to vehicles — absolutely no modern intrusions on the walk."
+  },
+  {
+    "id": "mino-washi-town",
+    "name": "Mino — Washi Paper Town",
+    "prefecture": "Gifu",
+    "address": "Mino City, Gifu Prefecture",
+    "website_url": "",
+    "opening_hours": "Town always accessible; Udatsu Gallery and shops: typically 9:00–17:00; washi workshops: bookable",
+    "tips": "Mino washi is the most refined of Japan's traditional papers — the preserved udatsu-style merchant town streetscape is a bonus. The autumn Washi no Hi (Paper Day) festival in November covers the town in handmade lanterns. Paper-making workshops (1–2 hours) are bookable at multiple studios for ¥800–1,500 and make for an ideal souvenir."
+  },
+  {
+    "id": "ogaki-castle",
+    "name": "Ogaki Castle",
+    "prefecture": "Gifu",
+    "address": "2-52 Kuruwa-cho, Ogaki City, Gifu",
+    "website_url": "",
+    "opening_hours": "9:00–17:00 (last entry 16:30)",
+    "tips": "One of Japan's few castle keeps that survived the Boshin War without destruction — the interior shows original architectural elements. Ogaki was the endpoint of Matsuo Basho's 'Narrow Road to the Deep North' journey. The city is famous for wagashi (Japanese confectionery) and water — abundant groundwater springs supply the entire city. Combine with Gifu Castle (30 min) for a castle-pair day."
+  },
+  {
+    "id": "seki-blade-town",
+    "name": "Seki — Japan's Sword & Blade City",
+    "prefecture": "Gifu",
+    "address": "Seki City, Gifu Prefecture",
+    "website_url": "",
+    "opening_hours": "Cutlery Hall: 9:00–17:00, closed Mon; blade forging demonstrations: check schedule",
+    "tips": "Seki has produced blades for 700 years and remains Japan's knife and scissor capital. The Seki Hamono Museum displays 700 years of blade history and live blacksmith demonstrations. Several factories (Spyderco Japan, Global knife) offer factory tours by reservation. The Blade Festival in October (Hamono Matsuri) has hundreds of stalls selling blades at significant discounts."
+  },
+  {
+    "id": "sekigahara-battlefield",
+    "name": "Sekigahara Battlefield",
+    "prefecture": "Gifu",
+    "address": "Sekigahara-cho, Fuwa-gun, Gifu",
+    "website_url": "",
+    "opening_hours": "Battlefield: always accessible; Sekigahara Battlefield Museum: 9:30–17:00, closed Mon",
+    "tips": "The 1600 Battle of Sekigahara decided Japan's destiny — Tokugawa Ieyasu's victory here established 265 years of shogunate rule. The museum opened in 2020 and is genuinely outstanding with large-scale dioramas and artifacts. The battlefield markers across the valley floor allow a self-guided 3-hour walking route. Combine with nearby Ogaki Castle for a full Gifu history day."
+  },
+  {
+    "id": "shirakawa-go",
+    "name": "Shirakawa-go",
+    "prefecture": "Gifu",
+    "address": "Shirakawa Village, Ono-gun, Gifu",
+    "website_url": "",
+    "opening_hours": "Village: always accessible; Wada-ke house: 9:00–17:00; UNESCO site open year-round",
+    "tips": "Snow-covered gassho-zukuri farmhouses in winter (December–March) create Japan's most iconic winter village scene. The Ogimachi viewpoint 5 minutes above the village gives the classic overhead angle. Weekdays in spring and autumn are far more peaceful than summer weekends when hundreds of tour buses arrive. Stay overnight in a farmhouse guesthouse to experience the village after day-trippers leave."
+  },
+  {
+    "id": "takayama-old-town",
+    "name": "Takayama Old Town",
+    "prefecture": "Gifu",
+    "address": "Sanmachi Suji, Takayama City, Gifu",
+    "website_url": "",
+    "opening_hours": "Town always accessible; morning markets: 7:00–12:00; sake breweries: 9:00–17:00; Sanmachi Suji: best 7:00–9:00",
+    "tips": "The Sanmachi Suji historic district (three sake-brewer streets) is most beautiful in early morning before the tourist crowds and shops open. The morning markets (Jinya-mae and Miyagawa) are genuine local markets, not tourist traps. Hida Folk Village open-air museum (20 min walk) has outstanding thatched farmhouses. Book accommodation in advance — Takayama's popularity means beds sell out months ahead for the October festival."
+  },
+  {
+    "id": "ago-bay",
+    "name": "Ago Bay Pearl Farms",
+    "prefecture": "Mie",
+    "address": "Ago-cho, Shima-shi, Mie",
+    "website_url": "",
+    "opening_hours": "Mikimoto Pearl Island: 9:00–17:00 (closed Tue in winter); boat tours run Apr–Oct",
+    "tips": "Combine Mikimoto Island with a sunset cruise on Ago Bay — book the cruise in advance as capacity is limited. Try Shima's spiny lobster (ise-ebi) if visiting April–October."
+  },
+  {
+    "id": "akame-waterfalls",
+    "name": "Akame 48 Waterfalls",
+    "prefecture": "Mie",
+    "address": "Nabari City, Mie Prefecture",
+    "website_url": "",
+    "opening_hours": "9:00–17:00 year-round; trailhead closes at 16:30",
+    "tips": "The full 4km loop takes 2–3 hours — wear trail shoes, not sneakers. Firefly season (early June) is magical but draws weekend crowds; book a weeknight stay in the area. The trail becomes very slippery after rain."
+  },
+  {
+    "id": "futami-okitama-shrine",
+    "name": "Futami Okitama Shrine & Meoto Iwa",
+    "prefecture": "Mie",
+    "address": "731 Futami-cho, Ise City, Mie",
+    "website_url": "",
+    "opening_hours": "Shrine: 5:00–sunset; rocks always visible from the shore",
+    "tips": "The wedded rocks are joined by a hemp rope (shimenawa) renewed three times a year in ceremony. Summer solstice sunrise (around June 21) aligns perfectly between the rocks — a spectacular and popular event. The shrine is a required stop for pilgrims heading to Ise Grand Shrine, 15 minutes away by train."
+  },
+  {
+    "id": "ise-grand-shrine",
+    "name": "Ise Grand Shrine (Naiku)",
+    "prefecture": "Mie",
+    "address": "1 Uji-tachi, Ise City, Mie",
+    "website_url": "",
+    "opening_hours": "Inner Shrine (Naiku): 5:00–18:00 (closes 17:00 Oct–Dec, Mar); Outer Shrine (Geku): opens 30 min before sunrise",
+    "tips": "Japan's most sacred site — no photography inside the inner compound. Visit Geku first (the outer shrine), then walk or take the bus to Naiku. The approach through Uji Bridge and the forested path is the experience — the inner shrine itself is modest. Arrive early; the gravel paths and ancient cedar forest are magical before crowds arrive."
+  },
+  {
+    "id": "ise-jingu",
+    "name": "Ise Jingu",
+    "prefecture": "Mie",
+    "address": "Ujitachi-cho, Ise-shi, Mie",
+    "website_url": "https://www.isejingu.or.jp/en/",
+    "opening_hours": "Inner Shrine (Naiku): 5:00–18:00 (closes 17:00 Oct–Dec, Mar); Outer Shrine (Geku): opens 30 min before sunrise",
+    "tips": "Japan's most sacred site — visit Geku (outer shrine) first, then take the bus to Naiku (inner shrine). No photography past the first torii gate. Okage-yokocho, the traditional shopping street near Naiku, is the best place for akafuku mochi (red bean rice cake), the local specialty. Allow half a day for both shrines."
+  },
+  {
+    "id": "matsusaka-beef-town",
+    "name": "Matsusaka — Japan's Wagyu Capital",
+    "prefecture": "Mie",
+    "address": "Matsusaka City, Mie Prefecture",
+    "website_url": "",
+    "opening_hours": "City always accessible; wagyu restaurants: typically 11:00–14:00 and 17:00–21:00; book lunch in advance",
+    "tips": "Matsusaka beef (Matsusaka-ushi) is considered by many Japan's finest wagyu — the cattle are raised on a strictly controlled diet including beer and massage. Wadakin restaurant (the most famous, since 1878) requires advance booking weeks ahead. Morino Koen (a farm with cattle viewing) and the old merchant district around Matsusaka Castle ruins add context."
+  },
+  {
+    "id": "nineedo-falls",
+    "name": "Odaki & Medaki Falls — Mifune Valley",
+    "prefecture": "Mie",
+    "address": "Odai-cho, Taki-gun, Mie",
+    "website_url": "",
+    "opening_hours": "Always open (outdoor nature site)",
+    "tips": "The male and female falls (Odaki and Medaki) tumble into a moss-covered gorge that has been sacred since ancient times. The cedar forest approach path takes 20 minutes from the car park. The falls are within a designated national forest and feel genuinely remote despite being accessible. Combine with the nearby Akame 48 Waterfalls for a full Mie waterfall day."
+  },
+  {
+    "id": "osatsu-ama-divers",
+    "name": "Osatsu — Last Ama Diving Village",
+    "prefecture": "Mie",
+    "address": "Osatsu-cho, Toba City, Mie",
+    "website_url": "",
+    "opening_hours": "Village accessible year-round; Hachiman Kamado ama dining: available year-round (reservation recommended)",
+    "tips": "Osatsu is the most active ama (female free-diver) village remaining in Japan — the women dive for abalone, conch, and sea urchin without oxygen tanks. The Hachiman Kamado experience lets visitors eat a meal cooked by ama divers in a traditional seafood hut (isobeyaki style). Reserve the meal well in advance. The nearest ama dive observation is from the port dock at low tide."
+  },
+  {
+    "id": "toba-aquarium",
+    "name": "Toba Aquarium",
+    "prefecture": "Mie",
+    "address": "3-3-6 Toba, Toba City, Mie",
+    "website_url": "",
+    "opening_hours": "9:00–17:00 (last entry 16:00); open year-round",
+    "tips": "One of Japan's largest aquariums with the world's most diverse collection of sea mammals — dugongs, sea otters, polar bears, and seven species of seal all in one facility. The ama diver show in the main tank is unique to Toba. Combine with Mikimoto Pearl Island (5 min by boat) and Futami Meoto Iwa for a full Toba day."
+  },
+  {
+    "id": "bessho-onsen",
+    "name": "Bessho Onsen",
+    "prefecture": "Nagano",
+    "address": "Ueda City, Nagano Prefecture",
+    "website_url": "",
+    "opening_hours": "Public baths: typically 6:00–22:00; ryokan day baths: 11:00–14:00",
+    "tips": "The ¥150 Oyu public bath is one of Japan's cheapest authentic onsen experiences. The Zenkoji-style temples scattered around town give Bessho its 'Little Kamakura of the Alps' nickname. Reach by the charming Ueda Dentetsu Bessho Line from Ueda Station (Shinkansen connection)."
+  },
+  {
+    "id": "jigokudani-monkey-park",
+    "name": "Jigokudani Monkey Park",
+    "prefecture": "Nagano",
+    "address": "405 Shiga, Yamanouchi-machi, Shimotakai-gun, Nagano",
+    "website_url": "https://jigokudani-yaenkoen.co.jp/english/",
+    "opening_hours": "9:00–16:00 year-round (last entry 15:30); heavy snowfall may restrict access Dec–Feb",
+    "tips": "The hot-spring-bathing snow monkeys are at their most photogenic December through February. The 30-minute walk from the car park through snow-covered forest is part of the experience — dress warmly. The monkeys are completely wild and unperturbed by visitors; give them space and don't make eye contact. No feeding allowed."
+  },
+  {
+    "id": "kamikochi-valley",
+    "name": "Kamikochi Alpine Valley",
+    "prefecture": "Nagano",
+    "address": "Kamikochi, Matsumoto-shi, Nagano",
+    "website_url": "https://www.kamikochi.org/en",
+    "opening_hours": "Open late April–mid November; private cars prohibited — access by bus or taxi from Matsumoto or Sawando",
+    "tips": "Arrive on the first morning bus to experience Kamikochi in quiet — by 10am the valley fills. The Kappa Bridge walk to Myojin Pond (90 min round-trip) is the essential route. The valley closes entirely in winter; early November brings the best autumn foliage. Book accommodation inside the valley for a completely different experience after day-trippers leave."
+  },
+  {
+    "id": "matsumoto-castle",
+    "name": "Matsumoto Castle",
+    "prefecture": "Nagano",
+    "address": "4-1 Marunouchi, Matsumoto-shi, Nagano",
+    "website_url": "",
+    "opening_hours": "8:30–17:00 (last entry 16:30); park always open; night illumination: Apr–Nov on weekends",
+    "tips": "Japan's finest original castle keep — the six-story black exterior earned it the nickname 'Crow Castle'. The interior is authentic and steep; the top floor view over the Japanese Alps is outstanding. Arrive at 8:30am opening to avoid the longest queues; the moat reflection of the castle in the morning water is spectacular. Matsumoto's old town jazz cafes and sake bars are worth exploring after."
+  },
+  {
+    "id": "narai-juku",
+    "name": "Narai-juku Post Town",
+    "prefecture": "Nagano",
+    "address": "Narai, Shiojiri-shi, Nagano",
+    "website_url": "",
+    "opening_hours": "Town always accessible; shops: typically 9:00–17:00; most closed Tue",
+    "tips": "Narai was the most prosperous post town on the Nakasendo highway — the 1km main street of preserved Edo-era machiya is the longest surviving post town streetscape in Japan. Visit on a weekday when it's almost completely quiet. The lacquerware (kiso nuri) and combs (kiso-gushi) are the local craft specialties. Walk the 8km section to Yabuhara through Torii Pass for an authentic post-road experience."
+  },
+  {
+    "id": "nozawa-onsen",
+    "name": "Nozawa Onsen",
+    "prefecture": "Nagano",
+    "address": "Nozawaonsen Village, Shimotakai-gun, Nagano",
+    "website_url": "",
+    "opening_hours": "13 public baths (sotoyu): 5:00–23:00; ski season: Dec–Mar; summer: Jun–Oct for hiking and mountain biking",
+    "tips": "All 13 public baths are free to use — the Ogama (the largest and hottest) is the famous one but also truly scalding; Kambayashi is more accessible for first-timers. The ski area has consistent deep snow and a charming village feel. The Dosojin Fire Festival (January 15) is one of Japan's most intense matsuri — spectacular and wild."
+  },
+  {
+    "id": "togakushi-shrine",
+    "name": "Togakushi Shrine",
+    "prefecture": "Nagano",
+    "address": "Togakushi, Nagano City",
+    "website_url": "",
+    "opening_hours": "Always accessible; inner shrine (Okumiya): approximately 9:00–16:00; Togakushi Ninja Museum: 9:00–17:00 (Apr–Nov)",
+    "tips": "The 2km cedar avenue approach to the inner shrine is one of Japan's most atmospheric forest paths — the ancient cedars arch over the stone road creating a natural cathedral. Togakushi is also Japan's ninja history capital — the Togakure-ryu school of ninjutsu originated here. The Togakushi soba (buckwheat noodles) is consistently ranked Japan's finest — queue at Uzuraya for the best. In winter the snow-covered cedar avenue is extraordinary."
+  },
+  {
+    "id": "tsumago-juku",
+    "name": "Tsumago-juku",
+    "prefecture": "Nagano",
+    "address": "Nagiso, Kiso-gun, Nagano",
+    "website_url": "",
+    "opening_hours": "Town: always accessible; shops: typically 9:00–17:00; Tsumago Honjin: 9:00–17:00 (closed Tue in winter)",
+    "tips": "Tsumago is arguably the most perfectly preserved post town in Japan — no telephone poles, no modern signage, no cars during the day. Photography restrictions apply; the views from the town upward and the moss-covered stone walls are the defining images. Walk the 8km to Magome (Magome-Tsumago trail) for the full Nakasendo experience — one of Japan's finest half-day walks."
+  },
+  {
+    "id": "ueda-castle",
+    "name": "Ueda Castle",
+    "prefecture": "Nagano",
+    "address": "Ninomaru, Ueda City, Nagano",
+    "website_url": "",
+    "opening_hours": "Ruins: always accessible; museum: 9:00–17:00, closed Mon",
+    "tips": "Ueda Castle was besieged twice by Tokugawa armies and repelled them both times — the story of Sanada Masayuki and his sons (later subjects of a major 2016 NHK drama) makes the modest ruins feel significant. The cherry blossoms in the castle park are outstanding in late April. The Bessho Onsen (25 min by the charming Ueda Dentetsu line) combines perfectly."
+  },
+  {
+    "id": "zenko-ji",
+    "name": "Zenko-ji Temple",
+    "prefecture": "Nagano",
+    "address": "491 Motoyoshi-cho, Nagano City",
+    "website_url": "",
+    "opening_hours": "Main Hall 5:30 (dawn service)–16:30; grounds open 24 hrs; Okaidan ¥500",
+    "tips": "Join the 5:30 AM morning service (O-asaji) for a rare procession of monks and the chance to touch the Sacred Key in the Okaidan passage beneath the main hall — doing so grants enlightenment according to tradition. The precinct fills with pilgrims; visit on weekdays."
+  },
+  {
+    "id": "dogashima-caves",
+    "name": "Dogashima Sea Caves",
+    "prefecture": "Shizuoka",
+    "address": "Nishiizu-cho, Kamo-gun, Shizuoka",
+    "website_url": "",
+    "opening_hours": "Boat tours: 8:30–17:00 (weather permitting); may close in rough weather",
+    "tips": "The glass-bottomed boat enters a cave with a natural skylight — best on a sunny morning when light pours through from above. The tour lasts about 20 minutes; combine with the Dogashima coast walk. Izu Peninsula rewards 2 days — add Shuzenji or Kawazu waterfalls in the same trip."
+  },
+  {
+    "id": "fujinomiya-sengen",
+    "name": "Fujinomiya — Gateway to Mt Fuji",
+    "prefecture": "Shizuoka",
+    "address": "Fujinomiya City, Shizuoka",
+    "website_url": "",
+    "opening_hours": "Sengen Grand Shrine: 9:00–17:00; Mt Fuji Fujinomiya Trail: typically open Jul–early Sep",
+    "tips": "Fujinomiya Yakisoba — a thick noodle dish cooked on an iron plate — is ranked Japan's #1 B-grade gourmet food and best eaten here at source. The Sengen Grand Shrine claims ownership of all of Mt Fuji above the 8th station. For non-climbers, Shiraito Falls (30 min by bus) is one of Japan's widest cascades and worth combining."
+  },
+  {
+    "id": "hamamatsu-castle",
+    "name": "Hamamatsu Castle & Eel Town",
+    "prefecture": "Shizuoka",
+    "address": "100-2 Motoshiro-cho, Naka-ku, Hamamatsu",
+    "website_url": "",
+    "opening_hours": "Castle: 8:30–16:30 year-round; eel restaurants: typically 11:00–14:00, sell out early",
+    "tips": "Hamamatsu unaju (eel over rice) is the city's defining dish — lunch queues at top restaurants form by 11:30. The castle is compact but the grounds are pleasant. Hamamatsu is also Japan's music instrument capital (Yamaha, Roland, Kawai all founded here) — the Musical Instruments Museum is excellent."
+  },
+  {
+    "id": "izu-atagawa-onsen",
+    "name": "Izu Atagawa Onsen",
+    "prefecture": "Shizuoka",
+    "address": "Higashiizu-cho, Kamo-gun, Shizuoka",
+    "website_url": "",
+    "opening_hours": "Ryokan day baths: typically 11:00–15:00 (call ahead); outdoor ashi-yu foot bath near station: daytime",
+    "tips": "Atagawa's claim to fame is the banana farm and tropical bird garden next to the onsen — bizarre but genuinely impressive. The hot spring water here flows directly from the hillside into the ryokan baths; some rooms have private outdoor baths (rotenburo) overlooking the river. The Izu Peninsula coastal road south to Shimoda is worth driving."
+  },
+  {
+    "id": "kawazu-cherry",
+    "name": "Kawazu Cherry Blossoms",
+    "prefecture": "Shizuoka",
+    "address": "Kawazu, Kamo-gun, Shizuoka",
+    "website_url": "",
+    "opening_hours": "Always open; cherry season: early to late February (can vary by 1–2 weeks each year)",
+    "tips": "The Kawazu cherry (Kawazu-zakura) is a hybrid that blooms a full month before Yoshino cherries — deep pink and fragrant in early February. The 4km riverside walk lined with 850 trees is the main event. Check the official blossom report before visiting as the peak shifts year to year. Kawazu is also known for waterfalls — the seven Kawazu Falls trail (90 min) combines well."
+  },
+  {
+    "id": "miho-no-matsubara",
+    "name": "Miho no Matsubara",
+    "prefecture": "Shizuoka",
+    "address": "Miho, Shimizu-ku, Shizuoka-shi, Shizuoka",
+    "website_url": "",
+    "opening_hours": "Always open (outdoor pine grove and beach)",
+    "tips": "The 7km arc of black pine trees with Mt Fuji behind is one of Japan's three official scenic landscapes. The white sand beach and shallow sea with Mt Fuji rising above the pines on a clear morning is sublime. The morning light (6–9am) gives the best Fuji clarity. Combine with Kunozan Toshogu Shrine on the headland above for a half-day Shizuoka coast circuit."
+  },
+  {
+    "id": "numazu-port",
+    "name": "Numazu Port",
+    "prefecture": "Shizuoka",
+    "address": "Numazu Port, Numazu City, Shizuoka",
+    "website_url": "",
+    "opening_hours": "Fish market: early morning (best 6:00–10:00); port area always accessible; restaurants: 11:00–20:00",
+    "tips": "Numazu is one of Japan's most important deep-sea fishing ports — the morning market has extraordinary variety including rare deep-sea fish. The famous kinmedai (splendid alfonsino) from Numazu is prized nationwide. Mt Fuji is visible across Suruga Bay on clear mornings. The Numazu Deepfish Museum covers deep-sea fishing and ecology."
+  },
+  {
+    "id": "ooigawa-railway",
+    "name": "Oigawa Railway Steam Train",
+    "prefecture": "Shizuoka",
+    "address": "Kanaya Station, Shimada City, Shizuoka",
+    "website_url": "",
+    "opening_hours": "SL trains: weekend departures from Kanaya Station, typically 10:07 and 13:50; Thomas the Tank Engine train: seasonal; regular service: daily",
+    "tips": "The Oigawa Railway runs one of Japan's most regular steam locomotive services — the SL runs year-round on weekends and holidays. The most popular route ends at Senzu Station; the ABT rack railway continues from Senzu up to Ikawa (dramatic mountain scenery). Book the SL well in advance for weekends in cherry blossom season."
+  },
+  {
+    "id": "shimizu-tuna-port",
+    "name": "Shimizu Port — Tuna Capital",
+    "prefecture": "Shizuoka",
+    "address": "Shimizu Port, Shimizu-ku, Shizuoka City",
+    "website_url": "",
+    "opening_hours": "Fish market (Kashi-no-Ichiba): 5:30–12:00 (best before 9am); sushi restaurants: 11:00–14:00",
+    "tips": "Shimizu Port handles 20% of Japan's fresh tuna — the morning market is one of the finest in Japan. The Kashi-no-Ichiba terrace restaurants offer exceptional tuna-based breakfast sushi sets from ¥800. Mt Fuji is visible directly across Suruga Bay on clear mornings from the port. The Shimizu S-Pulse soccer stadium and the Miho no Matsubara pine grove are nearby."
+  },
+  {
+    "id": "shuzenji-onsen",
+    "name": "Shuzenji Onsen",
+    "prefecture": "Shizuoka",
+    "address": "Shuzenji, Izu-shi, Shizuoka",
+    "website_url": "",
+    "opening_hours": "Town always accessible; Shuzenji temple: 8:00–17:00; free river foot bath: daytime",
+    "tips": "Shuzenji is the most atmospheric onsen town on the Izu Peninsula — a small river valley with a 1,200-year-old temple, traditional ryokan, and a simple foot bath on the riverside. The Tokko-no-Yu, reputedly the first onsen in the area (discovered by Kobo Daishi in 807 AD), stands in the river. Walk the bamboo forest path (Chikurin-no-Komichi) for a peaceful 10-minute circuit."
+  },
+  {
+    "id": "aokigahara-forest",
+    "name": "Aokigahara Forest (Sea of Trees)",
+    "prefecture": "Yamanashi",
+    "address": "Fujikawaguchiko-machi, Yamanashi",
+    "website_url": "",
+    "opening_hours": "Ice Cave & Wind Cave: 9:00–17:00 (Mar–Nov); 9:00–16:00 (Dec–Feb)",
+    "tips": "The forest is a beautiful lava-field hike — stay on the marked trails. The Ice Cave maintains sub-zero temperatures year-round and is genuinely spectacular in summer. Combine with Mt Fuji views from nearby Saiko Lake for a full Fuji Five Lakes day."
+  },
+  {
+    "id": "hoto-noodle-yamanashi",
+    "name": "Hoto — Yamanashi's Winter Dish",
+    "prefecture": "Yamanashi",
+    "address": "Yamanashi Prefecture (multiple locations)",
+    "website_url": "",
+    "opening_hours": "Restaurants: typically 11:00–21:00; many popular spots sell out by 15:00",
+    "tips": "Hoto is a thick flat-noodle stew with pumpkin, root vegetables, and miso — a winter dish originally eaten by farmers. Hoto Fudo near Kawaguchiko is the most famous restaurant but has long queues; Chikurin-an in Fuefuki city is a quieter alternative with excellent quality. Best paired with a view of Mt Fuji from Kawaguchiko."
+  },
+  {
+    "id": "yamanashi-wine-country",
+    "name": "Katsunuma Wine Country",
+    "prefecture": "Yamanashi",
+    "address": "Katsunuma-cho, Koshu City, Yamanashi",
+    "website_url": "",
+    "opening_hours": "Wineries typically 10:00–17:00; closed Mon–Tue (varies)",
+    "tips": "The Katsunuma area has over 30 wineries within walking distance of each other. September harvest season (budo-gari) lets you pick Koshu grapes directly from the vine. Take the Chuo Line to Katsunuma-budokyo Station — no car needed."
+  },
+  {
+    "id": "kofu-castle",
+    "name": "Kofu Castle & Shingen's Domain",
+    "prefecture": "Yamanashi",
+    "address": "Marunouchi, Kofu City, Yamanashi",
+    "website_url": "",
+    "opening_hours": "Park: 5:30–22:00; castle ruins: always accessible; Kai Zenkoji Temple: 9:00–16:30",
+    "tips": "The Maizuru Castle stone ruins give excellent views of the Kofu basin and Southern Alps. The ruins are immediately beside Kofu Station — easy 10-minute walk. Shingen-ko Festival in April fills the city with samurai processions. Pair with Enzan Erinji Temple (45 min) and Katsunuma wine country for a full Yamanashi inland day."
+  },
+  {
+    "id": "kawaguchiko-fuji",
+    "name": "Lake Kawaguchiko",
+    "prefecture": "Yamanashi",
+    "address": "Fujikawaguchiko-machi, Minamitsuru-gun, Yamanashi",
+    "website_url": "",
+    "opening_hours": "Lake: always accessible; best Mt Fuji views: Oct–Feb (clearest air); Kawaguchiko Music Forest and other facilities: 9:00–17:00",
+    "tips": "The north shore of Kawaguchiko (around Ubuyagasaki peninsula) gives the most photogenic view of Mt Fuji reflected in the water — best at dawn in calm, windless conditions. Mt Fuji disappears into clouds by mid-morning on most summer days. The Kawaguchiko Herb Festival and maple corridor are excellent in their respective seasons."
+  },
+  {
+    "id": "shojiko-lake",
+    "name": "Lake Shoji",
+    "prefecture": "Yamanashi",
+    "address": "Fujikawaguchiko-machi, Yamanashi",
+    "website_url": "",
+    "opening_hours": "Always open; boating: Apr–Nov",
+    "tips": "The smallest and least visited of the Fuji Five Lakes — and therefore the most peaceful. The southern shore gives the famous 'double diamond' Fuji view (mountain reflected in the lake with Fuji appearing to have twin peaks). The Aokigahara Forest begins at the eastern edge of the lake. Kayak rental is available for exploring the lakeshore."
+  },
+  {
+    "id": "minobu-mountain",
+    "name": "Minobu — Kuonji Temple",
+    "prefecture": "Yamanashi",
+    "address": "Minobu-cho, Minamikoma-gun, Yamanashi",
+    "website_url": "",
+    "opening_hours": "Kuonji Temple: 5:00–18:00; Minobusan ropeway: 9:00–16:30 (closed Tue in winter); mountain accessible year-round",
+    "tips": "Kuonji is the head temple of the Nichiren Buddhist sect — the founding monk Nichiren lived and died on this mountain. The 287-step stone approach staircase (Somon-san-do) through ancient cedar is one of the most atmospheric temple approaches in Japan. The ropeway ascent to Shichimensan gives extraordinary views of Mt Fuji and the Minobu mountains."
+  },
+  {
+    "id": "fujisan-world-heritage",
+    "name": "Mt Fuji Climbing Season",
+    "prefecture": "Yamanashi",
+    "address": "Mt Fuji, Yamanashi / Shizuoka Prefectures",
+    "website_url": "",
+    "opening_hours": "Climbing season: early July–early September; Yoshida Trail: most used; Fujinomiya Trail: steepest, clearest views",
+    "tips": "Start no later than 20:00 from the 5th Station for a summit sunrise (goraiko) — the most popular and rewarding Fuji experience. The summit can be -5°C even in August; bring insulated layers, gloves, and a rain jacket regardless of weather at the base. The ¥2,000 conservation fee is mandatory. Altitude sickness affects some climbers above 3,000m — ascend slowly."
+  },
+  {
+    "id": "oshino-hakkai",
+    "name": "Oshino Hakkai — Eight Springs",
+    "prefecture": "Yamanashi",
+    "address": "Oshino-mura, Minamitsuru-gun, Yamanashi",
+    "website_url": "",
+    "opening_hours": "8:00–17:30 year-round",
+    "tips": "Eight crystal-clear ponds fed by Mt Fuji snowmelt filtered through ancient lava over 80 years — the water temperature is a constant 14°C regardless of season. The clarity of the pools is extraordinary (visibility to 10m). Mt Fuji directly behind the traditional thatched farmhouses is the classic image. Combine with Kawaguchiko and Aokigahara for a full Fuji Five Lakes day."
+  },
+  {
+    "id": "yatsugatake-highlands",
+    "name": "Yatsugatake Highlands",
+    "prefecture": "Yamanashi",
+    "address": "Hokuto City, Yamanashi Prefecture",
+    "website_url": "",
+    "opening_hours": "Open 24 hours (outdoor); ski lifts vary by season",
+    "tips": "The highlands straddle Yamanashi and Nagano prefectures at 1,000–2,899 m. Visit in summer for wildflower meadows and in winter for cross-country skiing. Kiyosato area has forest walks, farm cafes, and clear mountain streams. The Suntory Whisky Hakushu Distillery is nearby and free to visit."
+  }
+]

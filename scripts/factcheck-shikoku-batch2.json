@@ -1,0 +1,211 @@
+[
+  {
+    "id": "cape-ashizuri",
+    "name": "Cape Ashizuri",
+    "prefecture": "Kochi",
+    "address": "Ashizuri, Tosashimizu, Kochi",
+    "access": "3 hours bus from Kochi station; or drive 2 hours",
+    "admission": "Free",
+    "best_season": "Year-round (dramatic in storm season)",
+    "website_url": "",
+    "description": "The southernmost tip of Shikoku — a dramatic 80m sea cliff where waves from the open Pacific hit with full force. The 38th temple of the Shikoku pilgrimage sits here."
+  },
+  {
+    "id": "cape-muroto",
+    "name": "Cape Muroto",
+    "prefecture": "Kochi",
+    "address": "Muroto, Kochi",
+    "access": "2 hours bus from Kochi station; limited service",
+    "admission": "Free",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "The remote southern cape where Kobo Daishi (founder of Shingon Buddhism) achieved spiritual awakening in a sea cave at age 24. The exposed volcanic rock formations and crashing Pacific give a genuinely primeval feeling."
+  },
+  {
+    "id": "hirome-market",
+    "name": "Hirome Market",
+    "prefecture": "Kochi",
+    "address": "Obiyamachi, Kochi, Kochi",
+    "access": "5 min walk from Kochi castle tram stop",
+    "admission": "Free; food from ¥500",
+    "best_season": "Year-round",
+    "website_url": "https://hirome.co.jp/",
+    "description": "Kochi's beloved covered market — open since 1998 but feels like a 50-year institution. Locals come daily for katsuo no tataki (seared bonito) and sake, sitting elbow-to-elbow at communal tables."
+  },
+  {
+    "id": "katsurahama-beach",
+    "name": "Katsurahama Beach",
+    "prefecture": "Kochi",
+    "address": "Urado, Kochi, Kochi",
+    "access": "30 min bus from Kochi station",
+    "admission": "Beach free; museum ¥700",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "Kochi's famous crescent beach on the Pacific — dramatic but no swimming (strong currents and sacred status). The bronze statue of Sakamoto Ryoma faces the sea from the forested headland."
+  },
+  {
+    "id": "kochi-castle",
+    "name": "Kochi Castle",
+    "prefecture": "Kochi",
+    "address": "Marunouchi, Kochi, Kochi",
+    "access": "15 min tram from Kochi station, 5 min walk from tram stop",
+    "admission": "¥420",
+    "best_season": "Year-round",
+    "website_url": "https://kochipark.jp/kochijyo/",
+    "description": "The only Japanese castle where both the main keep and front gateway (otemon) remain from the original Edo construction — making the complete approach road experience unique in Japan."
+  },
+  {
+    "id": "nakatosa-whale-watching",
+    "name": "Nakatosa Whale Watching",
+    "prefecture": "Kochi",
+    "address": "Nakatosa, Takaoka, Kochi",
+    "access": "Bus from Tosa station, 50 min; or from Kochi 1.5 hours",
+    "admission": "Whale watching tour ¥4,500",
+    "best_season": "Year-round (calm seas April–October best)",
+    "website_url": "",
+    "description": "Tosa Bay's deep offshore waters support year-round populations of sperm whales and bottlenose dolphins — some of the most accessible whale-watching in Japan from a small port town."
+  },
+  {
+    "id": "niyodo-river",
+    "name": "Niyodo River (Nakatsu Gorge)",
+    "prefecture": "Kochi",
+    "address": "Nakatsu Gorge, Ino, Kochi",
+    "access": "50 min drive from Kochi city; no public transport",
+    "admission": "Free",
+    "best_season": "June–September",
+    "website_url": "",
+    "description": "Consistently voted Japan's clearest river — the electric-blue water through Nakatsu Gorge is so luminescent it appears artificially colored. Swimming holes accessible between white boulders and waterfalls."
+  },
+  {
+    "id": "ryugado-cave",
+    "name": "Ryugado Cave",
+    "prefecture": "Kochi",
+    "address": "Tosayamada, Kami, Kochi",
+    "access": "30 min bus from Tosa-Yamada station",
+    "admission": "¥1,100",
+    "best_season": "Year-round (15°C constant — perfect on hot days)",
+    "website_url": "https://www.ryugadocave.com/",
+    "description": "Kochi's spectacular limestone cavern — 4km explored, crystal formations, prehistoric remains, and an underground river. The cave has stalactite/stalagmite-meeting columns still actively forming."
+  },
+  {
+    "id": "shimanto-river",
+    "name": "Shimanto River",
+    "prefecture": "Kochi",
+    "address": "Shimanto, Kochi",
+    "access": "JR Tosa Shimanto station; bus connections to riverside",
+    "admission": "Free; boat tours from ¥1,500",
+    "best_season": "April–October",
+    "website_url": "https://www.shimanto-kankou.com/",
+    "description": "Japan's last major undammed, free-flowing river — clear water, ancient fishing platforms, and total silence. Kayaking or boat tours through bamboo-lined banks show how Japan once looked."
+  },
+  {
+    "id": "awa-odori-hall",
+    "name": "Awa Odori Hall",
+    "prefecture": "Tokushima",
+    "address": "Shinmachi, Tokushima, Tokushima",
+    "access": "10 min walk from Tokushima station",
+    "admission": "¥1,020 (evening performance)",
+    "best_season": "Year-round (main festival August 12–15)",
+    "website_url": "https://awaodori-kaikan.jp/",
+    "description": "Year-round performances of Awa Odori — Japan's most energetic traditional dance festival. Originally improvised by drunken celebrants 400 years ago, it evolved into a form so precise that practitioners train for decades."
+  },
+  {
+    "id": "iya-valley",
+    "name": "Iya Valley",
+    "prefecture": "Tokushima",
+    "address": "Nishi-Iya, Miyoshi, Tokushima",
+    "access": "1.5 hour drive from Tokushima; limited bus service",
+    "admission": "Free; attractions charged separately",
+    "best_season": "May–November (November autumn best; winter roads may close)",
+    "website_url": "https://www.miyoshi.i-tokushima.jp/",
+    "description": "Japan's deepest gorge — a remote mountain valley where the Iya River has cut 200m through limestone. Samurai from the defeated Heike clan fled here in 1185 and rebuilt a civilization in the cliffs."
+  },
+  {
+    "id": "kazurabashi-bridge",
+    "name": "Kazurabashi Vine Bridge",
+    "prefecture": "Tokushima",
+    "address": "Nishi-Iya, Miyoshi, Tokushima",
+    "access": "40 min drive from Oboke station; taxi available",
+    "admission": "¥550",
+    "best_season": "May–November",
+    "website_url": "",
+    "description": "A 45m suspension bridge made entirely of wild vine stems (shirakuchi kazura), rebuilt every three years. Originally built by Heike clan refugees to enable cutting if pursued — you feel the vine gaps underfoot."
+  },
+  {
+    "id": "mount-tsurugi",
+    "name": "Mount Tsurugi",
+    "prefecture": "Tokushima",
+    "address": "Nishi-Iya, Miyoshi, Tokushima",
+    "access": "Bus from Mishima station to ropeway base, 1.5 hours",
+    "admission": "Ropeway ¥1,900 return",
+    "best_season": "May–October",
+    "website_url": "",
+    "description": "Shikoku's second-highest peak (1,955m) with an ancient shrine at the summit. The ridge walk above the clouds is among Japan's finest alpine experiences — a sacred sword is said to be buried in the peak."
+  },
+  {
+    "id": "naruto-german-house",
+    "name": "Naruto German House",
+    "prefecture": "Tokushima",
+    "address": "Doichimura, Naruto, Tokushima",
+    "access": "15 min drive from Naruto city; taxi recommended",
+    "admission": "¥530",
+    "best_season": "Year-round (December concert special)",
+    "website_url": "https://www.naruto-kankou.jp/",
+    "description": "During WWI, Japanese forces held 1,000 German POWs here. The commander treated them humanely — they formed an orchestra and performed Beethoven's 9th in 1918, the first complete performance in Japan."
+  },
+  {
+    "id": "naruto-whirlpools",
+    "name": "Naruto Whirlpools",
+    "prefecture": "Tokushima",
+    "address": "Naruto, Tokushima",
+    "access": "45 min bus from Naruto station; ferry from Kobe also available",
+    "admission": "¥510 (walkway)",
+    "best_season": "Year-round (tide timing varies)",
+    "website_url": "https://www.uzunomichi.jp/",
+    "description": "Where the tidal surge between the Pacific and Seto Inland Sea creates whirlpools up to 30m in diameter — among the world's three largest, churning twice daily like clockwork. The walkway above them is glass."
+  },
+  {
+    "id": "oboke-gorge",
+    "name": "Oboke Gorge",
+    "prefecture": "Tokushima",
+    "address": "Oboke, Kochi / Tokushima border",
+    "access": "5 min walk from Oboke station (JR Dosan Line)",
+    "admission": "Boat tour ¥1,300",
+    "best_season": "April–November (autumn foliage peak October–November)",
+    "website_url": "",
+    "description": "A 7km marble-walled gorge where the Yoshino River has carved polished rock into curves and pools of turquoise water. Glass-bottom boat tours glide through the narrowest sections."
+  },
+  {
+    "id": "ochiai-village",
+    "name": "Ochiai Village (East Iya Terraced Houses)",
+    "prefecture": "Tokushima",
+    "address": "Higashi-Iya, Miyoshi, Tokushima",
+    "access": "2 hour drive from Tokushima; taxi from Oboke station",
+    "admission": "Free",
+    "best_season": "May–November (roads close in snow)",
+    "website_url": "",
+    "description": "A cluster of 300-year-old farmhouses cascading down a near-vertical mountain slope — the steepest inhabited village in Japan. Many houses have been restored as guesthouses."
+  },
+  {
+    "id": "ryozenji-temple-1",
+    "name": "Ryozenji Temple (Pilgrimage Start)",
+    "prefecture": "Tokushima",
+    "address": "Bando, Naruto, Tokushima",
+    "access": "10 min walk from Bando station (JR Naruto Line)",
+    "admission": "Free",
+    "best_season": "Year-round (spring and autumn most pilgrims)",
+    "website_url": "",
+    "description": "The first of 88 sacred temples on the Shikoku pilgrimage circuit — where every walking pilgrim begins. The atmosphere of departure, white robes, and staff bells is moving even for non-pilgrims."
+  },
+  {
+    "id": "tokushima-castle-ruins",
+    "name": "Tokushima Castle Ruins",
+    "prefecture": "Tokushima",
+    "address": "Johigashimachi, Tokushima, Tokushima",
+    "access": "15 min walk from Tokushima station",
+    "admission": "Garden free; museum ¥300",
+    "best_season": "March–May, October–November",
+    "website_url": "",
+    "description": "The ruins of a castle built on three rocky hilltops in 1586, surrounded by a reconstructed garden and stone walls. The Tokushima Awa Odori Museum at the base has the festival's full history."
+  }
+]

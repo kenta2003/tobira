@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ashikaga-flower-park",
+    "name": "Ashikaga Flower Park",
+    "prefecture": "Tochigi",
+    "address": "607 Kodakucho, Ashikaga City, Tochigi",
+    "access": "Ashikaga Flower Park Station on JR Ryomo Line (90 min from Shinjuku)",
+    "admission": "¥300–2,000 (seasonal pricing)",
+    "best_season": "Late April–early May (wisteria)",
+    "website_url": "",
+    "description": "Japan's most spectacular wisteria garden — eight ancient wisteria trees, the largest over 150 years old and spanning 1,000 square metres, create tunnels and waterfalls of hanging purple and white blossoms in late April. The park also has white wisteria, yellow banksia rose, and a carpet of blue wisteria — each with its own photographic composition."
+  },
+  {
+    "id": "nikko-kegon-falls",
+    "name": "Kegon Falls & Lake Chuzenji",
+    "prefecture": "Tochigi",
+    "address": "Chugushi, Nikko City, Tochigi",
+    "access": "Bus from Nikko Station (40 min)",
+    "admission": "¥550 (elevator)",
+    "best_season": "Late October (peak foliage), May–June (snowmelt flow)",
+    "website_url": "",
+    "description": "Japan's most famous waterfall — a 97-metre drop from the overflow of Lake Chuzenji into the Daiya River gorge. Lake Chuzenji itself sits in a volcanic caldera at 1,269 metres with mountain views of Nantai Volcano. In autumn, the colours of the lake's surrounding beech and maple forests rival any in Japan."
+  },
+  {
+    "id": "kinugawa-onsen",
+    "name": "Kinugawa Onsen",
+    "prefecture": "Tochigi",
+    "address": "Nikko City, Tochigi Prefecture",
+    "access": "Tobu Kinugawa Line Limited Express from Asakusa (2 hours)",
+    "admission": "Ryokan day bath from ¥1,000",
+    "best_season": "October–November (foliage), Year-round",
+    "website_url": "",
+    "description": "The closest large onsen resort to Tokyo — a river gorge resort 2 hours from Asakusa with riverside ryokan, outdoor baths above the Kinugawa River, and a gentle bamboo-and-maple canyon that turns orange in November. The Tobu World Square nearby has 1:25 scale replicas of 102 world heritage sites."
+  },
+  {
+    "id": "mashiko-pottery",
+    "name": "Mashiko — Living Pottery Village",
+    "prefecture": "Tochigi",
+    "address": "Mashiko-machi, Haga-gun, Tochigi",
+    "access": "Bus from Utsunomiya Station (JR Tohoku Shinkansen, 55 min)",
+    "admission": "Museum ¥800",
+    "best_season": "Year-round (May and November for fairs)",
+    "website_url": "",
+    "description": "The village where ceramics master Hamada Shoji helped launch the Mingei (folk crafts) movement alongside Bernard Leach. Over 300 kilns and galleries cover the hills, producing Mashiko-yaki — earthy, unpretentious stoneware. The Mashiko Reference Collection Museum houses Hamada's original workshop and kiln exactly as he left it."
+  },
+  {
+    "id": "nasu-highland",
+    "name": "Nasu Highland",
+    "prefecture": "Tochigi",
+    "address": "Nasu-machi, Nasu-gun, Tochigi",
+    "access": "Bus from Nasu-Shiobara Station (Tohoku Shinkansen, 45 min)",
+    "admission": "Free (hiking)",
+    "best_season": "Year-round (July–August for highland escape, October for foliage)",
+    "website_url": "",
+    "description": "A volcanic highland plateau at 1,000m+ elevation where the Imperial Family has its summer villa — the scenery of Mt Chausu, active volcanic vents at Nasu-dake, and the open grazing lands of Nasu Ranch combine with over 50 hot spring inns for one of the most complete countryside retreats near Tokyo."
+  },
+  {
+    "id": "nikko-national-park-hiking",
+    "name": "Nikko National Park Hikes",
+    "prefecture": "Tochigi",
+    "address": "Nikko City, Tochigi Prefecture",
+    "access": "Bus from Nikko Station (60–90 min)",
+    "admission": "Free (trails)",
+    "best_season": "July–October (hiking), November (foliage)",
+    "website_url": "",
+    "description": "One of Japan's oldest national parks with trails ranging from the flat Senjogahara marshland boardwalk to the demanding ascent of Mt Nantai (2,486m). The Yuno-ko lake area connects via forest trail to Yumoto Onsen — a steaming, sulphurous alpine spring above the treeline that has been used for pilgrimage bathing since the 9th century."
+  },
+  {
+    "id": "nikko-toshogu",
+    "name": "Nikko Tosho-gu",
+    "prefecture": "Tochigi",
+    "address": "2301 Sannai, Nikko City, Tochigi",
+    "access": "2 hours from Asakusa by Tobu Nikko Line Limited Express",
+    "admission": "¥1,300",
+    "best_season": "Year-round (autumn foliage October–November exceptional)",
+    "website_url": "",
+    "description": "Japan's most ornate shrine — built by the third Tokugawa shogun in 1634 to enshrine the deified Ieyasu. Every surface is covered in lacquer, gold leaf, and carved animals in dazzling profusion — the antithesis of Japanese minimalism. A UNESCO World Heritage site with 103 buildings in a cedar forest, including the famous sleeping cat (Nemuri-neko) carving."
+  },
+  {
+    "id": "sano-outlet",
+    "name": "Sano Premium Outlets",
+    "prefecture": "Tochigi",
+    "address": "2353 Higashitsurugaoka, Sano City, Tochigi",
+    "access": "Sano Station on Tobu Sano Line + free shuttle (90 min from Asakusa)",
+    "admission": "Free",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "Japan's largest premium outlet mall — 210 brand shops in an American village-style complex near the Tohoku Expressway. The shopping aside, the surrounding area has excellent ramen (Sano-ramen uses locally produced springwater), and the Kumagaya Uchiwa Festival in July is one of the Kanto region's top summer festivals."
+  },
+  {
+    "id": "tochigi-city-canal",
+    "name": "Tochigi City — Edo Canal Town",
+    "prefecture": "Tochigi",
+    "address": "Tochigi City, Tochigi Prefecture",
+    "access": "Tochigi Station on Tobu Nikko Line (55 min from Asakusa)",
+    "admission": "Free (boat ride ¥1,200)",
+    "best_season": "Year-round (February–March for Hina Matsuri)",
+    "website_url": "",
+    "description": "A perfectly preserved Edo-period canal town nicknamed \"Little Kyoto of the Kanto Region\" — kura-zukuri storehouses, daidai-colored walls, and 400-year-old willow trees line the Uzuma River, still navigable by traditional flat-bottom boats. The town centre has more preserved Edo buildings per block than almost anywhere in Japan."
+  },
+  {
+    "id": "utsunomiya-gyoza",
+    "name": "Utsunomiya Gyoza Town",
+    "prefecture": "Tochigi",
+    "address": "Utsunomiya City, Tochigi Prefecture",
+    "access": "Utsunomiya Station (JR Tohoku Shinkansen, 50 min from Tokyo)",
+    "admission": "Free (restaurant costs vary)",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "Japan's self-proclaimed gyoza (pan-fried dumpling) capital — the city has 200+ dedicated gyoza restaurants and holds an annual gyoza consumption record. The rivalry with Hamamatsu for the national title is passionately contested. Minmin and Masashi are the institution restaurants, but dozens of smaller joints make the Gyoza Dori (Gyoza Street) in front of the station the best dumpling crawl in Japan."
+  },
+  {
+    "id": "hamarikyu-gardens",
+    "name": "Hamarikyu Gardens",
+    "prefecture": "Tokyo",
+    "address": "1-1 Hamarikyu Teien, Chuo-ku, Tokyo",
+    "access": "5 min walk from Shiodome Station (Yurikamome)",
+    "admission": "¥300",
+    "best_season": "Year-round (autumn foliage November, plum February)",
+    "website_url": "",
+    "description": "A 300-year-old tidal garden in the middle of Tokyo's skyscraper district — the only garden in the city with saltwater ponds replenished by Tokyo Bay. Originally the shogunate's private duck-hunting grounds, it now offers extraordinary views of Shiodome towers reflected in ancient lotus ponds, with a teahouse on an island reached by wooden bridges."
+  },
+  {
+    "id": "kagurazaka",
+    "name": "Kagurazaka",
+    "prefecture": "Tokyo",
+    "address": "Kagurazaka, Shinjuku-ku, Tokyo",
+    "access": "Kagurazaka Station (Tozai Line, 15 min from Otemachi)",
+    "admission": "Free",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "Tokyo's most French neighbourhood with the most Japanese soul — a hillside former geisha district where ryotei (high-end kaiseki restaurants) hide behind unmarked wooden gates in cobblestone alleys. French bistros, Italian delis, and a French lycée coexist with ancient shrines and the last functioning geisha houses in central Tokyo."
+  },
+  {
+    "id": "koenji-awa-odori",
+    "name": "Koenji",
+    "prefecture": "Tokyo",
+    "address": "Koenji, Suginami-ku, Tokyo",
+    "access": "Koenji Station (JR Chuo Line, 10 min from Shinjuku)",
+    "admission": "Free",
+    "best_season": "Late August (festival), Year-round",
+    "website_url": "",
+    "description": "An old shopping arcade town that gentrified into Tokyo's most eclectic neighbourhood — vintage shops, curry restaurants, and tiny jazz bars coexist with a 100-year-old covered shotengai. The Awa-Odori festival in late August fills the streets with over 10,000 dancers and a million spectators — the largest summer street festival in Tokyo."
+  },
+  {
+    "id": "nezu-shrine",
+    "name": "Nezu Shrine",
+    "prefecture": "Tokyo",
+    "address": "1-28-9 Nezu, Bunkyo-ku, Tokyo",
+    "access": "5 min walk from Nezu Station (Chiyoda Line)",
+    "admission": "Free (azalea garden ¥500)",
+    "best_season": "Mid-April (azaleas), Year-round",
+    "website_url": "",
+    "description": "Tokyo's alternative to Kyoto's Fushimi Inari — a serene 1,900-year-old shrine with a tunnel of 200 vermilion torii gates winding through a wooded hillside in Bunkyo. In April, the azalea garden (3,000 plants across 100 varieties) turns the shrine grounds into a labyrinth of pink and red. Usually crowd-free on weekdays."
+  },
+  {
+    "id": "tokyo-tower-shiba-park",
+    "name": "Shiba Park & Zojo-ji Temple",
+    "prefecture": "Tokyo",
+    "address": "4-7-35 Shiba-koen, Minato-ku, Tokyo",
+    "access": "Shibakoen Station (Mita Line, 2 min)",
+    "admission": "Free",
+    "best_season": "Year-round (cherry blossoms in the park in April)",
+    "website_url": "",
+    "description": "The Tokugawa shogunate's family temple sits directly beneath Tokyo Tower — a juxtaposition of steel modernity and 400-year-old Edo grandeur. Zojo-ji was the mortuary temple for six Tokugawa shoguns, and their mausoleum gates (Sankeiden) are some of the finest surviving Edo-period architecture in Tokyo."
+  },
+  {
+    "id": "shimokitazawa",
+    "name": "Shimokitazawa",
+    "prefecture": "Tokyo",
+    "address": "Shimokitazawa, Setagaya-ku, Tokyo",
+    "access": "Shimokitazawa Station (Odakyu/Keio Inokashira Lines, 10 min from Shibuya)",
+    "admission": "Free",
+    "best_season": "Year-round",
+    "website_url": "",
+    "description": "Tokyo's indie culture neighbourhood — a maze of narrow lanes packed with vintage clothing shops, vinyl record stores, live music venues, and tiny theatre spaces. The area resisted a planned expressway through its heart and preserved its human-scale streetscape. Shimokitazawa is where Tokyo's creative class lives, plays, and performs."
+  },
+  {
+    "id": "todoroki-valley",
+    "name": "Todoroki Valley",
+    "prefecture": "Tokyo",
+    "address": "Todoroki, Setagaya-ku, Tokyo",
+    "access": "Todoroki Station (Tokyu Oimachi Line, 20 min from Shibuya)",
+    "admission": "Free",
+    "best_season": "Year-round (summer is cool, autumn has foliage)",
+    "website_url": "",
+    "description": "Tokyo's only valley — a forested ravine running 1km through the middle of suburban Setagaya Ward, completely invisible from the surrounding streets until you descend the stone steps. A stream runs beneath a canopy of zelkova trees, passing the Fudo-do temple with its waterfall used for ascetic purification. Entirely free and usually quiet."
+  },
+  {
+    "id": "tsukiji-outer-market",
+    "name": "Tsukiji Outer Market",
+    "prefecture": "Tokyo",
+    "address": "4-16-2 Tsukiji, Chuo-ku, Tokyo",
+    "access": "5 min walk from Tsukiji Station (Hibiya Line)",
+    "admission": "Free",
+    "best_season": "Year-round (closed Sundays and market holidays)",
+    "website_url": "",
+    "description": "The working wholesale market may have moved to Toyosu, but Tsukiji's outer market — 400 shops and restaurants in a covered arcade — remains the finest place in the world to eat fresh seafood at breakfast. The tamagoyaki (rolled omelette) shops alone are worth the trip, and the uni (sea urchin) and tuna sashimi are served within hours of landing."
+  },
+  {
+    "id": "yanaka-ginza",
+    "name": "Yanaka Ginza",
+    "prefecture": "Tokyo",
+    "address": "Yanaka, Taito-ku, Tokyo",
+    "access": "5 min walk from Nippori Station (JR Yamanote Line)",
+    "admission": "Free",
+    "best_season": "Year-round (cherry blossom March–April)",
+    "website_url": "",
+    "description": "Tokyo's best-preserved shitamachi (old town) neighbourhood — a gentle slope of 70 independent shops, tofu makers, and cat-filled alleyways that escaped wartime bombing and urban redevelopment. Yanaka Cemetery is one of Tokyo's most atmospheric cherry blossom spots, and the lanes connecting it to the shopping street are lined with century-old wooden machiya."
+  },
+  {
+    "id": "yoyogi-park",
+    "name": "Yoyogi Park & Meiji Jingu",
+    "prefecture": "Tokyo",
+    "address": "2-1 Yoyogi Kamizonocho, Shibuya-ku, Tokyo",
+    "access": "Harajuku Station (JR Yamanote Line)",
+    "admission": "Free",
+    "best_season": "March–April (cherry blossoms), Year-round",
+    "website_url": "",
+    "description": "Tokyo's most beloved park combines with the forested shrine of Emperor Meiji — a 700,000-square-metre urban forest created by planting 120,000 trees from across Japan in 1920. The combination of cherry-blossom picnics, festival markets, and the 100-year-old cedar avenue to the shrine gate makes this Tokyo's finest outdoor half-day."
+  }
+]

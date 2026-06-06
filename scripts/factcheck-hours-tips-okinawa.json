@@ -1,0 +1,236 @@
+[
+  {
+    "id": "cape-hedo",
+    "name": "Cape Hedo",
+    "prefecture": "Okinawa",
+    "address": "国頭村辺戸, Kunigami-son, Okinawa",
+    "website_url": "",
+    "opening_hours": "Always open (outdoor cape)",
+    "tips": "The drive north from Nago through Yanbaru forest is as rewarding as the cape itself — watch for Okinawa rails crossing the road at dawn. The cape is completely exposed to wind and spray; a windproof layer is useful even in summer. No facilities at the cape — bring water."
+  },
+  {
+    "id": "cape-manzamo",
+    "name": "Cape Manzamo",
+    "prefecture": "Okinawa",
+    "address": "Manzamo, Onna Village, Kunigami-gun, Okinawa 904-0417",
+    "website_url": "",
+    "opening_hours": "Always open; parking lot 9:00–18:00",
+    "tips": "The cliff-edge path is unfenced in parts — supervise children carefully. The elephant rock arch is most photogenic from the southern viewpoint, not the main viewing platform. Sunset here over the East China Sea is one of Okinawa's finest free experiences."
+  },
+  {
+    "id": "east-hennazaki-cape",
+    "name": "East Hennazaki Cape",
+    "prefecture": "Okinawa",
+    "address": "城辺東平安名崎, Miyakojima City, Okinawa",
+    "website_url": "",
+    "opening_hours": "Always open; lighthouse interior: 9:00–16:30",
+    "tips": "Wild lily fields bloom February–April, turning the peninsula edges white and fragrant. The 2km walk to the tip feels like being on the prow of a ship — ocean on both sides the entire way. By rental car from Miyako city (30 min east); no public transport reaches the cape."
+  },
+  {
+    "id": "gyokusendo-cave",
+    "name": "Gyokusendo Cave",
+    "prefecture": "Okinawa",
+    "address": "1336 Tamagusuku, Nanjo, Okinawa 901-0616",
+    "website_url": "https://www.gyokusendo.co.jp/okinawaworld/en/",
+    "opening_hours": "9:00–18:00 (Mar–Nov); 9:00–17:30 (Dec–Feb)",
+    "tips": "At 5km, this is one of Japan's longest limestone cave systems — the tourist route covers 890m of stalactite-filled passages. The cave maintains a cool 21°C year-round — a welcome break in Okinawa's summer heat. The adjacent Okinawa World village has traditional craft demonstrations; the habu snake show (included) is surprisingly compelling."
+  },
+  {
+    "id": "himeyuri-museum",
+    "name": "Himeyuri Peace Museum",
+    "prefecture": "Okinawa",
+    "address": "糸満市伊原, Itoman City, Okinawa",
+    "website_url": "https://www.himeyuri.or.jp/EN/info.html",
+    "opening_hours": "9:00–17:00 (last entry 16:30); open year-round",
+    "tips": "Allow 90 minutes — the farewell letters and photos of student nurses who died aged 15–19 are deeply affecting. The actual cave where survivors sheltered is preserved on-site. Combine with the Peace Memorial Museum in Itoman (5 min by car) for a comprehensive day of Okinawa wartime history."
+  },
+  {
+    "id": "irabu-bridge",
+    "name": "Irabu Bridge",
+    "prefecture": "Okinawa",
+    "address": "伊良部大橋, Miyakojima City, Okinawa",
+    "website_url": "",
+    "opening_hours": "Always open (road bridge)",
+    "tips": "Cycling across the 3.54km bridge at sunset is a Miyako Island bucket-list activity — bicycle rental in central Miyako city takes about 15 minutes to ride to the bridge entrance. Irabu Island on the far side has secluded beaches and sea caves worth exploring. The water visible from the bridge appears in five distinct shades of blue on a clear day."
+  },
+  {
+    "id": "iriomote-island",
+    "name": "Iriomote Island",
+    "prefecture": "Okinawa",
+    "address": "竹富町西表, Taketomi-cho, Okinawa",
+    "website_url": "",
+    "opening_hours": "Island accessible year-round; mangrove kayak and jungle tours: 9:00–17:00; advance booking essential",
+    "tips": "Over 90% of Iriomote is jungle — the Iriomote wildcat (yamaneko) lives only here. Mangrove kayaking on the Urauchi River is the signature experience; book in advance as operators fill quickly. Snorkeling and diving around Kabira Bay coral gardens rivals the Maldives for clarity. Stay overnight — day-trippers from Ishigaki miss the island's real character."
+  },
+  {
+    "id": "kabira-bay",
+    "name": "Kabira Bay",
+    "prefecture": "Okinawa",
+    "address": "川平, Ishigaki City, Okinawa",
+    "website_url": "",
+    "opening_hours": "Glass-bottom boats: 9:00–17:00 year-round; swimming prohibited in the main bay",
+    "tips": "The no-swimming rule is strictly enforced to protect the black pearl oyster farms — this is what keeps the water so extraordinarily clear. The glass-bottom boat tour takes about 30 minutes. Visit early morning for the best light and fewest boats. Sunset at Kabira is extraordinary — the light on the islets turns golden against the blue water."
+  },
+  {
+    "id": "katsuren-castle",
+    "name": "Katsuren Castle Ruins",
+    "prefecture": "Okinawa",
+    "address": "勝連城, Uruma City, Okinawa",
+    "website_url": "",
+    "opening_hours": "Always open (outdoor ruins); visitor centre: 9:00–18:00",
+    "tips": "The panoramic views from the upper ramparts over Katsuren Peninsula and the Pacific are among Okinawa's finest. Less visited than Shuri Castle — often quiet even on weekends. The castle is linked to the warrior lord Amawari's dramatic 15th-century story. Combine with the nearby Kaichu-doro sea road and sea-flooded rice terraces at Chinen."
+  },
+  {
+    "id": "kouri-island",
+    "name": "Kouri Island & Heart Rock",
+    "prefecture": "Okinawa",
+    "address": "Kouri, Nakijin-son, Kunigami-gun, Okinawa 905-0406",
+    "website_url": "",
+    "opening_hours": "Island accessible year-round; bridge: always open; Heart Rock beach: always accessible",
+    "tips": "The 1,960m toll-free bridge gives extraordinary views of turquoise water in both directions. Heart Rock is two naturally eroded heart-shaped stones on a small cove — arrive before 9am to have it to yourself. The island's beaches are among the clearest in Okinawa main island. Rent a bicycle in the village to explore the beaches on the far side."
+  },
+  {
+    "id": "makishi-market",
+    "name": "Makishi Public Market",
+    "prefecture": "Okinawa",
+    "address": "牧志3丁目, Naha City, Okinawa",
+    "website_url": "",
+    "opening_hours": "Mon–Sat 8:00–21:00; Sun 8:00–20:00 (hours vary by stall; upper floor restaurants open during market hours)",
+    "tips": "The market was rebuilt in 2023 — modern building, completely intact energy. Buy raw fish, pork, or sea snake from stalls on the ground floor, carry it upstairs, and have any restaurant cook it for a small fee. The sea grapes (umi-budō), fresh mozuku seaweed, and pig's trotters (tebichi) are Okinawa market staples. Arrive before 11am for the freshest selection."
+  },
+  {
+    "id": "nago-pineapple-park",
+    "name": "Nago Pineapple Park",
+    "prefecture": "Okinawa",
+    "address": "1195 Biimata, Nago, Okinawa 905-0005",
+    "website_url": "https://www.pineapple-park.com",
+    "opening_hours": "9:00–18:00 year-round",
+    "tips": "A surprisingly fun agricultural theme park built around Okinawan pineapple cultivation. The motorised cart tour through the greenhouse tropical garden is a highlight. The pineapple products — wine, jam, soft-serve — are genuinely good. Combine with the American Village at Chatan or Ocean Expo Park for a full northern Okinawa day."
+  },
+  {
+    "id": "kokusai-dori",
+    "name": "Naha Kokusai Dori",
+    "prefecture": "Okinawa",
+    "address": "Kokusai Dori, Naha, Okinawa",
+    "website_url": "",
+    "opening_hours": "Always accessible; shops: 10:00–22:00; restaurants and bars: 11:00–late",
+    "tips": "The side streets off Kokusai-dori (especially Ichiba Hondori and Mutsumi-bashi Street) contain Naha's best local restaurants and awamori bars — the main street is more tourist-facing. Makishi Public Market is a 5-minute walk east. The Tsuboya pottery district is a 10-minute walk southeast. Evening is the liveliest time."
+  },
+  {
+    "id": "nakijin-castle",
+    "name": "Nakijin Castle Ruins",
+    "prefecture": "Okinawa",
+    "address": "5101 Nakijin, Nakijin-son, Kunigami-gun, Okinawa 905-0406",
+    "website_url": "https://www.nakijinjoseki-osi.jp/",
+    "opening_hours": "8:00–18:00 (May–Aug); 8:00–17:30 (Sep–Apr)",
+    "tips": "Nakijin has the longest castle wall in Okinawa — 1.5km of curved coral limestone walls winding along a hilltop. The castle blooms with cherry blossoms in January (Okinawa's cherry season is Japan's earliest) while mainland Japan is still in winter. The view north toward the East China Sea from the upper walls is outstanding."
+  },
+  {
+    "id": "churaumi-aquarium",
+    "name": "Okinawa Churaumi Aquarium",
+    "prefecture": "Okinawa",
+    "address": "424 Ishikawa, Motobu, Kunigami-gun, Okinawa 905-0206",
+    "website_url": "https://churaumi.okinawa/en/",
+    "opening_hours": "8:30–18:30 (last entry 17:30); closed first Wed and Thu of Dec",
+    "tips": "One of the world's great aquariums — the Kuroshio Tank (35m wide, 10m deep) with whale sharks and manta rays is the centrepiece. The outdoor dolphin and manatee shows are included with admission. Book timed entry in advance during Golden Week and summer. Combine with the adjacent Ocean Expo Park (free, with Okinawa native habitats) for a full day."
+  },
+  {
+    "id": "okinawa-peace-memorial-park",
+    "name": "Okinawa Peace Memorial Park",
+    "prefecture": "Okinawa",
+    "address": "444 Mabuni, Itoman, Okinawa 901-0333",
+    "website_url": "https://heiwa-irei-okinawa.jp/",
+    "opening_hours": "Park: always open; Cornerstone of Peace: always accessible; museum: 9:00–17:00 (20:00 in Aug), closed Tue (except Aug)",
+    "tips": "The Cornerstone of Peace lists all 241,000+ names of those who died in the Battle of Okinawa — Japanese, American, Korean, and others together. The cliff-edge setting above the East China Sea amplifies the emotional weight. The museum is the most comprehensive account of the Battle of Okinawa in existence. Allow 2 hours minimum. Combine with Himeyuri Museum (15 min by car)."
+  },
+  {
+    "id": "shikinaen-garden",
+    "name": "Shikinaen Royal Garden",
+    "prefecture": "Okinawa",
+    "address": "421-7 Shikina, Naha, Okinawa 902-0072",
+    "website_url": "",
+    "opening_hours": "9:00–17:30 (last entry 17:00); closed Tue",
+    "tips": "The second royal garden of the Ryukyu Kingdom (18th century) — a UNESCO World Heritage site with reconstructed pavilions, stone bridges, and a spring-fed pond in traditional Ryukyuan garden style. Far less visited than Shuri Castle. The garden is compact but beautifully maintained. Combine with Shuri Castle (15 min by monorail) for a full Ryukyu kingdom day."
+  },
+  {
+    "id": "shuri-castle",
+    "name": "Shuri Castle",
+    "prefecture": "Okinawa",
+    "address": "1-2 Kinjocho, Shuri, Naha, Okinawa 903-0815",
+    "website_url": "https://oki-park.jp/shurijo/en",
+    "opening_hours": "8:00–20:00 (Apr–Jun, Oct–Nov); 8:00–21:00 (Jul–Sep); 8:00–18:00 (Dec–Mar); outer grounds always free",
+    "tips": "Shuri Castle was the palace of the Ryukyu Kingdom for 450 years and a UNESCO World Heritage site — the main hall (Seiden) burned in 2019 and is currently being rebuilt, expected completion 2026. The reconstruction process is visible and educational. The outer stone walls and peripheral buildings are fully accessible. The view of Naha from the castle hill is excellent."
+  },
+  {
+    "id": "sunayama-beach",
+    "name": "Sunayama Beach",
+    "prefecture": "Okinawa",
+    "address": "砂山, Miyakojima City, Okinawa",
+    "website_url": "",
+    "opening_hours": "Beach: always accessible; best light: morning and late afternoon",
+    "tips": "Arrive before 9am to photograph the natural rock arch without crowds — by 10am weekday visitors and by 8am on weekends the cove fills. The sand dune descent to the beach is part of the experience. Snorkeling around the arch base reveals clear water and reef fish. The natural arch appears at its most dramatic in the late afternoon light from the beach below."
+  },
+  {
+    "id": "taketomi-island",
+    "name": "Taketomi Island",
+    "prefecture": "Okinawa",
+    "address": "竹富町竹富, Taketomi-cho, Okinawa",
+    "website_url": "",
+    "opening_hours": "Ferry from Ishigaki: 15 min (runs frequently); island accessible year-round; bicycle rental: from ¥300/hour",
+    "tips": "The most immaculately preserved Ryukyuan village in Japan — white sand lanes, traditional coral-wall houses, and water buffalo carts. Rent a bicycle to circle the tiny island (8km) in 1.5 hours. The Kondoi Beach on the west side has some of the finest sand in Yaeyama. No cars are allowed in the village centre. Stay overnight to experience the village in morning quiet before the day-trip crowds arrive from Ishigaki."
+  },
+  {
+    "id": "tsuboya-pottery",
+    "name": "Tsuboya Pottery District",
+    "prefecture": "Okinawa",
+    "address": "壺屋, Naha City, Okinawa",
+    "website_url": "",
+    "opening_hours": "District always accessible; Tsuboya Pottery Museum: 10:00–18:00, closed Mon",
+    "tips": "The cobblestone Yachimun-dori lane has over 20 active pottery studios and galleries — far more intimate than the larger Yachimun-no-Sato village in Yomitan. The Tsuboya Pottery Museum (¥350) gives excellent context for 300+ years of Okinawan yachimun traditions. Buy shisa guardian lion pairs directly from the makers — prices are significantly lower than airport souvenir shops."
+  },
+  {
+    "id": "yanbaru-national-park",
+    "name": "Yanbaru National Park",
+    "prefecture": "Okinawa",
+    "address": "Kunigami Village, Kunigami-gun, Okinawa 905-1412",
+    "website_url": "",
+    "opening_hours": "Open 24 hours (forest); visitor centers 9:00–17:00",
+    "tips": "This is the only habitat of the Okinawa Rail (yanbaru kuina), a flightless endemic bird. Drive slowly on forest roads at dawn or dusk — you may spot one crossing the road. Bring insect repellent; the subtropical jungle is dense and humid."
+  },
+  {
+    "id": "yonaguni-island",
+    "name": "Yonaguni Island",
+    "prefecture": "Okinawa",
+    "address": "与那国町, Yonaguni-cho, Okinawa",
+    "website_url": "",
+    "opening_hours": "Open 24 hours (outdoor); ferry/flight schedules apply",
+    "tips": "Japan's westernmost point sees the last sunset of Japan each evening — a real novelty. The island is famous for the offshore \"underwater ruins\" dive site and for hammerhead shark schools (Jan–Mar). Car rental is essential as there is no public transport."
+  },
+  {
+    "id": "yonaha-maehama",
+    "name": "Yonaha Maehama Beach",
+    "prefecture": "Okinawa",
+    "address": "与那覇, Miyakojima City, Okinawa",
+    "website_url": "",
+    "opening_hours": "Open 24 hours; beach facilities Apr–Oct 9:00–18:00",
+    "tips": "Repeatedly voted Japan's best beach — the white sand stretches 7 km. The shallow turquoise water is ideal for paddleboarding and kayaking. Stay at a hotel directly on the beach; sunset from here with Kurima Island in the silhouette is unforgettable."
+  },
+  {
+    "id": "zakimi-castle",
+    "name": "Zakimi Castle Ruins",
+    "prefecture": "Okinawa",
+    "address": "座喜味, Yomitan-son, Okinawa",
+    "website_url": "",
+    "opening_hours": "Open 24 hours (ruins); museum 9:00–17:00; free entry",
+    "tips": "One of Okinawa's nine UNESCO World Heritage Ryukyu castles. The double-arch gate is the finest surviving example of Ryukyuan stone masonry. Visit at sunset — the gate frames the East China Sea beautifully. Far less crowded than Shuri Castle."
+  },
+  {
+    "id": "zamami-island",
+    "name": "Zamami Island",
+    "prefecture": "Okinawa",
+    "address": "Zamami, Zamami-son, Shimajiri-gun, Okinawa 901-3311",
+    "website_url": "",
+    "opening_hours": "Ferry from Naha: 50 min (high-speed) or 2 hrs (regular); beaches open 24 hrs",
+    "tips": "Furuzamami Beach consistently ranks among Japan's most beautiful. Rent a bicycle to reach the quieter Ama Beach on the far side. Winter (Jan–Mar) brings humpback whale sightings from shore. The village is tiny — book accommodation months ahead for summer visits."
+  }
+]

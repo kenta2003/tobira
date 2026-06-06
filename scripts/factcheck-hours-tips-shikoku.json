@@ -1,0 +1,362 @@
+[
+  {
+    "id": "cape-sada",
+    "name": "Cape Sada",
+    "prefecture": "Ehime",
+    "address": "Sada, Ikata, Ehime",
+    "website_url": "",
+    "opening_hours": "Monorail: 8:30–17:00 (closed Tue); cape itself always accessible on foot",
+    "tips": "The monorail climbs steep cliffs to the lighthouse with extraordinary views of the Seto Inland Sea and Kyushu on clear days. The cape is technically the westernmost point of Honshu. Sunset timing is ideal for the panorama from the lighthouse."
+  },
+  {
+    "id": "dogo-onsen",
+    "name": "Dogo Onsen",
+    "prefecture": "Ehime",
+    "address": "Dogoyunomachi, Matsuyama, Ehime",
+    "website_url": "https://dogo.jp/",
+    "opening_hours": "Honkan (main building): 6:00–23:00 (last entry 22:00); check renovation status before visiting — Asuka-no-yu open as main alternative",
+    "tips": "The Honkan is one of Japan's oldest public bathhouses and said to be the inspiration for Spirited Away — soak in the first-floor communal bath for the authentic experience. Arrive at 6am to bathe with locals before the tour groups arrive. The renovation has made Asuka-no-yu the primary option; confirm which wings are open on the official site."
+  },
+  {
+    "id": "ishite-ji-temple",
+    "name": "Ishite-ji Temple (Pilgrimage No.51)",
+    "prefecture": "Ehime",
+    "address": "Ishite, Matsuyama, Ehime",
+    "website_url": "",
+    "opening_hours": "Always open (outdoor complex); main hall: 8:00–17:00",
+    "tips": "Temple 51 of the 88-temple Shikoku pilgrimage, and one of the most visually dramatic — the approach is lined with devotional carvings and the complex extends into the cliff face. The Cave of Rebirth (Edo-period tunnel) behind the main hall is a highlight. Located in Matsuyama — combine with Dogo Onsen (20 min by tram) for a complete Matsuyama day."
+  },
+  {
+    "id": "matsuyama-castle",
+    "name": "Matsuyama Castle",
+    "prefecture": "Ehime",
+    "address": "Marunouchi, Matsuyama, Ehime",
+    "website_url": "https://www.matsuyamajo.jp/",
+    "opening_hours": "9:00–17:00 (18:00 Jul–Aug); ropeway: 8:30–17:30 (18:30 Jul–Aug)",
+    "tips": "Built on a 132m rocky peak — take the ropeway up and walk down through the castle grounds for the full circuit. One of Japan's twelve original castle keeps with an outstanding interior. Dogo Onsen is 15 minutes by tram from the castle — the natural combination in Matsuyama. The view of the Seto Inland Sea on clear days stretches to Hiroshima."
+  },
+  {
+    "id": "omishima-island",
+    "name": "Omishima Island",
+    "prefecture": "Ehime",
+    "address": "Omishima, Imabari, Ehime",
+    "website_url": "https://oomishimagu.jp/",
+    "opening_hours": "Oyamazumi Shrine: 8:30–17:00; treasure hall: 8:30–16:30; island accessible year-round",
+    "tips": "Oyamazumi Shrine houses 80% of Japan's designated armour and weapons — the treasure hall is one of the most remarkable collections of samurai arms in the country. The island is connected to Imabari by the Nishiseto Expressway (Shimanami Kaido). Cycling the Shimanami Kaido and stopping at Omishima is the ideal way to visit."
+  },
+  {
+    "id": "ozu-castle",
+    "name": "Ozu Castle",
+    "prefecture": "Ehime",
+    "address": "Ozu, Ozu, Ehime",
+    "website_url": "https://www.ozujou.jp/",
+    "opening_hours": "9:00–17:00 (last entry 16:30); park always open",
+    "tips": "A rare wooden castle reconstruction built in 2004 using 100% traditional techniques and materials — no concrete or modern materials used anywhere. The interior carpentry and joinery are extraordinary. The view of the Hiji River gorge below and the historic machiya town from the keep is outstanding. Combine with the river raft and Ozu town walking tour."
+  },
+  {
+    "id": "shikoku-karst",
+    "name": "Shikoku Karst Plateau",
+    "prefecture": "Ehime",
+    "address": "Kumakogen, Ehime",
+    "website_url": "",
+    "opening_hours": "Always open; road: typically accessible Apr–Nov (check road conditions in winter)",
+    "tips": "The Shikoku Karst plateau runs along the Ehime-Kochi border at 1,400m — the white limestone outcroppings among green highland pasture create a landscape more reminiscent of Ireland than Japan. Wild cows graze among the karst formations. Drive the 15km ridge road for continuous panoramic views of both the Seto Inland Sea and Pacific Ocean on clear days."
+  },
+  {
+    "id": "shimanami-kaido-ehime",
+    "name": "Shimanami Kaido Cycling (Ehime)",
+    "prefecture": "Ehime",
+    "address": "Imabari, Ehime",
+    "website_url": "https://www.go-shimanami.jp/",
+    "opening_hours": "Cycling route: year-round; best Apr–Jun and Sep–Nov; rental bikes at Imabari Station and Oshima Island",
+    "tips": "Starting from Imabari (Ehime side) the route heads northeast to Onomichi through the islands. Kurushima Kaikyo Bridge — three consecutive suspension bridges over a tidal current — is the most dramatic section. Omishima Island's Oyamazumi Shrine (samurai armour treasure hall) is the cultural highlight en route. Hakata cycling terminal on Hakata Island offers good accommodation and excellent seafood."
+  },
+  {
+    "id": "uchiko-town",
+    "name": "Uchiko Preserved Town",
+    "prefecture": "Ehime",
+    "address": "Uchiko, Kita, Ehime",
+    "website_url": "https://www.uchiko.info/",
+    "opening_hours": "Town always accessible; Uchiko-za theatre: 9:00–16:30; Urban Life Archive Museum: 9:00–16:30",
+    "tips": "Uchiko's Yokaichi and Gokoku preservation districts are among Shikoku's finest historic streetscapes — the wax merchant houses from the 19th century are remarkably intact. The Uchiko-za Kabuki theatre (1916) is still in active use. The Kamihaga Residence (wax museum) gives excellent context for Uchiko's historic wood wax (mokuro) industry. Combine with Ozu Castle and Uwajima for a full Ehime interior day."
+  },
+  {
+    "id": "uwajima-castle",
+    "name": "Uwajima Castle",
+    "prefecture": "Ehime",
+    "address": "Uwajima, Ehime",
+    "website_url": "",
+    "opening_hours": "9:00–17:00 (last entry 16:30)",
+    "tips": "One of Japan's twelve original castle keeps — built in 1601, compact and perfectly proportioned. The three-story exterior appears to be five stories due to clever architectural design. The castle sits on a hill above Uwajima city with good views of the Uwa Sea. Combine with the famous Taga-jinja (fertility shrine) and Jakuen-ji gardens for a full Uwajima day."
+  },
+  {
+    "id": "chichibu-ga-hama",
+    "name": "Chichibugahama Beach",
+    "prefecture": "Kagawa",
+    "address": "Mitoyo, Kagawa",
+    "website_url": "",
+    "opening_hours": "Always open (outdoor beach)",
+    "tips": "This is Japan's 'Uyuni' — shallow tidal flats at sunset create a mirror effect most stunning 30–60 minutes before sundown. The effect works best on calm days. Bring rubber sandals as the sand can be silty. Check sunset time before visiting and arrive at least an hour early."
+  },
+  {
+    "id": "kotohiragu-shrine",
+    "name": "Kotohiragu Shrine (Konpira-san)",
+    "prefecture": "Kagawa",
+    "address": "Kotohira, Nakatado, Kagawa",
+    "website_url": "https://www.konpira.or.jp/",
+    "opening_hours": "Shrine grounds: 6:00–18:00; inner shrine (785 steps): 8:00–17:00",
+    "tips": "The 785-stone-step climb to the main hall is the pilgrimage itself — the stone lantern-lined staircase builds anticipation well. Kago sedan chair service (¥6,800 one way) is available for those who need it. The Treasure Hall at step 365 contains Picasso and other Western artworks — an unexpected collection. The view of Sanuki Plain from the top is expansive."
+  },
+  {
+    "id": "marugame-castle",
+    "name": "Marugame Castle",
+    "prefecture": "Kagawa",
+    "address": "Ichiban-cho, Marugame, Kagawa",
+    "website_url": "",
+    "opening_hours": "9:00–16:30 (last entry 16:00); park always open",
+    "tips": "One of Japan's twelve original castle keeps and the one with Japan's finest stone walls — the 'fan-shaped' ishigaki curves are considered a masterpiece of castle engineering. The castle town below is famous for Marugame uchiwa (fan-making), one of Japan's traditional crafts. The keep is compact and the views over the Seto Inland Sea are exceptional."
+  },
+  {
+    "id": "naoshima-island",
+    "name": "Naoshima Island",
+    "prefecture": "Kagawa",
+    "address": "Naoshima, Kagawa",
+    "website_url": "https://benesse-artsite.jp/en/",
+    "opening_hours": "Benesse Museum: 10:00–18:00, closed Mon; Chichu Museum: 10:00–17:00, closed Mon; Art House Project: 10:00–16:30, closed Mon",
+    "tips": "Book Chichu Museum entry in advance online — timed entry is required and weekends sell out. The Art House Project (8 houses in Honmura village) is the most intimate experience. Stay overnight to explore without the day-tripper crowds — evening light on the Yayoi Kusama pumpkin by the sea is exceptional. Ferry from Uno Port (Okayama) takes 20 min."
+  },
+  {
+    "id": "ritsurin-garden",
+    "name": "Ritsurin Koen Garden",
+    "prefecture": "Kagawa",
+    "address": "Ritsurincho, Takamatsu, Kagawa",
+    "website_url": "https://ritsuringarden.jp/",
+    "opening_hours": "7:00–17:00 (extended to 19:00 in some seasons; check website)",
+    "tips": "Ritsurin is arguably Japan's finest traditional garden — six southern ponds and thirteen hills designed around Mt Shiun as a borrowed landscape backdrop. The garden rewards slow walking; find the tea houses (free matcha ceremony ¥620) inside the garden for the most complete experience. Ritsurin is 30 minutes by train from Takamatsu and often overlooked in favour of smaller Shikoku gardens."
+  },
+  {
+    "id": "shiwaku-islands",
+    "name": "Shiwaku Islands",
+    "prefecture": "Kagawa",
+    "address": "Marugame, Kagawa (Shiwaku Islands)",
+    "website_url": "",
+    "opening_hours": "Ferry from Marugame: approximately hourly; island accessible year-round",
+    "tips": "The Shiwaku Islands were the home of Japan's most skilled Edo-era navigators — the merchant marine tradition left behind a cluster of remarkably well-preserved old port towns. Honjima has the best preserved streets; Shiraishi Island has excellent beaches. The islands are now part of the Setouchi Art Festival circuit. Very few foreign tourists visit — genuinely off the beaten path."
+  },
+  {
+    "id": "shodoshima-island",
+    "name": "Shodoshima Island",
+    "prefecture": "Kagawa",
+    "address": "Shodoshima, Shozu, Kagawa",
+    "website_url": "https://www.shodoshima.gr.jp/",
+    "opening_hours": "Ferry from Takamatsu (60 min), Himeji (70 min), or Okayama (70 min); island bus and rental scooter",
+    "tips": "Japan's second-largest island in the Seto Inland Sea — olive cultivation (Japanisland's main producer), soy sauce brewing (Yamasa and Marukin), and Angel Road (a sandbar that appears at low tide) define the island. The Setouchi Art Festival installations are scattered across the island. Rent a scooter for the full island circuit (75km). The Kankakei Ropeway in autumn foliage is outstanding."
+  },
+  {
+    "id": "takamatsu-castle",
+    "name": "Takamatsu Castle (Tamamo Park)",
+    "prefecture": "Kagawa",
+    "address": "Tamamo-cho, Takamatsu, Kagawa",
+    "website_url": "",
+    "opening_hours": "Park: 5:30–23:00; castle ruins and turrets: 8:30–17:00; boat entry across the moat: 9:00–16:30",
+    "tips": "Takamatsu Castle is one of Japan's three great sea castles — originally built directly on the Seto Inland Sea with the moat connected to the tidal water. The surviving turrets and gates are original. Combine with Ritsurin Garden (20 min by tram) for a full Takamatsu historical day."
+  },
+  {
+    "id": "teshima-island",
+    "name": "Teshima Island",
+    "prefecture": "Kagawa",
+    "address": "Teshima, Shozu, Kagawa",
+    "website_url": "https://benesse-artsite.jp/en/art/teshima-artmuseum.html",
+    "opening_hours": "Ferry from Uno Port (Okayama) or Takamatsu; island buses and bicycle rental; Teshima Art Museum: 10:00–17:00, closed Tue",
+    "tips": "The Teshima Art Museum (a concrete shell open to sky and rain, with water pooling naturally on the floor) is one of Asia's most profound contemporary art experiences. Book entry in advance — timed entry required and it sells out on weekends. The island's terraced rice fields reclaimed by local farmers after years of illegal dumping tell a powerful environmental recovery story."
+  },
+  {
+    "id": "yashima-plateau",
+    "name": "Yashima Plateau",
+    "prefecture": "Kagawa",
+    "address": "Yashimahigashi, Takamatsu, Kagawa",
+    "website_url": "",
+    "opening_hours": "Yashimaji Temple 7:00–17:00; observation decks open 24 hrs",
+    "tips": "The plateau offers views of the Seto Inland Sea and, on clear days, Awaji Island. Come for sunset and stay for the \"Yashima no Minoru\" sea-of-clouds phenomenon in early morning. The nearby aquarium has whale sharks."
+  },
+  {
+    "id": "zentsuji-temple",
+    "name": "Zentsuji Temple",
+    "prefecture": "Kagawa",
+    "address": "Zentsuji, Nakatado, Kagawa",
+    "website_url": "",
+    "opening_hours": "5:00–17:00; inner sanctuary ¥500",
+    "tips": "Birthplace of the monk Kukai (Kobo Daishi) and the spiritual starting point of the 88-temple Shikoku Pilgrimage. The 100 miniature statues allow you to complete the entire pilgrimage in one visit. The 5-storied pagoda is a landmark; arrive at dawn when incense smoke drifts through the cedar grove."
+  },
+  {
+    "id": "cape-ashizuri",
+    "name": "Cape Ashizuri",
+    "prefecture": "Kochi",
+    "address": "Ashizuri, Tosashimizu, Kochi",
+    "website_url": "",
+    "opening_hours": "Always open; lighthouse interior: 9:00–17:00 (Sat–Sun only in winter)",
+    "tips": "The cape is the southernmost point of Shikoku and the location of Kongofukuji Temple (Temple 38 of the 88). The clifftop walk on the western side is vertiginous and spectacular. Very remote — plan accommodation in Tosa Shimizu the night before."
+  },
+  {
+    "id": "cape-muroto",
+    "name": "Cape Muroto",
+    "prefecture": "Kochi",
+    "address": "Muroto, Kochi",
+    "website_url": "",
+    "opening_hours": "Always open; lighthouse: 9:00–17:00 (Sat–Sun only)",
+    "tips": "Muroto is where Kobo Daishi attained enlightenment — the cape has genuine spiritual weight. Hotsumisaki-ji Temple (Temple 24 of the 88) sits just above the cape. The drive down the coast from Kochi takes 2 hours — allow a full day. The UNESCO Geopark coastline makes the geology as interesting as the culture."
+  },
+  {
+    "id": "hirome-market",
+    "name": "Hirome Market",
+    "prefecture": "Kochi",
+    "address": "Obiyamachi, Kochi, Kochi",
+    "website_url": "https://hirome.co.jp/",
+    "opening_hours": "Mon–Fri 8:00–23:00; Sat 7:00–23:00; Sun 7:00–22:00",
+    "tips": "Hirome is Kochi's communal food hall — order katsuo no tataki (seared bonito grilled over straw) from one vendor, sake from another, and carry to any empty bench. The bonito tataki here, cooked warayaki-style, is the definitive version. Weekends are extremely lively. Arrive hungry — the social energy of the shared tables is half the experience."
+  },
+  {
+    "id": "katsurahama-beach",
+    "name": "Katsurahama Beach",
+    "prefecture": "Kochi",
+    "address": "Urado, Kochi, Kochi",
+    "website_url": "",
+    "opening_hours": "Beach: always open; Ryoma Museum: 9:00–17:00 year-round",
+    "tips": "The beach is sacred (swimming prohibited) due to the Tosa Shrine overlooking it — but the dramatic waves and rocky coastline are beautiful regardless. The Sakamoto Ryoma Memorial Museum is the main cultural draw — Ryoma, the revolutionary who modernised Japan, was born in Kochi. The tosa fighting dog (one of Japan's most powerful breeds) demonstrations nearby are a local curiosity."
+  },
+  {
+    "id": "kochi-castle",
+    "name": "Kochi Castle",
+    "prefecture": "Kochi",
+    "address": "Marunouchi, Kochi, Kochi",
+    "website_url": "https://kochipark.jp/kochijyo/",
+    "opening_hours": "9:00–17:00 (last entry 16:30); park always open",
+    "tips": "One of Japan's twelve original (non-reconstructed) castle keeps — the interior wooden structure is largely original from 1748. The castle sits on a hill above Kochi city; the park grounds are excellent for cherry blossoms in April. The Sunday Tosa market (Oidono-san market, from 6am) at the castle's east gate is one of Japan's longest-running street markets."
+  },
+  {
+    "id": "nakatosa-whale-watching",
+    "name": "Nakatosa Whale Watching",
+    "prefecture": "Kochi",
+    "address": "Nakatosa, Takaoka, Kochi",
+    "website_url": "",
+    "opening_hours": "Tours: Apr–Oct; departures typically 9:00 and 13:00 from Saga Port; weather-dependent",
+    "tips": "Nakatosa's whale watching targets humpback and blue whales in the deep offshore waters of the Tosa Bay. The success rate is high — humpbacks breach regularly. Book in advance for peak season (May–August). Combine with Katsurahama Beach and Hirome Market for a full Kochi coast day."
+  },
+  {
+    "id": "niyodo-river",
+    "name": "Niyodo River (Nakatsu Gorge)",
+    "prefecture": "Kochi",
+    "address": "Nakatsu Gorge, Ino, Kochi",
+    "website_url": "",
+    "opening_hours": "River accessible year-round; kayaking and swimming: best Jun–Sep; Nakatsu Gorge: accessible daylight hours",
+    "tips": "The Niyodo River runs the clearest water in Japan — a surreal turquoise blue that looks computer-enhanced but is entirely natural. The swimming hole at Ino town (near Tosashimizu) is the best casual access point. Nakatsu Gorge further upstream has dramatic limestone walls. Combine with Tosa Washi paper workshops (Ino town) for a full Kochi inland day."
+  },
+  {
+    "id": "ryugado-cave",
+    "name": "Ryugado Cave",
+    "prefecture": "Kochi",
+    "address": "Tosayamada, Kami, Kochi",
+    "website_url": "https://www.ryugadocave.com/",
+    "opening_hours": "8:30–17:00 (last entry 16:30); adventure course available (book in advance)",
+    "tips": "One of Japan's top three limestone caves — 4km of passages with extraordinary stalactite formations. The standard 1km tourist route is excellent; the adventure course into the unlit back passages requires advance booking and is genuinely challenging. The cave maintains 17°C year-round. Combine with Niyodo River and Hirome Market for a full Kochi day."
+  },
+  {
+    "id": "shimanto-river",
+    "name": "Shimanto River",
+    "prefecture": "Kochi",
+    "address": "Shimanto, Kochi",
+    "website_url": "https://www.shimanto-kankou.com/",
+    "opening_hours": "River accessible year-round; boat tours: Mar–Nov; kayak rental: Apr–Oct; best swimming: Jul–Aug",
+    "tips": "Japan's last major undammed river maintains extraordinary clarity. The submersible bridges (chinkabashi) that disappear underwater during floods rather than having guardrails are unique infrastructure. Kayaking the river is the finest way to experience it — full-day rental from Ekawasaki or Kochi. The Shimanto River Museum in Nishi-Tosa explains the entire river ecology."
+  },
+  {
+    "id": "awa-odori-hall",
+    "name": "Awa Odori Hall",
+    "prefecture": "Tokushima",
+    "address": "Shinmachi, Tokushima, Tokushima",
+    "website_url": "https://awaodori-kaikan.jp/",
+    "opening_hours": "Shows: 11:00, 14:00, 20:00 daily; Museum: 9:00–17:00",
+    "tips": "The evening show (8pm) is the most atmospheric, with audience participation encouraged. The actual Awa Odori Festival in August (12–15th) takes over the entire city — book accommodation months ahead. The hall lets visitors try the distinctive stepping dance movement — lean into it."
+  },
+  {
+    "id": "iya-valley",
+    "name": "Iya Valley",
+    "prefecture": "Tokushima",
+    "address": "Nishi-Iya, Miyoshi, Tokushima",
+    "website_url": "https://www.miyoshi.i-tokushima.jp/",
+    "opening_hours": "Always open; vine bridge: 8:00–18:00 (Apr–Nov)",
+    "tips": "The vine suspension bridges (kazurabashi) bounce noticeably as you cross — hold the handrails. The valley is so steep and narrow that sunlight only reaches the river for a few hours each day. Combine the vine bridge with the Ochiai Village viewpoint (one of Japan's most dramatic traditional settlements on a near-vertical slope) and Oboke Gorge boat tour for a full day."
+  },
+  {
+    "id": "kazurabashi-bridge",
+    "name": "Kazurabashi Vine Bridge",
+    "prefecture": "Tokushima",
+    "address": "Nishi-Iya, Miyoshi, Tokushima",
+    "website_url": "",
+    "opening_hours": "8:00–18:00 year-round (last entry 17:30)",
+    "tips": "The bridge bounces and sways — hold the wisteria vine handrails firmly. The Iya Valley vine bridges are rebuilt every three years using wild mountain vines by local craftsmen. The Nishi-no-Kazurabashi (western bridge, 30 min by car) is less visited and equally dramatic. Combine with the Biwa Waterfall and Oboke Gorge boat tour for a full valley day."
+  },
+  {
+    "id": "mount-tsurugi",
+    "name": "Mount Tsurugi",
+    "prefecture": "Tokushima",
+    "address": "Nishi-Iya, Miyoshi, Tokushima",
+    "website_url": "",
+    "opening_hours": "Ropeway: 9:00–17:00 (varies by season); closed during strong winds; summit accessible year-round on foot",
+    "tips": "Tsurugi ('sword') is Shikoku's second highest peak and a genuine pilgrimage mountain. The ropeway reaches 1,750m; the 20-minute walk to the 1,955m summit is steep. The Tsurugi Jinja shrine at the summit is one of Japan's five great mountain shrines. Clear days reveal the Pacific, Seto Inland Sea, and neighbouring peaks simultaneously."
+  },
+  {
+    "id": "naruto-german-house",
+    "name": "Naruto German House",
+    "prefecture": "Tokushima",
+    "address": "Doichimura, Naruto, Tokushima",
+    "website_url": "https://www.naruto-kankou.jp/",
+    "opening_hours": "9:00–17:00 (last entry 16:30); closed Mon",
+    "tips": "Built to commemorate WWI German POWs held at the nearby Bando camp — the prisoners lived in remarkably humane conditions and introduced Germany's Christmas traditions and music to Japan. Beethoven's 9th Symphony had its Japanese premiere performed here by prisoners. A genuinely moving and obscure piece of history. The reconstruction is authentic and detailed."
+  },
+  {
+    "id": "naruto-whirlpools",
+    "name": "Naruto Whirlpools",
+    "prefecture": "Tokushima",
+    "address": "Naruto, Tokushima",
+    "website_url": "https://www.uzunomichi.jp/",
+    "opening_hours": "Whirlpool walkway: 9:00–17:00; boat tours: 9:00–16:30 (45-min tours departing roughly every hour); tidal effect strongest during spring and autumn tides",
+    "tips": "The whirlpools reach 20m in diameter during the largest tides — check the tide table on the official site (Uzushio timing). The glass-bottomed boat gives the most dramatic close-up view. The Onaruto Bridge walkway (Uzu no Michi) gives a vertigo-inducing view straight down at the whirlpools through glass panels. Arrive 30 minutes before the scheduled peak tidal effect."
+  },
+  {
+    "id": "oboke-gorge",
+    "name": "Oboke Gorge",
+    "prefecture": "Tokushima",
+    "address": "Oboke, Kochi / Tokushima border",
+    "website_url": "",
+    "opening_hours": "Boat tours: Mar–Nov, 9:00–17:00 (last boat 16:00); gorge road always accessible",
+    "tips": "The emerald green water and white marble boulders of the Yoshino River gorge are extraordinary. The sightseeing boat (30 min) is the most relaxing way to see the gorge; the walking trail on the eastern bank gives more dramatic views. Combine with the Kazurabashi vine bridge and Iya Valley for a full Tokushima mountains day."
+  },
+  {
+    "id": "ochiai-village",
+    "name": "Ochiai Village (East Iya Terraced Houses)",
+    "prefecture": "Tokushima",
+    "address": "Higashi-Iya, Miyoshi, Tokushima",
+    "website_url": "",
+    "opening_hours": "Always accessible; viewpoint best in daylight; the village is inhabited — visit respectfully",
+    "tips": "Ochiai sits on a near-vertical slope at 390m — from the viewpoint above, the traditional thatched and slate-roofed houses cascading down the hillside look like a living museum. The village is actually inhabited, making it a rare genuine experience rather than a reconstruction. The 45-minute walk down from the viewpoint through the village is the highlight."
+  },
+  {
+    "id": "ryozenji-temple-1",
+    "name": "Ryozenji Temple (Pilgrimage Start)",
+    "prefecture": "Tokushima",
+    "address": "Bando, Naruto, Tokushima",
+    "website_url": "",
+    "opening_hours": "5:45–17:00; Temple 1 stamp office: 7:00–17:00",
+    "tips": "Temple 1 of the 88 temple Shikoku pilgrimage — the starting point for one of Buddhism's great walks. Even if not doing the full pilgrimage, seeing the white-robed henro (pilgrims) depart from here with walking sticks and bells is a moving experience. The temple itself is well-maintained and the gift shop sells excellent pilgrimage supplies and takoyaki. Naruto Whirlpools are 20 min away."
+  },
+  {
+    "id": "tokushima-castle-ruins",
+    "name": "Tokushima Castle Ruins",
+    "prefecture": "Tokushima",
+    "address": "Johigashimachi, Tokushima, Tokushima",
+    "website_url": "",
+    "opening_hours": "Ruins: always accessible; Tokushima Castle Museum: 9:00–17:00, closed Mon",
+    "tips": "The castle ruins sit on a small mountain in the centre of Tokushima city — the stone walls and moats are well-preserved. The museum covers the Hachisuka clan's history and has outstanding displays of Awa Odori festival floats. The adjacent Senshu Park has excellent cherry blossoms. Combine with the Awa Odori Hall and the 88-temple pilgrimage's first temple (Ryozenji) for a full Tokushima day."
+  }
+]
