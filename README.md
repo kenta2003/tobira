@@ -1,11 +1,11 @@
 # Tobira — 訪日外国人向け 日本観光ガイドサービス
 
-地域・季節・カテゴリから日本各地の観光スポットを探せる、訪日外国人向けの観光ガイド Web アプリケーション。「春に行きたい場所」「自然を楽しめる場所」「歴史・文化を感じられる場所」など、旅行の目的や時期に応じてスポットを絞り込める。地図上での位置確認に加え、**Gemini API を用いて複数の観光スポットを組み合わせたおすすめモデルコースを生成する機能**も実装している。
+地域・季節・カテゴリから日本各地の観光スポットを探せる、訪日外国人向けの観光ガイド Web アプリケーション。「春に行きたい場所」「自然を楽しめる場所」「歴史・文化を感じられる場所」など、旅行の目的や時期に応じてスポットを絞り込める。地図上での位置確認に加え、Gemini API を用いて複数の観光スポットを組み合わせたおすすめモデルコースを生成する機能も実装している。
 
-**3行サマリ**
-- 個人開発で**構想 → 設計 → 実装 → 集客・運用**まで一気通貫で構築した、Next.js + Supabase + Stripe + Gemini API ベースの観光ガイド Web サービス
-- 集客の運用負荷を抑えるため、**Instagram カルーセル投稿の半自動生成パイプライン**（テーマ定義 → スポット選出 → 動的画像生成 → ドラフト → 承認 → 投稿API）を独自実装
-- AI によるスポット情報生成の品質担保として、**「生成 AI による作成 → 確認 AI による一次情報照合 → 人手補完」のファクトチェック フロー**を構築
+**概要**
+- 個人開発で構想 → 設計 → 実装 → 集客・運用まで一気通貫で構築した、Next.js + Supabase + Stripe + Gemini API ベースの観光ガイド Web サービス
+- 集客の運用負荷を抑えるため、Instagram カルーセル投稿の半自動生成パイプライン（テーマ定義 → スポット選出 → 動的画像生成 → ドラフト → 承認 → 投稿 API）を独自実装
+- AI によるスポット情報生成の品質担保として、「生成 AI による作成 → 確認 AI による一次情報照合 → 人手補完」のファクトチェック フローを構築
 
 > 本プロジェクトは個人開発のポートフォリオです。サービス自体は現在停止しています。ローカル環境（`npm run dev`）での動作確認が可能です。
 
@@ -20,9 +20,6 @@ https://github.com/kenta2003/tobira/raw/main/docs/demo.mp4
 ---
 
 ## 1. 作成物の説明（目的・背景）
-
-### 詳細
-地域、季節、カテゴリから日本各地の観光スポットを探せる、訪日外国人向けの観光ガイド Web アプリケーションを個人で開発した。ユーザーは「春に行きたい場所」「自然を楽しめる場所」「歴史・文化を感じられる場所」など、旅行の目的や時期に応じて観光スポットを絞り込むことができる。また、観光スポットの位置を地図上で確認できる機能に加え、**Gemini API を用いて複数の観光スポットを組み合わせたおすすめモデルコースを生成する機能**も実装した。
 
 ### 目的・背景
 長期インターンで旅行領域の LP 制作プロジェクトを主導することになり、Web サイト制作、検索流入の設計、ユーザー導線、コンテンツ改善、運用改善に関する理解をより深めたいと考えた。そこで、LP 単体ではなく、**観光スポット検索・記事コンテンツ・SNS 流入・管理画面・AI によるモデルコース生成までを含む Web サービス**を個人で開発した。実務で得た知識を受け身で学ぶだけでなく、自分で企画から実装、運用改善まで行うことで、ユーザー獲得やサービス改善の全体像を理解することを目的とした。
@@ -45,7 +42,7 @@ https://github.com/kenta2003/tobira/raw/main/docs/demo.mp4
 
 ### 設計
 - ドメインモデル設計（Spot / Region / Category / BlogPost / InstagramDraft / Subscription）
-- データベース スキーマ設計（PostgreSQL / Supabase）+ Row Level Security ポリシー設計
+- データベース スキーマ設計（PostgreSQL / Supabase）
 - API ルート設計（Server Actions と Route Handler の使い分け）
 - 検索流入を意識した URL / ページ構造の設計（スポット・記事ごとに独立した SEO ページ）
 
@@ -96,14 +93,6 @@ https://github.com/kenta2003/tobira/raw/main/docs/demo.mp4
 - そのレポートから UPDATE 文を自動生成するパーサを実装し、`fact_checked_at = NOW()` を付与して Supabase に反映
 - 情報が十分に取得できない場合のみ人が確認・補完する設計とし、**個人開発でありながら情報作成の工数削減と公開情報の品質担保を両立**
 
-### 課題4: 日本地図 TopoJSON の不規則命名（実装上の罠）
-**課題**: react-simple-maps + TopoJSON で日本地図を描画する際、TopoJSON 内の都道府県名プロパティが「`Kyoto Fu`」「`Tokyo To`」のように `<名前> <接尾辞>` 形式で統一されているのに対し、**北海道だけが `Hokkai Do`**（北海 + 道）と分割されていた。汎用的な接尾辞除去だけでは `Hokkai` という存在しない名前になってしまい、地図とアプリ内のデータが結合できない。
-
-**解決アプローチ**:
-- `normalizePrefectureName(nam)` を実装し、北海道を**個別ケースとして最初に処理**してから、それ以外を正規表現で接尾辞除去
-- 沖縄が背景の海色（`#bfdbfe`）と区別しづらかったため `#c026d3`（fuchsia）に変更
-- プロジェクション中心とスケールを実測調整し、本州中心の表示に最適化
-
 ---
 
 ## 4. 技術情報
@@ -121,7 +110,7 @@ https://github.com/kenta2003/tobira/raw/main/docs/demo.mp4
     │
     ├── Supabase
     │     ├── PostgreSQL (spots / blog_posts / instagram_drafts / subscriptions)
-    │     ├── Auth (RLS ベース)
+    │     ├── Auth
     │     └── Storage (spot-images / blog images)
     │
     ├── Google Gemini API (AI モデルコース生成)
@@ -137,7 +126,7 @@ https://github.com/kenta2003/tobira/raw/main/docs/demo.mp4
 | UI ライブラリ | React 19, Tailwind CSS 4, lucide-react |
 | 言語 | TypeScript 5 |
 | 地図 | react-simple-maps (TopoJSON), Leaflet (詳細ページ) |
-| データベース | Supabase (PostgreSQL, RLS, Storage) |
+| データベース | Supabase (PostgreSQL, Storage) |
 | 認証 | Supabase Auth (`@supabase/ssr`) |
 | AI（モデルコース生成） | Google Gemini API (`@google/generative-ai`) |
 | 決済 | Stripe (Checkout, Customer Portal, Webhook) |
@@ -156,8 +145,7 @@ https://github.com/kenta2003/tobira/raw/main/docs/demo.mp4
 ### データベース設計
 - 観光スポット・地域・カテゴリ・ブログ記事・Instagram 投稿ドラフト・モデルコース生成に必要な情報をテーブルとして管理
 - 各データを外部キーで関連付け、複数機能から同一データを再利用できる構成
-- Row Level Security により、ユーザー毎にアクセス可能なリソースを DB レベルで制御
-- 管理画面から観光スポットや投稿ドラフトを更新できるようにし、**Web ページ / Instagram 投稿 / AI モデルコース生成に同じデータを再利用**
+- 管理画面から観光スポットや投稿ドラフトを更新できるようにし、Web ページ / Instagram 投稿 / AI モデルコース生成に同じデータを再利用
 
 ### AI モデルコース生成（Gemini API）
 - ユーザーの条件入力（地域 / 日数 / 興味カテゴリ等）をもとにデータベースから候補スポットを抽出
@@ -202,18 +190,11 @@ Instagram Graph API (Carousel container → publish)
 - Customer Portal によりユーザー自身がサブスク管理できる導線を確保
 
 ### セキュリティ設計
-- Row Level Security による DB アクセス制御
 - 環境変数の厳密な分離（クライアント露出は `NEXT_PUBLIC_` 接頭辞のみ）
 - Stripe Webhook の署名検証
 - Content-Security-Policy / X-Frame-Options / Referrer-Policy / Permissions-Policy をミドルウェアで一括設定
-- Instagram 管理画面・Admin エンドポイントは Supabase 認証 + ADMIN_USER_IDS allowlist で保護
+- Instagram 管理画面・Admin エンドポイントは Supabase 認証 + 管理者 allowlist で保護
 - Upstash Redis によるエンドポイント別レート制限
-
-### コーディング規約
-- TypeScript で `any` 禁止、外部データは `unknown` で受けて narrowing
-- イミュータビリティ（既存オブジェクトの直接変更を避ける、スプレッドで新オブジェクトを返す）
-- React コンポーネントの props は named `interface` / `type`、`React.FC` 不使用
-- 1ファイル 200〜400 行を目安に機能/ドメイン単位で分割
 
 ---
 
